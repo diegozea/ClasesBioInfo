@@ -1,0 +1,1180 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.2.29+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 16AKYWNR01N
+
+
+Database: Nucleotide collection (nt)
+           24,663,954 sequences; 65,728,965,084 total letters
+Query= 
+Length=700
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+ref|XM_002366314.1|  Toxoplasma gondii ME49 NAD-dependent deac...   1258   0.0  
+ref|XM_008883857.1|  Hammondia hammondi histone deacetylase SI...   1195   0.0  
+dbj|AK318171.1|  Toxoplasma gondii cDNA, clone: XTG08308.2, fu...   1171   0.0  
+ref|XM_003884149.1|  Neospora caninum Liverpool putative NAD-d...    765   0.0  
+emb|FR823391.1|  Neospora caninum Liverpool complete genome, c...    282   4e-72
+gb|CP000769.1|  Anaeromyxobacter sp. Fw109-5, complete genome      69.8    4e-08
+gb|CP000473.1|  Solibacter usitatus Ellin6076, complete genome     66.2    5e-07
+dbj|AP014637.1|  Pseudomonas sp. StFLB209 DNA, complete genome     64.4    2e-06
+gb|CP006958.1|  Achromobacter xylosoxidans NBRC 15126 = ATCC 2...  64.4    2e-06
+emb|HE798385.1|  Achromobacter xylosoxidans NH44784-1996 compl...  64.4    2e-06
+ref|XM_008817388.1|  Plasmodium inui San Antonio 1 hypothetica...  60.8    2e-05
+gb|CP003382.1|  Deinococcus peraridilitoris DSM 19664, complet...  57.2    3e-04
+gb|CP002620.1|  Pseudomonas mendocina NK-01, complete genome       57.2    3e-04
+gb|CP002085.1|  Desulfarculus baarsii DSM 2075, complete genome    57.2    3e-04
+gb|CP000859.1|  Desulfococcus oleovorans Hxd3, complete genome     57.2    3e-04
+gb|CP000713.1|  Psychrobacter sp. PRwf-1, complete genome          57.2    3e-04
+gb|CP000644.1|  Aeromonas salmonicida subsp. salmonicida A449,...  57.2    3e-04
+gb|CP007441.1|  Pseudomonas stutzeri strain 28a24, complete ge...  55.4    0.001
+emb|FN563149.1|  Rhodococcus equi 103S chromosome                  55.4    0.001
+gb|CP001359.1|  Anaeromyxobacter dehalogenans 2CP-1, complete ...  55.4    0.001
+gb|CP001131.1|  Anaeromyxobacter sp. K, complete genome            55.4    0.001
+gb|CP000463.1|  Rhodopseudomonas palustris BisA53, complete ge...  55.4    0.001
+gb|CP000251.1|  Anaeromyxobacter dehalogenans 2CP-C, complete ...  55.4    0.001
+gb|CP002546.1|  Planctomyces brasiliensis DSM 5305, complete g...  53.6    0.003
+gb|CP001744.1|  Planctomyces limnophilus DSM 3776, complete ge...  53.6    0.003
+gb|CP002607.1|  Aeromonas veronii B565, complete genome            51.8    0.011
+ref|XM_004433999.1|  PREDICTED: Ceratotherium simum simum X-ra...  50.0    0.039
+ref|XM_004433998.1|  PREDICTED: Ceratotherium simum simum X-ra...  50.0    0.039
+gb|AE009441.1|  Pyrobaculum aerophilum str. IM2, complete genome   50.0    0.039
+emb|LK391695.1|  Pseudomonas pseudoalcaligenes genome assembly...  48.2    0.14 
+emb|HG916826.1|  Pseudomonas pseudoalcaligenes CECT 5344 compl...  48.2    0.14 
+gb|KF715620.1|  Uncultured organism clone contig000001 genomic...  48.2    0.14 
+dbj|AP014508.1|  Thermotoga hypogea NBRC 106472 DNA, complete ...  48.2    0.14 
+gb|CP005976.1|  Pseudomonas putida H8234, complete genome          48.2    0.14 
+gb|CP002431.1|  Desulfovibrio aespoeensis Aspo-2, complete genome  48.2    0.14 
+emb|FP565814.1|  Salinibacter ruber M8 chromosome, complete ge...  48.2    0.14 
+gb|CP001867.1|  Geodermatophilus obscurus DSM 43160, complete ...  48.2    0.14 
+gb|CP001804.1|  Haliangium ochraceum DSM 14365, complete genome    48.2    0.14 
+ref|XM_001843219.1|  Culex quinquefasciatus NAD-dependent deac...  48.2    0.14 
+gb|CP000494.1|  Bradyrhizobium sp. BTAi1, complete genome          48.2    0.14 
+gb|CP000493.1|  Hyperthermus butylicus DSM 5456, complete genome   48.2    0.14 
+emb|HE956757.1|  Methylocystis sp. SC2 complete genome             46.4    0.47 
+gb|CP002191.1|  Deinococcus gobiensis I-0, complete genome         46.4    0.47 
+gb|CP003098.1|  Pyrobaculum sp. 1860, complete genome              46.4    0.47 
+dbj|AP012222.1|  Sphingobium sp. SYK-6 DNA, complete genome        46.4    0.47 
+gb|CP002638.1|  Verrucosispora maris AB-18-032, complete genome    46.4    0.47 
+ref|XM_002609817.1|  Branchiostoma floridae hypothetical prote...  46.4    0.47 
+emb|FM211192.1|  Mycobacterium leprae Br4923, complete genome ...  46.4    0.47 
+emb|AL583922.1|  Mycobacterium leprae strain TN complete genom...  46.4    0.47 
+emb|LK931720.1|  Sphingobacterium sp. PM2-P1-29 genome assembl...  44.6    1.6  
+
+ALIGNMENTS
+>ref|XM_002366314.1| Toxoplasma gondii ME49 NAD-dependent deacetylase, putative, mRNA
+Length=1976
+
+ Score =  1258 bits (1394),  Expect = 0.0
+ Identities = 699/700 (99%), Gaps = 0/700 (0%)
+ Strand=Plus/Minus
+
+Query  1     ACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAAC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1654  ACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAAC  1595
+
+Query  61    CAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAAT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1594  CAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAAT  1535
+
+Query  121   GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1534  GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  1475
+
+Query  181   AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCC  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1474  AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCC  1415
+
+Query  241   ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1414  ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  1355
+
+Query  301   CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  360
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1354  CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  1295
+
+Query  361   CTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAA  420
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1294  CTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAA  1235
+
+Query  421   ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  480
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1234  ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  1175
+
+Query  481   TACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCC  540
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1174  TACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCC  1115
+
+Query  541   ACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTC  600
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1114  ACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTC  1055
+
+Query  601   ATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGC  660
+             ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  1054  ATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGTTGCAGC  995
+
+Query  661   TTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCA  700
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  994   TTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCA  955
+
+
+>ref|XM_008883857.1| Hammondia hammondi histone deacetylase SIR2 partial mRNA
+Length=1086
+
+ Score =  1195 bits (1324),  Expect = 0.0
+ Identities = 685/700 (98%), Gaps = 0/700 (0%)
+ Strand=Plus/Minus
+
+Query  1    ACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAAC  60
+            |||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||
+Sbjct  960  ACGCATCGCCCGATATGGCAAGCCAGAGGCAGGGCTGACAGAAGCGCTTGTCCCAACAAC  901
+
+Query  61   CAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAAT  120
+            |||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  900  CAAAAGCAAGTCACACTTGTCCACTTCTCGATTCGCATCCCGCACGGCGTTCGCTGGAAT  841
+
+Query  121  GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  840  GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  781
+
+Query  181  AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCC  240
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  780  AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGAGGCATTTTCTTCCC  721
+
+Query  241  ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  720  ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  661
+
+Query  301  CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  660  CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  601
+
+Query  361  CTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAA  420
+            ||||||||||||||||||||||||||||||||| |||||||| ||||||||||||| |||
+Sbjct  600  CTGGAGATCTGTTAACGCCACATGCGCCGCATTTGGCATCGGATCATTTGTCCTCATGAA  541
+
+Query  421  ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  480
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540  ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  481
+
+Query  481  TACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCC  540
+            |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  480  TACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAACGTCGGAATGCC  421
+
+Query  541  ACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTC  600
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  420  ACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTC  361
+
+Query  601  ATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGC  660
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||
+Sbjct  360  ATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGTTGCGGC  301
+
+Query  661  TTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCA  700
+            ||||||||||| ||| |||| ||||||||||||| |||||
+Sbjct  300  TTGCCCCATGTTGTCCCTCTCGTGGTAGTCACTTTCCGCA  261
+
+
+>dbj|AK318171.1| Toxoplasma gondii cDNA, clone: XTG08308.2, full cDNA, XTG Sugano 
+cDNA library
+Length=2167
+
+ Score =  1171 bits (1298),  Expect = 0.0
+ Identities = 699/746 (94%), Gaps = 46/746 (6%)
+ Strand=Plus/Minus
+
+Query  1     ACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAAC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1693  ACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAAC  1634
+
+Query  61    CAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAAT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1633  CAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAAT  1574
+
+Query  121   GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1573  GCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGG  1514
+
+Query  181   AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCC  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1513  AAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCC  1454
+
+Query  241   ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1453  ACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCC  1394
+
+Query  301   CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  360
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1393  CGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCT  1334
+
+Query  361   CTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAA  420
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1333  CTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAA  1274
+
+Query  421   ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  480
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1273  ATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTA  1214
+
+Query  481   TACCGTCGGGTCATAT--------------------------------------------  496
+             ||||||||||||||||                                            
+Sbjct  1213  TACCGTCGGGTCATATGGAATGCCAACAACACAGTCTTTCGCAGTGCCACGCGCCACTTT  1154
+
+Query  497   --TTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGA  554
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1153  ACTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGA  1094
+
+Query  555   CCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCATCGGCGAGGTCTT  614
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1093  CCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCATCGGCGAGGTCTT  1034
+
+Query  615   CAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGCTTGCCCCATGTCGT  674
+             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  1033  CAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGTTGCAGCTTGCCCCATGTCGT  974
+
+Query  675   CTCTCTGGTGGTAGTCACTTCCCGCA  700
+             ||||||||||||||||||||||||||
+Sbjct  973   CTCTCTGGTGGTAGTCACTTCCCGCA  948
+
+
+>ref|XM_003884149.1| Neospora caninum Liverpool putative NAD-dependent deacetylase 
+(NCLIV_045990) mRNA, complete cds
+Length=888
+
+ Score =   765 bits (848),  Expect = 0.0
+ Identities = 577/679 (85%), Gaps = 0/679 (0%)
+ Strand=Plus/Minus
+
+Query  2    CGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAACC  61
+            |||| |||||| || ||||||  |||||| ||   |||||||||||| || |||||||||
+Sbjct  716  CGCAACGCCCGGTACGGCAAGCTAGAGGCTGGAGAGACAGAAGCGCTCGTGCCAACAACC  657
+
+Query  62   AAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAATG  121
+            || || ||||| || || ||||||||||||||||||| | |||||||||  || ||||||
+Sbjct  656  AAGAGAAGGTCGCATTTATCCACTTCTCGATTCGCGTTCTGCACGGCGTGGGCCGGAATG  597
+
+Query  122  CCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGGA  181
+            ||||| |||||||||||  | ||||| |||||||| ||||| || |||||||| ||||| 
+Sbjct  596  CCTTCCCCAAACAGAATGGCGTCGGGCTTGAAGATACCGCCGCACGCGCACTTAGGGGGT  537
+
+Query  182  AGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCCA  241
+            || ||||| | |||||| || ||||||||||| |||||||| ||| ||| ||||| ||| 
+Sbjct  536  AGCTCCTTGGTGAAGTTGTCGTCTTGCAGCATGGACTTGGACAGAGGCAATTTCTCCCCG  477
+
+Query  242  CATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCCC  301
+            ||| ||| |||||| ||||||||||| ||||| || |||||||||||||| || || || 
+Sbjct  476  CATCGCCTGCACGTTGCAGAGAGAAGGCTACCATGATACTCGATGACGTTAGTAGACCCT  417
+
+Query  302  GAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCTC  361
+            |||||||||||||||||||| ||||||||||| |||||| |||||||||| ||||||| |
+Sbjct  416  GAGTCCTGGTGAAGATTGTCGACGTTCTGCGTCACAATGGATTTCAGGTATCCAAGCCGC  357
+
+Query  362  TGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAAA  421
+            ||||||||||||||||| | ||| |||| ||| ||||  ||||| |||| || || ||||
+Sbjct  356  TGGAGATCTGTTAACGCTATATGAGCCGGATTTGGCACGGGGTCGTTTGACCGCATGAAA  297
+
+Query  422  TCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTAT  481
+            ||  ||||||| ||||||||||| || |||| ||||||||| ||||||| |||||| |||
+Sbjct  296  TCATGGAGAAGTTCCCAGATCTTCTGTGGGTGTCGCCAGAATCCCCAAACTGTCGCATAT  237
+
+Query  482  ACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCA  541
+            |||| ||||||||||||| ||||||||||||| || || |||||||| || |||||||||
+Sbjct  236  ACCGCCGGGTCATATTTCGTCCACAAGCCGTCCGACGGGTCGCGGAACGTTGGAATGCCA  177
+
+Query  542  CTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCA  601
+            || || |||||||| |||||||| ||||| |||||||||||||| |||| ||||| ||||
+Sbjct  176  CTCTCCGCAGAGACACCCGCGCCCGTGAGCGCCACGACATATTTGGCCTGCCGAATGTCA  117
+
+Query  602  TCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGCT  661
+            |||||||| ||||| ||||||||||||| ||||| ||||||||| ||| ||||| | |||
+Sbjct  116  TCGGCGAGATCTTCGAAAGAGATGAACGCCGTGTCTTTCTTCTGAAAATATGTTACCGCT  57
+
+Query  662  TGCCCCATGTCGTCTCTCT  680
+            ||||||||||| |||| ||
+Sbjct  56   TGCCCCATGTCTTCTCCCT  38
+
+
+>emb|FR823391.1| Neospora caninum Liverpool complete genome, chromosome X
+Length=6985512
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   282 bits (312),  Expect = 4e-72
+ Identities = 206/239 (86%), Gaps = 0/239 (0%)
+ Strand=Plus/Plus
+
+Query  258     CAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCCCGAGTCCTGGTGAAGAT  317
+               |||||||||| ||||| || |||||||||||||| || || || ||||||||||||||||
+Sbjct  984454  CAGAGAGAAGGCTACCATGATACTCGATGACGTTAGTAGACCCTGAGTCCTGGTGAAGAT  984513
+
+Query  318     TGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCTCTGGAGATCTGTTAACG  377
+               |||| ||||||||||| |||||| |||||||||| ||||||| |||||||||||||||||
+Sbjct  984514  TGTCGACGTTCTGCGTCACAATGGATTTCAGGTATCCAAGCCGCTGGAGATCTGTTAACG  984573
+
+Query  378     CCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAAATCGAGGAGAAGCTCCC  437
+               | | ||| |||| ||| ||||  ||||| |||| || || ||||||  ||||||| ||||
+Sbjct  984574  CTATATGAGCCGGATTTGGCACGGGGTCGTTTGACCGCATGAAATCATGGAGAAGTTCCC  984633
+
+Query  438     AGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTATACCGTCGGGTCATAT  496
+               ||||||| || |||| ||||||||| ||||||| |||||| ||||||| ||||||||||
+Sbjct  984634  AGATCTTCTGTGGGTGTCGCCAGAATCCCCAAACTGTCGCATATACCGCCGGGTCATAT  984692
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   179 bits (198),  Expect = 3e-41
+ Identities = 143/172 (83%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  2       CGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAACC  61
+               |||| |||||| || ||||||  |||||| ||   |||||||||||| || |||||||||
+Sbjct  983249  CGCAACGCCCGGTACGGCAAGCTAGAGGCTGGAGAGACAGAAGCGCTCGTGCCAACAACC  983308
+
+Query  62      AAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAATG  121
+               || || ||||| || || ||||||||||||||||||| | |||||||||  || ||||||
+Sbjct  983309  AAGAGAAGGTCGCATTTATCCACTTCTCGATTCGCGTTCTGCACGGCGTGGGCCGGAATG  983368
+
+Query  122     CCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACT  173
+               ||||| |||||||||||  | ||||| |||||||| ||||| || |||||||
+Sbjct  983369  CCTTCCCCAAACAGAATGGCGTCGGGCTTGAAGATACCGCCGCACGCGCACT  983420
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   118 bits (130),  Expect = 9e-23
+ Identities = 88/103 (85%), Gaps = 0/103 (0%)
+ Strand=Plus/Plus
+
+Query  578     ACATATTTTGCCTTCCGAACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTT  637
+               || || || |||| ||||| |||||||||||| ||||| ||||||||||||| ||||| |
+Sbjct  985496  ACGTACTTGGCCTGCCGAATGTCATCGGCGAGATCTTCGAAAGAGATGAACGCCGTGTCT  985555
+
+Query  638     TTCTTCTGGAAAAATGTTGCAGCTTGCCCCATGTCGTCTCTCT  680
+               |||||||| ||| ||||| | |||||||||||||| |||| ||
+Sbjct  985556  TTCTTCTGAAAATATGTTACCGCTTGCCCCATGTCTTCTCCCT  985598
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   107 bits (118),  Expect = 2e-19
+ Identities = 76/87 (87%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  497     TTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACC  556
+               ||| ||||||||||||| || || |||||||| || ||||||||||| || |||||||| 
+Sbjct  985175  TTCGTCCACAAGCCGTCCGACGGGTCGCGGAACGTTGGAATGCCACTCTCCGCAGAGACA  985234
+
+Query  557     CCCGCGCCGGTGAGAGCCACGACATAT  583
+               |||||||| ||||| ||||||||||||
+Sbjct  985235  CCCGCGCCCGTGAGCGCCACGACATAT  985261
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score = 86.0 bits (94),  Expect = 5e-13
+ Identities = 71/87 (82%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  172     CTTCGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCAT  231
+               ||| ||||| || ||||| | |||||| || ||||||||||| |||||||| ||| ||| 
+Sbjct  983718  CTTAGGGGGTAGCTCCTTGGTGAAGTTGTCGTCTTGCAGCATGGACTTGGACAGAGGCAA  983777
+
+Query  232     TTTCTTCCCACATTGCCGGCACGTAGC  258
+               ||||| ||| ||| ||| |||||| ||
+Sbjct  983778  TTTCTCCCCGCATCGCCTGCACGTTGC  983804
+
+
+>gb|CP000769.1| Anaeromyxobacter sp. Fw109-5, complete genome
+Length=5277990
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 69.8 bits (76),  Expect = 4e-08
+ Identities = 50/58 (86%), Gaps = 0/58 (0%)
+ Strand=Plus/Minus
+
+Query  522     CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+               ||||||| ||||| || || || ||||| ||||||||||||||||||||||| || ||
+Sbjct  450633  CGCGGAAGGTCGGGATCCCGCTCTCGGCGGAGACCCCCGCGCCGGTGAGAGCGACCAC  450576
+
+
+>gb|CP000473.1| Solibacter usitatus Ellin6076, complete genome
+Length=9965640
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 66.2 bits (72),  Expect = 5e-07
+ Identities = 61/77 (79%), Gaps = 3/77 (4%)
+ Strand=Plus/Plus
+
+Query  494      TATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAG  553
+                || |||||||||||||||||   |  | ||||||| || || ||||| |||||||| || 
+Sbjct  8874118  TAATTCTTCCACAAGCCGTC---GTCACCGCGGAAGGTAGGTATGCCGCTTTCGGCTGAA  8874174
+
+Query  554      ACCCCCGCGCCGGTGAG  570
+                |  || |||||||||||
+Sbjct  8874175  ATTCCAGCGCCGGTGAG  8874191
+
+
+>dbj|AP014637.1| Pseudomonas sp. StFLB209 DNA, complete genome
+Length=6332373
+
+ Score = 64.4 bits (70),  Expect = 2e-06
+ Identities = 62/80 (78%), Gaps = 0/80 (0%)
+ Strand=Plus/Minus
+
+Query  520      ATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                ||| | ||| |||||||| ||||||||||| ||  | || |||||||||| | |||||||
+Sbjct  4983463  ATCTCTGAAGGTCGGAATACCACTTTCGGCTGATGCACCGGCGCCGGTGAAAACCACGAC  4983404
+
+Query  580      ATATTTTGCCTTCCGAACGT  599
+                 | ||| ||   ||||| ||
+Sbjct  4983403  GTGTTTGGCTACCCGAAGGT  4983384
+
+
+>gb|CP006958.1| Achromobacter xylosoxidans NBRC 15126 = ATCC 27061, complete 
+genome
+Length=6683584
+
+ Features in this part of subject sequence:
+   NAD-dependent protein deacetylase of SIR2 family
+
+ Score = 64.4 bits (70),  Expect = 2e-06
+ Identities = 57/69 (83%), Gaps = 2/69 (3%)
+ Strand=Plus/Minus
+
+Query  502      CCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCG  560
+                ||| | |||| |||| ||||||||||||||| |  ||||| |||||||| || || || |
+Sbjct  4856372  CCAGAGGCCGGTCAG-GGGATCGCGGAATGTGGCGATGCCGCTTTCGGCCGACACGCCGG  4856314
+
+Query  561      CGCCGGTGA  569
+                |||||||||
+Sbjct  4856313  CGCCGGTGA  4856305
+
+
+>emb|HE798385.1| Achromobacter xylosoxidans NH44784-1996 complete genome
+Length=6916670
+
+ Features in this part of subject sequence:
+   NAD-dependent protein deacetylase of SIR2 family
+
+ Score = 64.4 bits (70),  Expect = 2e-06
+ Identities = 57/69 (83%), Gaps = 2/69 (3%)
+ Strand=Plus/Minus
+
+Query  502      CCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCG  560
+                ||| | |||| |||| ||||||||||||||| |  ||||| |||||||| || || || |
+Sbjct  6604490  CCAGAGGCCGGTCAG-GGGATCGCGGAATGTGGCGATGCCGCTTTCGGCCGACACGCCGG  6604432
+
+Query  561      CGCCGGTGA  569
+                |||||||||
+Sbjct  6604431  CGCCGGTGA  6604423
+
+
+>ref|XM_008817388.1| Plasmodium inui San Antonio 1 hypothetical protein partial mRNA
+Length=945
+
+ Score = 60.8 bits (66),  Expect = 2e-05
+ Identities = 48/58 (83%), Gaps = 0/58 (0%)
+ Strand=Plus/Minus
+
+Query  116  GGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACT  173
+            |||||| |||||||||| |||| ||| |  |||||||||||||| ||||| |  ||||
+Sbjct  557  GGAATGACTTCTCCAAAAAGAACCACGTTCGGTTTGAAGATTCCTCCACAGGGACACT  500
+
+
+>gb|CP003382.1| Deinococcus peraridilitoris DSM 19664, complete genome
+Length=3881839
+
+ Features in this part of subject sequence:
+   NAD-dependent protein deacetylase, SIR2 family
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 56/70 (80%), Gaps = 2/70 (3%)
+ Strand=Plus/Plus
+
+Query  502      CCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCG  560
+                ||||| |||| || | | | || ||||| ||||||||||| |||||||| || | |||||
+Sbjct  1155845  CCACAGGCCGGTCTGTGCG-TCACGGAAAGTCGGAATGCCGCTTTCGGCTGAAATCCCCG  1155903
+
+Query  561      CGCCGGTGAG  570
+                | ||||| ||
+Sbjct  1155904  CACCGGTCAG  1155913
+
+
+>gb|CP002620.1| Pseudomonas mendocina NK-01, complete genome
+Length=5434353
+
+ Features in this part of subject sequence:
+   silent information regulator protein Sir2
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 55/70 (79%), Gaps = 3/70 (4%)
+ Strand=Plus/Plus
+
+Query  502      CCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGC  561
+                ||| | |||||||| ||   ||||||| ||  | ||||| |||||||| ||||  || ||
+Sbjct  1002952  CCAGAGGCCGTCAGCGG---CGCGGAAGGTGCGTATGCCGCTTTCGGCGGAGATACCGGC  1003008
+
+Query  562      GCCGGTGAGA  571
+                ||||||||||
+Sbjct  1003009  GCCGGTGAGA  1003018
+
+
+>gb|CP002085.1| Desulfarculus baarsii DSM 2075, complete genome
+Length=3655731
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 68/92 (74%), Gaps = 3/92 (3%)
+ Strand=Plus/Minus
+
+Query  488      GGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCG  547
+                ||||| ||||| | ||||| ||| |  |||    |||| || | ||||||||| ||||||
+Sbjct  2952976  GGGTCGTATTTTTCCCACAGGCCCTGTGAGC---CGCGAAAGGCCGGAATGCCGCTTTCG  2952920
+
+Query  548      GCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                 |   ||| ||||||||||| || ||  ||||
+Sbjct  2952919  ACGCTGACGCCCGCGCCGGTCAGCGCGGCGAC  2952888
+
+
+>gb|CP000859.1| Desulfococcus oleovorans Hxd3, complete genome
+Length=3944167
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 52/65 (80%), Gaps = 3/65 (5%)
+ Strand=Plus/Plus
+
+Query  502      CCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGC  561
+                ||||| |||| |   |||||||||||| || |||||||| ||||| || || ||||| ||
+Sbjct  3872051  CCACACGCCGCC---GGGATCGCGGAACGTGGGAATGCCGCTTTCCGCGGAAACCCCGGC  3872107
+
+Query  562      GCCGG  566
+                 ||||
+Sbjct  3872108  CCCGG  3872112
+
+
+>gb|CP000713.1| Psychrobacter sp. PRwf-1, complete genome
+Length=2978976
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 43/51 (84%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  520     ATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+               ||| ||||| || ||||| |||||||||||||||| |||||| || || ||
+Sbjct  724227  ATCACGGAAGGTTGGAATACCACTTTCGGCAGAGATCCCCGCTCCAGTCAG  724277
+
+
+>gb|CP000644.1| Aeromonas salmonicida subsp. salmonicida A449, complete genome
+Length=4702402
+
+ Features in this part of subject sequence:
+   NAD-dependent protein deacetylase, Sir2 family
+
+ Score = 57.2 bits (62),  Expect = 3e-04
+ Identities = 69/92 (75%), Gaps = 4/92 (4%)
+ Strand=Plus/Minus
+
+Query  498      TCTTCC-ACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACC  556
+                |||||| ||||||||||| ||| |   ||||| |||   |||||   |||||||||||  
+Sbjct  2089188  TCTTCCCACAAGCCGTCACAGGCA---CGGAAGGTCTTGATGCCGGATTCGGCAGAGATA  2089132
+
+Query  557      CCCGCGCCGGTGAGAGCCACGACATATTTTGC  588
+                || |||||||| |||   |||| || ||| ||
+Sbjct  2089131  CCGGCGCCGGTAAGAATGACGATATGTTTCGC  2089100
+
+
+>gb|CP007441.1| Pseudomonas stutzeri strain 28a24, complete genome
+Length=4731359
+
+ Features in this part of subject sequence:
+   NAD-dependent deacetylase
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 41/48 (85%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  520      ATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGT  567
+                ||||||||| |||||||||||||| || || ||||| || || |||||
+Sbjct  2302461  ATCGCGGAAGGTCGGAATGCCACTCTCTGCCGAGACGCCAGCACCGGT  2302508
+
+
+>emb|FN563149.1| Rhodococcus equi 103S chromosome
+Length=5043170
+
+ Features in this part of subject sequence:
+   putative secreted NAD-dependent deacetylase
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 63/82 (77%), Gaps = 2/82 (2%)
+ Strand=Plus/Plus
+
+Query  499      CTTCCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCC  557
+                || |||||||||| || | | | || ||||| |||||||||||||| || || || |  |
+Sbjct  1651966  CTCCCACAAGCCGGTCTGCGCG-TCCCGGAACGTCGGAATGCCACTCTCCGCGGACATTC  1652024
+
+Query  558      CCGCGCCGGTGAGAGCCACGAC  579
+                | |||||| |||   |||||||
+Sbjct  1652025  CGGCGCCGCTGAACACCACGAC  1652046
+
+
+>gb|CP001359.1| Anaeromyxobacter dehalogenans 2CP-1, complete genome
+Length=5029329
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 47/58 (81%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  522      CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                ||||||| || || ||||| || || || |||| ||| ||||||||||| ||||| ||
+Sbjct  4656584  CGCGGAACGTGGGGATGCCGCTCTCCGCCGAGATCCCGGCGCCGGTGAGCGCCACCAC  4656641
+
+
+>gb|CP001131.1| Anaeromyxobacter sp. K, complete genome
+Length=5061632
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 47/58 (81%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  522      CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                ||||||| || || ||||| || || || |||| ||| ||||||||||| ||||| ||
+Sbjct  4681325  CGCGGAACGTGGGGATGCCGCTCTCCGCCGAGATCCCGGCGCCGGTGAGCGCCACCAC  4681382
+
+
+>gb|CP000463.1| Rhodopseudomonas palustris BisA53, complete genome
+Length=5505494
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 45/55 (82%), Gaps = 0/55 (0%)
+ Strand=Plus/Plus
+
+Query  524      CGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGA  578
+                |||||   ||||||||| |||||||  ||||  ||||||||||||| || |||||
+Sbjct  3272926  CGGAAATCCGGAATGCCGCTTTCGGTGGAGATGCCCGCGCCGGTGAAAGGCACGA  3272980
+
+
+>gb|CP000251.1| Anaeromyxobacter dehalogenans 2CP-C, complete genome
+Length=5013479
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 55.4 bits (60),  Expect = 0.001
+ Identities = 47/58 (81%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  522      CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                ||||||| || || ||||| || || || |||| ||| ||||||||||| ||||| ||
+Sbjct  4639502  CGCGGAACGTGGGGATGCCGCTCTCCGCGGAGATCCCGGCGCCGGTGAGCGCCACCAC  4639559
+
+
+>gb|CP002546.1| Planctomyces brasiliensis DSM 5305, complete genome
+Length=6006602
+
+ Features in this part of subject sequence:
+   NAD-dependent deacetylase
+
+ Score = 53.6 bits (58),  Expect = 0.003
+ Identities = 53/68 (78%), Gaps = 3/68 (4%)
+ Strand=Plus/Plus
+
+Query  502     CCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGC  561
+               ||| ||||||||||    |||||| || || |||||||||||||| ||||| |  || ||
+Sbjct  957326  CCAGAAGCCGTCAGC---ATCGCGAAAGGTGGGAATGCCACTTTCTGCAGACATACCGGC  957382
+
+Query  562     GCCGGTGA  569
+                |||| ||
+Sbjct  957383  TCCGGAGA  957390
+
+
+>gb|CP001744.1| Planctomyces limnophilus DSM 3776, complete genome
+Length=5423075
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 53.6 bits (58),  Expect = 0.003
+ Identities = 60/80 (75%), Gaps = 3/80 (4%)
+ Strand=Plus/Minus
+
+Query  499      CTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCC  558
+                || ||| ||||| |||  |   || || ||||| |||||||||||||| | ||||| |||
+Sbjct  1953283  CTGCCAAAAGCCATCATTG---TCTCGAAATGTAGGAATGCCACTTTCCGAAGAGATCCC  1953227
+
+Query  559      CGCGCCGGTGAGAGCCACGA  578
+                 || || || | | ||||||
+Sbjct  1953226  AGCTCCCGTAAAAACCACGA  1953207
+
+
+>gb|CP002607.1| Aeromonas veronii B565, complete genome
+Length=4551783
+
+ Features in this part of subject sequence:
+   NAD-dependent protein deacetylase, Sir2 family
+
+ Score = 51.8 bits (56),  Expect = 0.011
+ Identities = 66/89 (74%), Gaps = 4/89 (4%)
+ Strand=Plus/Minus
+
+Query  498      TCTTCC-ACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACC  556
+                |||||| |||| |||||  ||| |   || || |||   |||||   ||||||||||| |
+Sbjct  2155268  TCTTCCCACAAACCGTCGCAGGCA---CGAAAAGTCTTGATGCCGGATTCGGCAGAGATC  2155212
+
+Query  557      CCCGCGCCGGTGAGAGCCACGACATATTT  585
+                ||||||||||| ||   ||||| || |||
+Sbjct  2155211  CCCGCGCCGGTCAGGATCACGATATGTTT  2155183
+
+
+>ref|XM_004433999.1| PREDICTED: Ceratotherium simum simum X-ray radiation resistance 
+associated 1, transcript variant 2 (XRRA1), mRNA
+Length=1769
+
+ Score = 50.0 bits (54),  Expect = 0.039
+ Identities = 41/48 (85%), Gaps = 3/48 (6%)
+ Strand=Plus/Plus
+
+Query  21   AGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAACCAAAAGCA  68
+            ||||||||||||||||||| |||| ||| ||||  ||  |||||||||
+Sbjct  617  AGTCAGAGGCAGGGCTGACCGAAGAGCT-GTCC--ACTGCCAAAAGCA  661
+
+
+>ref|XM_004433998.1| PREDICTED: Ceratotherium simum simum X-ray radiation resistance 
+associated 1, transcript variant 1 (XRRA1), mRNA
+Length=2594
+
+ Score = 50.0 bits (54),  Expect = 0.039
+ Identities = 41/48 (85%), Gaps = 3/48 (6%)
+ Strand=Plus/Plus
+
+Query  21    AGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAACCAAAAGCA  68
+             ||||||||||||||||||| |||| ||| ||||  ||  |||||||||
+Sbjct  1442  AGTCAGAGGCAGGGCTGACCGAAGAGCT-GTCC--ACTGCCAAAAGCA  1486
+
+
+>gb|AE009441.1| Pyrobaculum aerophilum str. IM2, complete genome
+Length=2222430
+
+ Score = 50.0 bits (54),  Expect = 0.039
+ Identities = 63/85 (74%), Gaps = 4/85 (5%)
+ Strand=Plus/Plus
+
+Query  486      TCGGG-TCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTT  544
+                ||||| | |||  ||| |||||||||  | |   |  | | ||| || |||| ||| |||
+Sbjct  2101292  TCGGGCTTATACCTCTCCCACAAGCCCCCCG---GCCCTCTGAACGTAGGAACGCCGCTT  2101348
+
+Query  545      TCGGCAGAGACCCCCGCGCCGGTGA  569
+                ||||| ||||  |||||||||||||
+Sbjct  2101349  TCGGCGGAGATACCCGCGCCGGTGA  2101373
+
+
+>emb|LK391695.1| Pseudomonas pseudoalcaligenes genome assembly Ppseudo_Pac ,chromosome 
+: I
+Length=4696984
+
+ Features in this part of subject sequence:
+   silent information regulator protein Sir2
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 40/49 (82%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  522     CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+               ||||||| ||  ||||||| || ||||| ||||  || |||||||||||
+Sbjct  748882  CGCGGAAGGTGCGAATGCCGCTCTCGGCGGAGATACCGGCGCCGGTGAG  748930
+
+
+>emb|HG916826.1| Pseudomonas pseudoalcaligenes CECT 5344 complete genome
+Length=4686340
+
+ Features in this part of subject sequence:
+   silent information regulator protein Sir2
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 40/49 (82%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  522     CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+               ||||||| ||  ||||||| || ||||| ||||  || |||||||||||
+Sbjct  746663  CGCGGAAGGTGCGAATGCCGCTCTCGGCGGAGATACCGGCGCCGGTGAG  746711
+
+
+>gb|KF715620.1| Uncultured organism clone contig000001 genomic sequence
+Length=32589
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 76/103 (74%), Gaps = 7/103 (7%)
+ Strand=Plus/Plus
+
+Query  470   ATTGTCGCGTATACCGTCGGGTCATATTTCTTCCACAAGCC-GTCAGAGGGATCGCGGAA  528
+             || ||||||||  || ||||||| ||  |   ||| | ||| ||| | |  ||||  |||
+Sbjct  8031  ATGGTCGCGTACTCCATCGGGTCGTACGTGGCCCAGATGCCCGTCTGCG--ATCG--GAA  8086
+
+Query  529   TGTCGG-AATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+              ||||| |||||| || ||||  || || ||||||||||||||
+Sbjct  8087  -GTCGGGAATGCCGCTCTCGGTCGATACACCCGCGCCGGTGAG  8128
+
+
+>dbj|AP014508.1| Thermotoga hypogea NBRC 106472 DNA, complete genome
+Length=2165165
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 44/56 (79%), Gaps = 0/56 (0%)
+ Strand=Plus/Plus
+
+Query  524      CGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  579
+                |||||   |||||||||||| |||| |   || ||||| ||||||||||| || ||
+Sbjct  1092191  CGGAAGTCCGGAATGCCACTCTCGGTACTCACACCCGCACCGGTGAGAGCGACAAC  1092246
+
+
+>gb|CP005976.1| Pseudomonas putida H8234, complete genome
+Length=6870827
+
+ Features flanking this part of subject sequence:
+   136 bp at 5' side: hypothetical protein
+   211 bp at 3' side: hypothetical protein
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 54/70 (77%), Gaps = 2/70 (3%)
+ Strand=Plus/Plus
+
+Query  499      CTTCCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCC  557
+                || |||||| ||| | ||  || || || || ||||||||||| ||  ||||||| || |
+Sbjct  3556274  CTCCCACAACCCGGTTAGTCGG-TCACGAAAAGTCGGAATGCCGCTGCCGGCAGAAACGC  3556332
+
+Query  558      CCGCGCCGGT  567
+                | ||||||||
+Sbjct  3556333  CAGCGCCGGT  3556342
+
+
+>gb|CP002431.1| Desulfovibrio aespoeensis Aspo-2, complete genome
+Length=3629109
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 60/82 (73%), Gaps = 3/82 (4%)
+ Strand=Plus/Plus
+
+Query  498      TCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCC  557
+                |||||||||  |||||   | |  | ||||| || || |  || || |||||||| || |
+Sbjct  2898164  TCTTCCACAGCCCGTC---GCGTCCCCGGAAGGTGGGCACCCCGCTCTCGGCAGACACGC  2898220
+
+Query  558      CCGCGCCGGTGAGAGCCACGAC  579
+                |||||||||| ||  |||| ||
+Sbjct  2898221  CCGCGCCGGTCAGGACCACCAC  2898242
+
+
+>emb|FP565814.1| Salinibacter ruber M8 chromosome, complete genome
+Length=3619447
+
+ Features in this part of subject sequence:
+   NAD-dependent deacetylase
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 43/54 (80%), Gaps = 0/54 (0%)
+ Strand=Plus/Plus
+
+Query  517      GGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+                ||| |||||||| ||||||||||| || ||||||  ||  ||||| || || ||
+Sbjct  3279705  GGGGTCGCGGAAGGTCGGAATGCCGCTCTCGGCACTGATGCCCGCCCCCGTCAG  3279758
+
+
+>gb|CP001867.1| Geodermatophilus obscurus DSM 43160, complete genome
+Length=5322497
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 55/71 (77%), Gaps = 5/71 (7%)
+ Strand=Plus/Minus
+
+Query  501      TCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGA-ATGCCACTTTCGGCAGAGACCCCC  559
+                |||||| ||||||   |||  ||||| | |||||  ||||| || ||||  ||||  |||
+Sbjct  2166932  TCCACACGCCGTC---GGGCCCGCGGTA-GTCGGGGATGCCGCTGTCGGTGGAGATGCCC  2166877
+
+Query  560      GCGCCGGTGAG  570
+                |||||||||||
+Sbjct  2166876  GCGCCGGTGAG  2166866
+
+
+>gb|CP001804.1| Haliangium ochraceum DSM 14365, complete genome
+Length=9446314
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 40/49 (82%), Gaps = 0/49 (0%)
+ Strand=Plus/Minus
+
+Query  522      CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+                |||| || ||||| ||||| || ||||| ||||  || |||||||||||
+Sbjct  6947955  CGCGAAAGGTCGGGATGCCGCTCTCGGCCGAGATGCCGGCGCCGGTGAG  6947907
+
+
+>ref|XM_001843219.1| Culex quinquefasciatus NAD-dependent deacetylase sirtuin-4, mRNA
+Length=930
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 29/31 (94%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  310  GTGAAGATTGTCAACGTTCTGCGTTACAATG  340
+            |||||| |||||||||||||||||||| |||
+Sbjct  426  GTGAAGTTTGTCAACGTTCTGCGTTACGATG  396
+
+
+>gb|CP000494.1| Bradyrhizobium sp. BTAi1, complete genome
+Length=8264687
+
+ Features in this part of subject sequence:
+   putative Sir2-family regulator protein
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 44/56 (79%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  281     TCGATGACGTTGGTGGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTAC  336
+               |||||||||||| |||  || | | ||||||| ||   ||| ||||||||||| ||
+Sbjct  495273  TCGATGACGTTGCTGGCGCCGGCGGCCTGGTGCAGCCGGTCGACGTTCTGCGTCAC  495218
+
+
+ Features in this part of subject sequence:
+   putative transciptional regulatory Sir2-family protein
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 51/68 (75%), Gaps = 6/68 (9%)
+ Strand=Plus/Minus
+
+Query  272      CCGTGGTACTCGATGACGTT------GGTGGATCCCGAGTCCTGGTGAAGATTGTCAACG  325
+                |||||  |||||| |||||       || | | || ||||||||||| |||||||| | |
+Sbjct  4236531  CCGTGCAACTCGACGACGTGATCGGGGGCGAAGCCGGAGTCCTGGTGCAGATTGTCGATG  4236472
+
+Query  326      TTCTGCGT  333
+                ||||||||
+Sbjct  4236471  TTCTGCGT  4236464
+
+
+>gb|CP000493.1| Hyperthermus butylicus DSM 5456, complete genome
+Length=1667163
+
+ Score = 48.2 bits (52),  Expect = 0.14
+ Identities = 65/91 (71%), Gaps = 0/91 (0%)
+ Strand=Plus/Plus
+
+Query  307      CTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCTCTGGAG  366
+                |||||| |||  ||||||||||||||| || | | || | | |  ||| |||||||  ||
+Sbjct  1465903  CTGGTGCAGACCGTCAACGTTCTGCGTCACCACGCATCTTATGAGCCCGAGCCTCTCAAG  1465962
+
+Query  367      ATCTGTTAACGCCACATGCGCCGCATTCGGC  397
+                 ||   || |||    ||||| | |||||||
+Sbjct  1465963  CTCAACTAGCGCGTAGTGCGCGGGATTCGGC  1465993
+
+
+>emb|HE956757.1| Methylocystis sp. SC2 complete genome
+Length=3773444
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 30/33 (91%), Gaps = 0/33 (0%)
+ Strand=Plus/Minus
+
+Query  538      GCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+                ||| |||||||| ||||| ||||||||||||||
+Sbjct  2878863  GCCGCTTTCGGCGGAGACGCCCGCGCCGGTGAG  2878831
+
+
+>gb|CP002191.1| Deinococcus gobiensis I-0, complete genome
+Length=3137147
+
+ Features flanking this part of subject sequence:
+   51 bp at 5' side: hypothetical protein
+   80 bp at 3' side: NAD-dependent deacetylase, SIR2 family
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 40/50 (80%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  521     TCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAG  570
+               |||||||| || || ||||| || |||||   |||||||||||| || ||
+Sbjct  166448  TCGCGGAAGGTGGGGATGCCGCTCTCGGCGCTGACCCCCGCGCCCGTCAG  166399
+
+
+>gb|CP003098.1| Pyrobaculum sp. 1860, complete genome
+Length=2467972
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 52/69 (75%), Gaps = 3/69 (4%)
+ Strand=Plus/Plus
+
+Query  502     CCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGC  561
+               |||||||||| | |   |  | | ||| ||||| | ||| || ||||| ||||  |||||
+Sbjct  572928  CCACAAGCCGCCTG---GCCCTCTGAACGTCGGCACGCCGCTCTCGGCCGAGATGCCCGC  572984
+
+Query  562     GCCGGTGAG  570
+               |||||||||
+Sbjct  572985  GCCGGTGAG  572993
+
+
+>dbj|AP012222.1| Sphingobium sp. SYK-6 DNA, complete genome
+Length=4199332
+
+ Features in this part of subject sequence:
+   NAD-dependent deacetylase
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 40/50 (80%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  522     CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGA  571
+               ||||||| |||| || ||| || ||||| || |  || ||||||||||||
+Sbjct  707413  CGCGGAAGGTCGCAAGGCCGCTCTCGGCGGAAATGCCGGCGCCGGTGAGA  707364
+
+
+>gb|CP002638.1| Verrucosispora maris AB-18-032, complete genome
+Length=6673976
+
+ Features in this part of subject sequence:
+   silent information regulator protein Sir2
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 55/72 (76%), Gaps = 2/72 (3%)
+ Strand=Plus/Minus
+
+Query  499      CTTCCACAAGCCG-TCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCC  557
+                || ||||| |||| | || | | |||||||| ||||| |  || || ||||| || |  |
+Sbjct  3253990  CTGCCACAGGCCGGTGAGCGCG-TCGCGGAAGGTCGGCACACCGCTCTCGGCGGACATGC  3253932
+
+Query  558      CCGCGCCGGTGA  569
+                ||||||||||||
+Sbjct  3253931  CCGCGCCGGTGA  3253920
+
+
+>ref|XM_002609817.1| Branchiostoma floridae hypothetical protein, mRNA
+Length=1368
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 27/28 (96%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  621  AGATGAACGTCGTGTTTTTCTTCTGGAA  648
+            ||||||||||| ||||||||||||||||
+Sbjct  190  AGATGAACGTCTTGTTTTTCTTCTGGAA  163
+
+
+>emb|FM211192.1| Mycobacterium leprae Br4923, complete genome sequence
+Length=3268071
+
+ Features in this part of subject sequence:
+   conserved hypothetical protein
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 37/45 (82%), Gaps = 0/45 (0%)
+ Strand=Plus/Minus
+
+Query  521      TCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCG  565
+                |||||||||||||| | | | ||||| || ||||  |||||||||
+Sbjct  1821230  TCGCGGAATGTCGGCACGTCGCTTTCCGCGGAGATACCCGCGCCG  1821186
+
+
+>emb|AL583922.1| Mycobacterium leprae strain TN complete genome; segment 6/10
+Length=318200
+
+ Score = 46.4 bits (50),  Expect = 0.47
+ Identities = 37/45 (82%), Gaps = 0/45 (0%)
+ Strand=Plus/Minus
+
+Query  521     TCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCG  565
+               |||||||||||||| | | | ||||| || ||||  |||||||||
+Sbjct  140507  TCGCGGAATGTCGGCACGTCGCTTTCCGCGGAGATACCCGCGCCG  140463
+
+
+>emb|LK931720.1| Sphingobacterium sp. PM2-P1-29 genome assembly Sequencing method 
+,scaffold BN1088_Contig_143
+Length=4106684
+
+ Score = 44.6 bits (48),  Expect = 1.6
+ Identities = 34/38 (89%), Gaps = 2/38 (5%)
+ Strand=Plus/Plus
+
+Query  613      TTCAAAAGAGATGAACGTCGTGTTTTT-CTTCTGGAAA  649
+                ||||||| |||||||||||||||||||  || ||||||
+Sbjct  1963021  TTCAAAA-AGATGAACGTCGTGTTTTTAATTTTGGAAA  1963057
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Sep 7, 2014  8:15 PM
+  Number of letters in database: 65,670,676,579
+  Number of sequences in database:  24,647,253
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 24647253
+Number of Hits to DB: 19326036
+Number of extensions: 29314
+Number of successful extensions: 29314
+Number of sequences better than 10: 1
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 29314
+Number of HSP's successfully gapped: 1
+Length of query: 700
+Length of database: 65670676579
+Length adjustment: 37
+Effective length of query: 663
+Effective length of database: 64758728218
+Effective search space: 42935036808534
+Effective search space used: 42935036808534
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 46 (42.8 bits)
+
+
+
+

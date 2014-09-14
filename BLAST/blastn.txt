@@ -1,0 +1,1100 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.2.29+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 16AJH2WX014
+
+
+Database: Nucleotide collection (nt)
+           24,663,954 sequences; 65,728,965,084 total letters
+Query= 
+Length=1389
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+ref|XM_002366314.1|  Toxoplasma gondii ME49 NAD-dependent deac...   1683   0.0  
+dbj|AK318171.1|  Toxoplasma gondii cDNA, clone: XTG08308.2, fu...   1595   0.0  
+ref|XM_008883857.1|  Hammondia hammondi histone deacetylase SI...   1552   0.0  
+ref|XM_003884149.1|  Neospora caninum Liverpool putative NAD-d...    888   0.0  
+emb|FR823391.1|  Neospora caninum Liverpool complete genome, c...    282   7e-72
+emb|AJ429812.1|  Human immunodeficiency virus type 1 proviral ...  73.4    7e-09
+emb|AJ519510.1|  Bencomia exstipulata microsatellite DNA, clon...  71.6    2e-08
+emb|FN553439.1|  Uncultured archaeon partial mcrA gene for Met...  69.8    8e-08
+emb|FN553438.1|  Uncultured archaeon partial mcrA gene for Met...  69.8    8e-08
+emb|FN553436.1|  Uncultured archaeon partial mcrA gene for Met...  69.8    8e-08
+emb|FM252731.1|  Uncultured gamma proteobacterium partial 16S ...  69.8    8e-08
+emb|FM252549.1|  Uncultured alpha proteobacterium partial 16S ...  69.8    8e-08
+emb|FM252501.1|  Uncultured gamma proteobacterium partial 16S ...  69.8    8e-08
+emb|FM252406.1|  Uncultured alpha proteobacterium partial 16S ...  69.8    8e-08
+gb|CP000769.1|  Anaeromyxobacter sp. Fw109-5, complete genome      69.8    8e-08
+emb|FR691485.2|  Uncultured bacterium partial 16S rRNA gene, c...  68.0    3e-07
+emb|FM253020.1|  Uncultured alpha proteobacterium partial 16S ...  68.0    3e-07
+emb|FM252868.1|  Uncultured actinobacterium partial 16S rRNA g...  68.0    3e-07
+emb|AM744968.1|  Grampus griseus partial amel gene for ameloge...  68.0    3e-07
+emb|AM744966.1|  Balaenoptera physalus partial amel gene for a...  68.0    3e-07
+emb|AM744964.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744963.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744962.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744961.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744960.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744959.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+emb|AM744958.1|  Stenella coeruleoalba partial amel gene for a...  68.0    3e-07
+gb|AY500378.1|  Lilium longiflorum phytoene desaturase mRNA, p...  68.0    3e-07
+emb|AJ843111.1|  Quercus petraea mRNA for calmodulin (caM-1 gene)  68.0    3e-07
+emb|AJ566903.1|  Spodoptera frugiperda mRNA for allatotropin n...  68.0    3e-07
+emb|AJ564972.1|  Sus scrofa mRNA for protocadherin (PCDHX gene)    68.0    3e-07
+emb|AJ715983.1|  Equus caballus mRNA for solute carrier family...  68.0    3e-07
+emb|AJ558163.1|  Strongyloides stercoralis complete mitochondr...  68.0    3e-07
+emb|AJ311191.1|  Human herpesvirus 4 partial ebna-LP gene, str...  68.0    3e-07
+emb|AJ277077.2|  Rattus norvegicus mRNA for damage-specific DN...  68.0    3e-07
+emb|HG326008.1|  Uncultured Wolbachia sp.3                         66.2    1e-06
+emb|LK871645.1|  Arthrobacter pascens partial 16S rRNA gene, s...  66.2    1e-06
+emb|HG329725.1|  Xiphinema vuittenezi partial 28S rRNA gene, p...  66.2    1e-06
+emb|HF570153.1|  Lathyrus sativus microsatellite DNA locus P2B9    66.2    1e-06
+emb|FR694770.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE805692.1|  Aiptasia pulchella mRNA for cytochrome C (cyt...  66.2    1e-06
+emb|HE974968.1|  Uncultured Dialister sp. partial 16S rRNA gen...  66.2    1e-06
+emb|HE814094.1|  Boletaceae sp. 11 CG-2012 genomic DNA contain...  66.2    1e-06
+emb|HE586563.1|  Clostridium akagii partial gene for beta-keto...  66.2    1e-06
+emb|HE604030.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE604024.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE604020.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE604011.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE604010.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+emb|HE604005.1|  Uncultured bacterium partial 16S rRNA gene, c...  66.2    1e-06
+
+ALIGNMENTS
+>ref|XM_002366314.1| Toxoplasma gondii ME49 NAD-dependent deacetylase, putative, mRNA
+Length=1976
+
+ Score =  1683 bits (1866),  Expect = 0.0
+ Identities = 1014/1057 (96%), Gaps = 12/1057 (1%)
+ Strand=Plus/Minus
+
+Query  75    CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1780  CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  1721
+
+Query  135   CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGC  194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1720  CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGC  1661
+
+Query  195   ACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCC  254
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1660  ACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCC  1601
+
+Query  255   AACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGC  314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600  AACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGC  1541
+
+Query  315   TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  374
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1540  TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  1481
+
+Query  375   CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTT  434
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1480  CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTT  1421
+
+Query  435   CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  494
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1420  CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  1361
+
+Query  495   GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  554
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1360  GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  1301
+
+Query  555   AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCT  614
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1300  AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCT  1241
+
+Query  615   CAGGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  674
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1240  CAGGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  1181
+
+Query  675   CGCGTATACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGG  734
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1180  CGCGTATACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGG  1121
+
+Query  735   AATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCG  794
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1120  AATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCG  1061
+
+Query  795   AACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGT  854
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  1060  AACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGT  1001
+
+Query  855   TGCAGCTTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGGTCTGTTTCCGG  914
+             |||||||||||||||||||||||||||||||||||||||||||||||| |||| ||||||
+Sbjct  1000  TGCAGCTTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGTTCTG-TTCCGG  942
+
+Query  915   ACATGAGGGAATCAGCTCTTTCACTTCCCATAAACTGAGTGCCACCAGACGATTCGAA-G  973
+             |||||||||||||||||  ||||| |||||||||||||||||  |||||||||||||| |
+Sbjct  941   ACATGAGGGAATCAGCTACTTCAC-TCCCATAAACTGAGTGCATCCAGACGATTCGAACG  883
+
+Query  974   TTTGAAATGGAAGTaaaaaaaGGTGGCCGTTCTCTGTTTTCTCAAATGAAAGTTCCCTTT  1033
+             | || ||||||||| | | |||||||||||||||||||||||||| ||| || || ||||
+Sbjct  882   TCTG-AATGGAAGTGAGAGAAGGTGGCCGTTCTCTGTTTTCTCAAGTGACAGCTCGCTTT  824
+
+Query  1034  TTTAATCGGCTTGAAGCGTAAAGTTTCAAAACCCTCTCCGTAGGTACAGCCAACCAAGAA  1093
+             || ||||||||  | ||||| || ||  | || |||| |||||||||||| |  | ||||
+Sbjct  823   TTGAATCGGCTGCACGCGTAGAG-TTGTAGACGCTCT-CGTAGGTACAGCGA--CGAGAA  768
+
+Query  1094  ACTGGTTATGAAGGGCTTCAAAAAAGCCACCCAAGGG  1130
+             |||| | ||||  ||||   ||| || ||| ||||||
+Sbjct  767   ACTGTTCATGA--GGCT--CAAAGAGGCACGCAAGGG  735
+
+
+>dbj|AK318171.1| Toxoplasma gondii cDNA, clone: XTG08308.2, full cDNA, XTG Sugano 
+cDNA library
+Length=2167
+
+ Score =  1595 bits (1768),  Expect = 0.0
+ Identities = 1014/1103 (92%), Gaps = 58/1103 (5%)
+ Strand=Plus/Minus
+
+Query  75    CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1819  CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  1760
+
+Query  135   CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGC  194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1759  CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGC  1700
+
+Query  195   ACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCC  254
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1699  ACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCC  1640
+
+Query  255   AACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGC  314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1639  AACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGC  1580
+
+Query  315   TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  374
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1579  TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  1520
+
+Query  375   CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTT  434
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1519  CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTT  1460
+
+Query  435   CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  494
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1459  CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  1400
+
+Query  495   GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  554
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1399  GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  1340
+
+Query  555   AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCT  614
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1339  AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCT  1280
+
+Query  615   CAGGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  674
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1279  CAGGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  1220
+
+Query  675   CGCGTATACCGTCGGGTCATAT--------------------------------------  696
+             ||||||||||||||||||||||                                      
+Sbjct  1219  CGCGTATACCGTCGGGTCATATGGAATGCCAACAACACAGTCTTTCGCAGTGCCACGCGC  1160
+
+Query  697   --------TTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGG  748
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1159  CACTTTACTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGG  1100
+
+Query  749   CAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCATCGGCGA  808
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1099  CAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCATCGGCGA  1040
+
+Query  809   GGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGCTTGCCCCA  868
+             ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  1039  GGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGTTGCAGCTTGCCCCA  980
+
+Query  869   TGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGGTCTGTTTCCGGACATGAGGGAATCA  928
+             |||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||
+Sbjct  979   TGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGTTCTG-TTCCGGACATGAGGGAATCA  921
+
+Query  929   GCTCTTTCACTTCCCATAAACTGAGTGCCACCAGACGATTCGAA-GTTTGAAATGGAAGT  987
+             |||  ||||| |||||||||||||||||  |||||||||||||| || || |||||||||
+Sbjct  920   GCTACTTCAC-TCCCATAAACTGAGTGCATCCAGACGATTCGAACGTCTG-AATGGAAGT  863
+
+Query  988   aaaaaaaGGTGGCCGTTCTCTGTTTTCTCAAATGAAAGTTCCCTTTTTTAATCGGCTTGA  1047
+              | | |||||||||||||||||||||||||| ||| || || |||||| ||||||||  |
+Sbjct  862   GAGAGAAGGTGGCCGTTCTCTGTTTTCTCAAGTGACAGCTCGCTTTTTGAATCGGCTGCA  803
+
+Query  1048  AGCGTAAAGTTTCAAAACCCTCTCCGTAGGTACAGCCAACCAAGAAACTGGTTATGAAGG  1107
+              ||||| || ||  | || |||| |||||||||||| |  | |||||||| | ||||  |
+Sbjct  802   CGCGTAGAG-TTGTAGACGCTCT-CGTAGGTACAGCGA--CGAGAAACTGTTCATGA--G  749
+
+Query  1108  GCTTCAAAAAAGCCACCCAAGGG  1130
+             |||   ||| || ||| ||||||
+Sbjct  748   GCT--CAAAGAGGCACGCAAGGG  728
+
+
+>ref|XM_008883857.1| Hammondia hammondi histone deacetylase SIR2 partial mRNA
+Length=1086
+
+ Score =  1552 bits (1720),  Expect = 0.0
+ Identities = 956/1012 (94%), Gaps = 7/1012 (1%)
+ Strand=Plus/Minus
+
+Query  75    CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  CTATCTCCTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAA  1027
+
+Query  135   CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGC  194
+             |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  1026  CTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCCAAGTTAACCTCAACAACTTTCGC  967
+
+Query  195   ACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCC  254
+             |||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||
+Sbjct  966   ACCACCACGCATCGCCCGATATGGCAAGCCAGAGGCAGGGCTGACAGAAGCGCTTGTCCC  907
+
+Query  255   AACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGC  314
+             |||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  906   AACAACCAAAAGCAAGTCACACTTGTCCACTTCTCGATTCGCATCCCGCACGGCGTTCGC  847
+
+Query  315   TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  374
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  846   TGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTT  787
+
+Query  375   CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTT  434
+             |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  786   CGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGAGGCATTTT  727
+
+Query  435   CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  494
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  726   CTTCCCACATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGT  667
+
+Query  495   GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  554
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  666   GGATCCCGAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCC  607
+
+Query  555   AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCT  614
+             ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||
+Sbjct  606   AAGCCTCTGGAGATCTGTTAACGCCACATGCGCCGCATTTGGCATCGGATCATTTGTCCT  547
+
+Query  615   CAGGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  674
+             || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  546   CATGAAATCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGT  487
+
+Query  675   CGCGTATACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGG  734
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  486   CGCGTATACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAACGTCGG  427
+
+Query  735   AATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCG  794
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  426   AATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCG  367
+
+Query  795   AACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGT  854
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  366   AACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAATATGT  307
+
+Query  855   TGCAGCTTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGGTCTGTTTCCGG  914
+             ||| ||||||||||||| ||| |||| ||||||||||||| ||||||| |||| ||||| 
+Sbjct  306   TGCGGCTTGCCCCATGTTGTCCCTCTCGTGGTAGTCACTTTCCGCAGGTTCTG-TTCCGT  248
+
+Query  915   ACATGAGGGAATCAGCTCTTTCACTTCCCATAAACTGAGTGCCACCAGACGATTCGAA-G  973
+             ||||||| ||| || ||  ||||| |||||||||||||||||  |||| ||||||||| |
+Sbjct  247   ACATGAGTGAAGCATCTACTTCAC-TCCCATAAACTGAGTGCAGCCAGGCGATTCGAACG  189
+
+Query  974   TTTGAAATGGAAGTaaaaaaaGGTGGCCGTTCTCTGTTTTCTCAAATGAAAGTTCCCTTT  1033
+             | || |||| |||| | | || |||||||||||||| ||||||||  || || || ||||
+Sbjct  188   TCTG-AATGAAAGTGAGAGAATGTGGCCGTTCTCTGCTTTCTCAAGCGACAGCTCGCTTT  130
+
+Query  1034  TTTAATCGGCTTGAAGCGTAAAGTTTCAAAACCCTCTC--CGTAGGTACAGC  1083
+             || ||||||||  |||| || || ||  | || |||||   | |||||||||
+Sbjct  129   TTGAATCGGCTGCAAGCATAGAG-TTGTAGACGCTCTCGAAGGAGGTACAGC  79
+
+
+>ref|XM_003884149.1| Neospora caninum Liverpool putative NAD-dependent deacetylase 
+(NCLIV_045990) mRNA, complete cds
+Length=888
+
+ Score =   888 bits (984),  Expect = 0.0
+ Identities = 700/837 (84%), Gaps = 1/837 (0%)
+ Strand=Plus/Minus
+
+Query  82   CTTTGCAGCGCCTTCACTGTTTGAGCCAACTGGCTCGCCCGCCCCTGAACAAACTTATCG  141
+            ||| |||||| |  ||| ||| | | |||||| |||||| | ||| |||||||||| |||
+Sbjct  836  CTTCGCAGCGTCGCCACCGTTCGGGTCAACTGACTCGCCGGGCCCCGAACAAACTTGTCG  777
+
+Query  142  CTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCTCAACAACTTTCGCACCACCA  201
+            ||||| ||||| || |||||||||||||| ||||||| ||| ||||| ||||| ||||| 
+Sbjct  776  CTGATCCGGTTCGTCAGTCCTGTTGTCTCCAAGTTAATCTCGACAACCTTCGCTCCACCG  717
+
+Query  202  CGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTGACAGAAGCGCTGGTCCCAACAACC  261
+            |||| |||||| || ||||||  |||||| ||   |||||||||||| || |||||||||
+Sbjct  716  CGCAACGCCCGGTACGGCAAGCTAGAGGCTGGAGAGACAGAAGCGCTCGTGCCAACAACC  657
+
+Query  262  AAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCGTCCCGCACGGCGTTCGCTGGAATG  321
+            || || ||||| || || ||||||||||||||||||| | |||||||||  || ||||||
+Sbjct  656  AAGAGAAGGTCGCATTTATCCACTTCTCGATTCGCGTTCTGCACGGCGTGGGCCGGAATG  597
+
+Query  322  CCTTCTCCAAACAGAATCACATCGGGTTTGAAGATTCCGCCACAAGCGCACTTCGGGGGA  381
+            ||||| |||||||||||  | ||||| |||||||| ||||| || |||||||| ||||| 
+Sbjct  596  CCTTCCCCAAACAGAATGGCGTCGGGCTTGAAGATACCGCCGCACGCGCACTTAGGGGGT  537
+
+Query  382  AGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCATTTTCTTCCCA  441
+            || ||||| | |||||| || ||||||||||| |||||||| ||| ||| ||||| ||| 
+Sbjct  536  AGCTCCTTGGTGAAGTTGTCGTCTTGCAGCATGGACTTGGACAGAGGCAATTTCTCCCCG  477
+
+Query  442  CATTGCCGGCACGTAGCAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCCC  501
+            ||| ||| |||||| ||||||||||| ||||| || |||||||||||||| || || || 
+Sbjct  476  CATCGCCTGCACGTTGCAGAGAGAAGGCTACCATGATACTCGATGACGTTAGTAGACCCT  417
+
+Query  502  GAGTCCTGGTGAAGATTGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCTC  561
+            |||||||||||||||||||| ||||||||||| |||||| |||||||||| ||||||| |
+Sbjct  416  GAGTCCTGGTGAAGATTGTCGACGTTCTGCGTCACAATGGATTTCAGGTATCCAAGCCGC  357
+
+Query  562  TGGAGATCTGTTAACGCCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAAA  621
+            ||||||||||||||||| | ||| |||| ||| ||||  ||||| |||| || || ||||
+Sbjct  356  TGGAGATCTGTTAACGCTATATGAGCCGGATTTGGCACGGGGTCGTTTGACCGCATGAAA  297
+
+Query  622  TCGAGGAGAAGCTCCCAGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTAT  681
+            ||  ||||||| ||||||||||| || |||| ||||||||| ||||||| |||||| |||
+Sbjct  296  TCATGGAGAAGTTCCCAGATCTTCTGTGGGTGTCGCCAGAATCCCCAAACTGTCGCATAT  237
+
+Query  682  ACCGTCGGGTCATATTTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCA  741
+            |||| ||||||||||||| ||||||||||||| || || |||||||| || |||||||||
+Sbjct  236  ACCGCCGGGTCATATTTCGTCCACAAGCCGTCCGACGGGTCGCGGAACGTTGGAATGCCA  177
+
+Query  742  CTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGACATATTTTGCCTTCCGAACGTCA  801
+            || || |||||||| |||||||| ||||| |||||||||||||| |||| ||||| ||||
+Sbjct  176  CTCTCCGCAGAGACACCCGCGCCCGTGAGCGCCACGACATATTTGGCCTGCCGAATGTCA  117
+
+Query  802  TCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTTTTCTTCTGGAAAAATGTTGCAGCT  861
+            |||||||| ||||| ||||||||||||| ||||| ||||||||| ||| ||||| | |||
+Sbjct  116  TCGGCGAGATCTTCGAAAGAGATGAACGCCGTGTCTTTCTTCTGAAAATATGTTACCGCT  57
+
+Query  862  TGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCCGCAGGGTCTGTTTCCGGACAT  918
+            ||||||||||| |||| ||     ||| ||||  | ||||| |||| | ||| ||||
+Sbjct  56   TGCCCCATGTCTTCTCCCTCAGAATAGCCACTCTCTGCAGGTTCTG-TCCCGAACAT  1
+
+
+>emb|FR823391.1| Neospora caninum Liverpool complete genome, chromosome X
+Length=6985512
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   282 bits (312),  Expect = 7e-72
+ Identities = 206/239 (86%), Gaps = 0/239 (0%)
+ Strand=Plus/Plus
+
+Query  458     CAGAGAGAAGACTACCGTGGTACTCGATGACGTTGGTGGATCCCGAGTCCTGGTGAAGAT  517
+               |||||||||| ||||| || |||||||||||||| || || || ||||||||||||||||
+Sbjct  984454  CAGAGAGAAGGCTACCATGATACTCGATGACGTTAGTAGACCCTGAGTCCTGGTGAAGAT  984513
+
+Query  518     TGTCAACGTTCTGCGTTACAATGAATTTCAGGTACCCAAGCCTCTGGAGATCTGTTAACG  577
+               |||| ||||||||||| |||||| |||||||||| ||||||| |||||||||||||||||
+Sbjct  984514  TGTCGACGTTCTGCGTCACAATGGATTTCAGGTATCCAAGCCGCTGGAGATCTGTTAACG  984573
+
+Query  578     CCACATGCGCCGCATTCGGCATCGGGTCATTTGTCCTCAGGAAATCGAGGAGAAGCTCCC  637
+               | | ||| |||| ||| ||||  ||||| |||| || || ||||||  ||||||| ||||
+Sbjct  984574  CTATATGAGCCGGATTTGGCACGGGGTCGTTTGACCGCATGAAATCATGGAGAAGTTCCC  984633
+
+Query  638     AGATCTTGTGAGGGTATCGCCAGAACCCCCAAATTGTCGCGTATACCGTCGGGTCATAT  696
+               ||||||| || |||| ||||||||| ||||||| |||||| ||||||| ||||||||||
+Sbjct  984634  AGATCTTCTGTGGGTGTCGCCAGAATCCCCAAACTGTCGCATATACCGCCGGGTCATAT  984692
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   205 bits (226),  Expect = 2e-48
+ Identities = 163/196 (83%), Gaps = 0/196 (0%)
+ Strand=Plus/Plus
+
+Query  178     ACCTCAACAACTTTCGCACCACCACGCATCGCCCGATATGGCAAGTCAGAGGCAGGGCTG  237
+               ||||| ||||| ||||| ||||| |||| |||||| || ||||||  |||||| ||   |
+Sbjct  983225  ACCTCGACAACCTTCGCTCCACCGCGCAACGCCCGGTACGGCAAGCTAGAGGCTGGAGAG  983284
+
+Query  238     ACAGAAGCGCTGGTCCCAACAACCAAAAGCAGGTCACACTTGTCCACTTCTCGATTCGCG  297
+               ||||||||||| || ||||||||||| || ||||| || || ||||||||||||||||||
+Sbjct  983285  ACAGAAGCGCTCGTGCCAACAACCAAGAGAAGGTCGCATTTATCCACTTCTCGATTCGCG  983344
+
+Query  298     TCCCGCACGGCGTTCGCTGGAATGCCTTCTCCAAACAGAATCACATCGGGTTTGAAGATT  357
+               | | |||||||||  || ||||||||||| |||||||||||  | ||||| |||||||| 
+Sbjct  983345  TTCTGCACGGCGTGGGCCGGAATGCCTTCCCCAAACAGAATGGCGTCGGGCTTGAAGATA  983404
+
+Query  358     CCGCCACAAGCGCACT  373
+               ||||| || |||||||
+Sbjct  983405  CCGCCGCACGCGCACT  983420
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   129 bits (142),  Expect = 1e-25
+ Identities = 115/143 (80%), Gaps = 1/143 (1%)
+ Strand=Plus/Plus
+
+Query  778     ACATATTTTGCCTTCCGAACGTCATCGGCGAGGTCTTCAAAAGAGATGAACGTCGTGTTT  837
+               || || || |||| ||||| |||||||||||| ||||| ||||||||||||| ||||| |
+Sbjct  985496  ACGTACTTGGCCTGCCGAATGTCATCGGCGAGATCTTCGAAAGAGATGAACGCCGTGTCT  985555
+
+Query  838     TTCTTCTGGAAAAATGTTGCAGCTTGCCCCATGTCGTCTCTCTGGTGGTAGTCACTTCCC  897
+               |||||||| ||| ||||| | |||||||||||||| |||| ||     ||| ||||  | 
+Sbjct  985556  TTCTTCTGAAAATATGTTACCGCTTGCCCCATGTCTTCTCCCTCAGAATAGCCACTCTCT  985615
+
+Query  898     GCAGGGTCTGTTTCCGGACATGA  920
+               ||||| |||| | ||| ||||||
+Sbjct  985616  GCAGGTTCTG-TCCCGAACATGA  985637
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score =   107 bits (118),  Expect = 3e-19
+ Identities = 76/87 (87%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  697     TTCTTCCACAAGCCGTCAGAGGGATCGCGGAATGTCGGAATGCCACTTTCGGCAGAGACC  756
+               ||| ||||||||||||| || || |||||||| || ||||||||||| || |||||||| 
+Sbjct  985175  TTCGTCCACAAGCCGTCCGACGGGTCGCGGAACGTTGGAATGCCACTCTCCGCAGAGACA  985234
+
+Query  757     CCCGCGCCGGTGAGAGCCACGACATAT  783
+               |||||||| ||||| ||||||||||||
+Sbjct  985235  CCCGCGCCCGTGAGCGCCACGACATAT  985261
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score = 86.0 bits (94),  Expect = 1e-12
+ Identities = 71/87 (82%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  372     CTTCGGGGGAAGGTCCTTTGCGAAGTTTTCATCTTGCAGCATAGACTTGGAGAGACGCAT  431
+               ||| ||||| || ||||| | |||||| || ||||||||||| |||||||| ||| ||| 
+Sbjct  983718  CTTAGGGGGTAGCTCCTTGGTGAAGTTGTCGTCTTGCAGCATGGACTTGGACAGAGGCAA  983777
+
+Query  432     TTTCTTCCCACATTGCCGGCACGTAGC  458
+               ||||| ||| ||| ||| |||||| ||
+Sbjct  983778  TTTCTCCCCGCATCGCCTGCACGTTGC  983804
+
+
+ Features in this part of subject sequence:
+   putative NAD-dependent deacetylase
+
+ Score = 73.4 bits (80),  Expect = 7e-09
+ Identities = 51/58 (88%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  124     CCCTGAACAAACTTATCGCTGATACGGTTTGTTAGTCCTGTTGTCTCTAAGTTAACCT  181
+               ||| |||||||||| |||||||| ||||| || |||||||||||||| ||||||| ||
+Sbjct  983004  CCCCGAACAAACTTGTCGCTGATCCGGTTCGTCAGTCCTGTTGTCTCCAAGTTAATCT  983061
+
+
+>emb|AJ429812.1| Human immunodeficiency virus type 1 proviral partial env gene 
+for gp120, strain 97NE03
+Length=1149
+
+ Score = 73.4 bits (80),  Expect = 7e-09
+ Identities = 49/52 (94%), Gaps = 2/52 (4%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT-TAATTAACTATCTCC  82
+             |||||||||||||||||||||||||||||||||||| ||||| ||| |||||
+Sbjct  1135  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTATAATTCACT-TCTCC  1085
+
+
+>emb|AJ519510.1| Bencomia exstipulata microsatellite DNA, clone EX-L2p1c18
+Length=241
+
+ Score = 71.6 bits (78),  Expect = 2e-08
+ Identities = 51/56 (91%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11   GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+            || || ||| ||| ||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  215  GGGAGCTCTCCCA-TAT-GGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  162
+
+
+>emb|FN553439.1| Uncultured archaeon partial mcrA gene for Methyl-coenzyme M reductase 
+alpha subunit, clone 2-596B
+Length=559
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 40/41 (98%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATT  72
+            ||||||||||||||||||||||||||||||||||||| |||
+Sbjct  520  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTCATT  480
+
+
+>emb|FN553438.1| Uncultured archaeon partial mcrA gene for Methyl-coenzyme M reductase 
+alpha subunit, clone 1-596B
+Length=546
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 40/41 (98%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATT  72
+            ||||||||||||||||||||||||||||||||||||| |||
+Sbjct  508  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTCATT  468
+
+
+>emb|FN553436.1| Uncultured archaeon partial mcrA gene for Methyl-coenzyme M reductase 
+alpha subunit, clone 1-580B
+Length=516
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 40/41 (98%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATT  72
+            ||||||||||||||||||||||||||||||||||||| |||
+Sbjct  478  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTCATT  438
+
+
+>emb|FM252731.1| Uncultured gamma proteobacterium partial 16S rRNA gene, clone 
+NL2BD-03-C09
+Length=598
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  69
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  580  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  543
+
+
+>emb|FM252549.1| Uncultured alpha proteobacterium partial 16S rRNA gene, clone 
+NL8BD-01-E06
+Length=561
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  69
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  21  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  58
+
+
+>emb|FM252501.1| Uncultured gamma proteobacterium partial 16S rRNA gene, clone 
+NL4BD-04-E08
+Length=554
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  69
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  551  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTA  514
+
+
+>emb|FM252406.1| Uncultured alpha proteobacterium partial 16S rRNA gene, clone 
+NL4BD-04-E07
+Length=560
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 51/57 (89%), Gaps = 3/57 (5%)
+ Strand=Plus/Minus
+
+Query  11   GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+            ||||| ||| ||| ||| |  ||||||||||||||||||||||||||||||||||||
+Sbjct  557  GGAAGCTCTCCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  504
+
+
+>gb|CP000769.1| Anaeromyxobacter sp. Fw109-5, complete genome
+Length=5277990
+
+ Features in this part of subject sequence:
+   Silent information regulator protein Sir2
+
+ Score = 69.8 bits (76),  Expect = 8e-08
+ Identities = 50/58 (86%), Gaps = 0/58 (0%)
+ Strand=Plus/Minus
+
+Query  722     CGCGGAATGTCGGAATGCCACTTTCGGCAGAGACCCCCGCGCCGGTGAGAGCCACGAC  779
+               ||||||| ||||| || || || ||||| ||||||||||||||||||||||| || ||
+Sbjct  450633  CGCGGAAGGTCGGGATCCCGCTCTCGGCGGAGACCCCCGCGCCGGTGAGAGCGACCAC  450576
+
+
+>emb|FR691485.2| Uncultured bacterium partial 16S rRNA gene, clone MS024
+Length=1536
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 51/58 (88%), Gaps = 3/58 (5%)
+ Strand=Plus/Minus
+
+Query  10    GGGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||| || ||| ||| ||| |  ||||||||||||||||||||||||||||||||||||
+Sbjct  1534  GGGGAGCTCTCCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1480
+
+
+>emb|FM253020.1| Uncultured alpha proteobacterium partial 16S rRNA gene, clone 
+NL10BD-02-H11
+Length=583
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  11   GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+            ||||| ||| ||| ||| |  |||||||||||||||||||||||||||||||||||
+Sbjct  576  GGAAGCTCTCCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  524
+
+
+>emb|FM252868.1| Uncultured actinobacterium partial 16S rRNA gene, clone NL10BD-01-H08
+Length=580
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 40/42 (95%), Gaps = 0/42 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATTA  73
+           ||||||||||||||||||||||||||||||||||| | ||||
+Sbjct  21  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTCTTATTA  62
+
+
+>emb|AM744968.1| Grampus griseus partial amel gene for amelogenin, exon 4
+Length=678
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11   GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+            || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  678  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  625
+
+
+>emb|AM744966.1| Balaenoptera physalus partial amel gene for amelogenin, exon 
+4
+Length=1033
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1033  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  980
+
+
+>emb|AM744964.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1032
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1032  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  979
+
+
+>emb|AM744963.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1033
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1033  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  980
+
+
+>emb|AM744962.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1035
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1035  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  982
+
+
+>emb|AM744961.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1034
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1034  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  981
+
+
+>emb|AM744960.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1034
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1034  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  981
+
+
+>emb|AM744959.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1035
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1035  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  982
+
+
+>emb|AM744958.1| Stenella coeruleoalba partial amel gene for amelogenin, exon 
+4
+Length=1033
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 2/56 (4%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||| ||| ||| || |||||||||||||||||||||||||||||||||||
+Sbjct  1033  GGGAGCTCTCCCA-TATGGG-TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  980
+
+
+>gb|AY500378.1| Lilium longiflorum phytoene desaturase mRNA, partial cds
+Length=893
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 37/37 (100%), Gaps = 0/37 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTT  68
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  861  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTT  825
+
+
+>emb|AJ843111.1| Quercus petraea mRNA for calmodulin (caM-1 gene)
+Length=813
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 39/40 (98%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAAT  71
+           ||||||||||||||||||||||||||||||||||| ||||
+Sbjct  38  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTCTAAT  77
+
+
+>emb|AJ566903.1| Spodoptera frugiperda mRNA for allatotropin neuropeptide precursor 
+(AT2 gene)
+Length=307
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 39/40 (98%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAAT  71
+           ||||||||||||||||||||||||||||||||||| ||||
+Sbjct  50  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTCTAAT  89
+
+
+>emb|AJ564972.1| Sus scrofa mRNA for protocadherin (PCDHX gene)
+Length=4851
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 46/52 (88%), Gaps = 0/52 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATTAACTATCTCCT  83
+             ||||||||||||||||||||||||||||||||||| |  || | || |||||
+Sbjct  4844  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTGTCTTTGATTACCTCCT  4793
+
+
+>emb|AJ715983.1| Equus caballus mRNA for solute carrier family 2 (slc2A2 gene)
+Length=2048
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 39/40 (98%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAAT  71
+           ||||||||||||||||||||||||||||||||||| ||||
+Sbjct  40  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTCTAAT  79
+
+
+>emb|AJ558163.1| Strongyloides stercoralis complete mitochondrial genome
+Length=13758
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 51/58 (88%), Gaps = 3/58 (5%)
+ Strand=Plus/Minus
+
+Query  10    GGGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||| || ||| ||| ||| |  ||||||||||||||||||||||||||||||||||||
+Sbjct  4388  GGGGAGCTCTCCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  4334
+
+
+>emb|AJ311191.1| Human herpesvirus 4 partial ebna-LP gene, strain Akata
+Length=419
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 46/51 (90%), Gaps = 3/51 (6%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTTTAATTAACTATCTCC  82
+           |||||||||||||||||||||||||||||||||||    |||||| |||||
+Sbjct  1   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT---GTTAACTTTCTCC  48
+
+
+>emb|AJ277077.2| Rattus norvegicus mRNA for damage-specific DNA binding protein 
+1 (DDB1 gene)
+Length=3851
+
+ Score = 68.0 bits (74),  Expect = 3e-07
+ Identities = 50/56 (89%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  11    GGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+             || || ||||||| ||| |  |||||||||||||||||||||||||||||||||||
+Sbjct  3821  GGGAGCTCTTCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  3769
+
+
+>emb|HG326008.1| Uncultured Wolbachia sp.3
+Length=936
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 50/57 (88%), Gaps = 3/57 (5%)
+ Strand=Plus/Plus
+
+Query  10  GGGAAGATCTTCCAGTATTGGCTCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  66
+           ||| || ||| ||| ||| |  |||||||||||||||||||||||||||||||||||
+Sbjct  8   GGGGAGCTCTCCCA-TATGG--TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATT  61
+
+
+>emb|LK871645.1| Arthrobacter pascens partial 16S rRNA gene, strain Sabo 1.2
+Length=1577
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1543  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1508
+
+
+>emb|HG329725.1| Xiphinema vuittenezi partial 28S rRNA gene, population M
+Length=1025
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  28  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  63
+
+
+>emb|HF570153.1| Lathyrus sativus microsatellite DNA locus P2B9
+Length=809
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  268  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  233
+
+
+>emb|FR694770.1| Uncultured bacterium partial 16S rRNA gene, clone OresB016
+Length=591
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  59  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  94
+
+
+>emb|HE805692.1| Aiptasia pulchella mRNA for cytochrome C (cytC gene)
+Length=402
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  366  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  331
+
+
+>emb|HE974968.1| Uncultured Dialister sp. partial 16S rRNA gene, clone 124
+Length=1516
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  47  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  82
+
+
+>emb|HE814094.1| Boletaceae sp. 11 CG-2012 genomic DNA containing ITS1, 5.8S rRNA 
+gene, ITS2, isolate 1411
+Length=902
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  32  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+           ||||||||||||||||||||||||||||||||||||
+Sbjct  39  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  74
+
+
+>emb|HE586563.1| Clostridium akagii partial gene for beta-ketoacyl synthase, strain 
+DSM 12554, clone pSB041
+Length=610
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32   TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  478  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  443
+
+
+>emb|HE604030.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone8
+Length=1619
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1544  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1509
+
+
+>emb|HE604024.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone78
+Length=1595
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1521  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1486
+
+
+>emb|HE604020.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone67
+Length=1603
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1528  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1493
+
+
+>emb|HE604011.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone2
+Length=1596
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1521  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1486
+
+
+>emb|HE604010.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone29
+Length=1598
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1523  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1488
+
+
+>emb|HE604005.1| Uncultured bacterium partial 16S rRNA gene, clone Central-Bottom-cDNA_clone179
+Length=1588
+
+ Score = 66.2 bits (72),  Expect = 1e-06
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  32    TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  67
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1513  TCGACCTGCAGGCGGCCGCGAATTCACTAGTGATTT  1478
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Sep 11, 2014  3:02 AM
+  Number of letters in database: 65,728,965,084
+  Number of sequences in database:  24,663,954
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 24663954
+Number of Hits to DB: 40320546
+Number of extensions: 68966
+Number of successful extensions: 68966
+Number of sequences better than 10: 53
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 68963
+Number of HSP's successfully gapped: 54
+Length of query: 1389
+Length of database: 65728965084
+Length adjustment: 37
+Effective length of query: 1352
+Effective length of database: 64816398786
+Effective search space: 87631771158672
+Effective search space used: 87631771158672
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 47 (43.7 bits)
+
+
+
+
