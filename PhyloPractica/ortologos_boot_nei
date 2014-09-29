@@ -1,0 +1,5504 @@
+
+Neighbor-Joining/UPGMA method version 3.69.650
+
+
+  11 Populations
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !           +ASHGO01704
+  !           ! 
+  !           !                        +PENCH04510
+  !           !                        ! 
+  !           !                        !   +ASPAC03769
+  1-----------2                      +-9   ! 
+  !           !                      ! ! +-7               +-ASPCL04100
+  !           !                      ! ! ! !             +-3 
+  !           !                      ! ! ! +-------------4 +NEOFI00364
+  !           !                      ! +-8               ! 
+  !           +----------------------6   !               +ASPFU06544
+  !                                  !   ! 
+  !                                  !   +PENCW11731
+  !                                  ! 
+  !                                  !         +ASPFN08740
+  !                                  +---------5 
+  !                                            +ASPOR04405
+  ! 
+  +--------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -0.92941
+   1             2            4.89203
+   2          ASHGO01704     -2.24160
+   2             6            9.21075
+   6             9            0.86311
+   9          PENCH04510     -0.12335
+   9             8            0.13547
+   8             7            0.80866
+   7          ASPAC03769     -0.56469
+   7             4            5.77819
+   4             3            0.89700
+   3          ASPCL04100      0.88220
+   3          NEOFI00364     -0.73041
+   4          ASPFU06544     -0.88403
+   8          PENCW11731     -0.12193
+   6             5            4.05875
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781     10.73958
+
+
+Data set # 2:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !        +MUSAC06263
+  !        ! 
+  !        !            +PENCH04510
+  !        !            ! 
+  !        !            !          +ASPAC03769
+  3--------5    +-------9          ! 
+  !        !    !       ! +--------4                     +----ASPCL04100
+  !        !    !       ! !        !                  +--1 
+  !        !    !       ! !        +------------------2  +ASPFU06544
+  !        !    !       +-8                           ! 
+  !        +----7         !                           +NEOFI00364
+  !             !         ! 
+  !             !         +PENCW11731
+  !             ! 
+  !             !   +ASPFN08740
+  !             +---6 
+  !                 +ASPOR04405
+  ! 
+  +------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704     -0.88873
+   3             5            5.59083
+   5          MUSAC06263     -1.17175
+   5             7            3.32206
+   7             9            5.05047
+   9          PENCH04510     -0.57150
+   9             8            0.57151
+   8             4            5.59045
+   4          ASPAC03769     -6.63875
+   4             2           12.27854
+   2             1            1.82147
+   1          ASPCL04100      3.28744
+   1          ASPFU06544     -3.12805
+   2          NEOFI00364     -1.81915
+   8          PENCW11731     -0.57150
+   7             6            2.22476
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   3          HORVD05781      8.21058
+
+
+Data set # 3:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                         +-----------MUSAC06263
+                         ! 
+                         !                +ASPFU06544
+  +----------------------3          +-----7 
+  !                      !          !     ! +NEOFI00364
+  !                      !          !     +-8 
+  !                      !          !       ! +ASPCL04100
+  !                      +----------6       +-9 
+  !                                 !         +---------------ASHGO01704
+  !                                 ! 
+  !                                 !   +ASPAC03769
+  !                                 +---5 
+  !                                     ! +PENCW11731
+  !                                     +-4 
+  !                                       +PENCH04510
+  ! 
+  !                    +ASPFN08740
+  2--------------------1 
+  !                    +ASPOR04405
+  ! 
+  +--------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             3            8.31589
+   3          MUSAC06263      4.24389
+   3             6            4.16994
+   6             7            2.06127
+   7          ASPFU06544     -0.65391
+   7             8            0.62491
+   8          NEOFI00364     -0.48993
+   8             9            0.47081
+   9          ASPCL04100     -0.26324
+   9          ASHGO01704      5.89733
+   6             5            1.38797
+   5          ASPAC03769      0.20095
+   5             4            0.26100
+   4          PENCW11731     -0.02606
+   4          PENCH04510      0.03389
+   2             1            7.58484
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781      3.13438
+
+
+Data set # 4:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----ASHGO01704
+  ! 
+  !                        +-----MUSAC06263
+  !                        ! 
+  !                        !              +PENCW11731
+  !                        !              ! 
+  !                        !              !        +ASPFN08740
+  1------------------------2              !      +-5 
+  !                        !           +--8      ! +ASPOR04405
+  !                        !           !  ! +----6 
+  !                        !           !  ! !    !             +ASPCL04100
+  !                        !           !  ! !    !           +-3 
+  !                        !           !  +-9    +-----------4 +ASPFU06544
+  !                        +-----------7    !                ! 
+  !                                    !    !                +NEOFI00364
+  !                                    !    ! 
+  !                                    !    +PENCH04510
+  !                                    ! 
+  !                                    +ASPAC03769
+  ! 
+  +---------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      3.46611
+   1             2           14.19190
+   2          MUSAC06263      3.41865
+   2             7            6.81497
+   7             8            1.70524
+   8          PENCW11731     -1.16431
+   8             9            1.17354
+   9             6            2.73322
+   6             5            0.98286
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   6             4            7.01994
+   4             3            0.04415
+   3          ASPCL04100      0.22544
+   3          ASPFU06544     -0.04423
+   4          NEOFI00364     -0.04163
+   9          PENCH04510     -0.99477
+   7          ASPAC03769     -1.88080
+   1          HORVD05781      5.77009
+
+
+Data set # 5:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+            +PENCW11731
+  +---------1 
+  !         +------------------------------------------ASHGO01704
+  ! 
+  !    +PENCH04510
+  !    ! 
+  !    !                             +ASPFN08740
+  !    !        +--------------------5 
+  2----3        !                    ! +ASPOR04405
+  !    !        !                    +-6 
+  !    !        !                      !         +--------------MUSAC06263
+  !    !        !                      +---------7 
+  !    +--------4                                ! +ASPCL04100
+  !             !                                +-8 
+  !             !                                  ! +NEOFI00364
+  !             !                                  +-9 
+  !             !                                    +ASPFU06544
+  !             ! 
+  !             +ASPAC03769
+  ! 
+  +--------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             1            3.68062
+   1          PENCW11731     -7.30338
+   1          ASHGO01704     15.91804
+   2             3            1.85601
+   3          PENCH04510     -3.14429
+   3             4            3.15315
+   4             5            7.57112
+   5          ASPFN08740     -0.24312
+   5             6            0.15195
+   6          ASPOR04405     -0.15195
+   6             7            3.83511
+   7          MUSAC06263      5.33649
+   7             8            0.76552
+   8          ASPCL04100     -0.00497
+   8             9            0.19938
+   9          NEOFI00364      0.15361
+   9          ASPFU06544     -0.12691
+   4          ASPAC03769     -3.04809
+   2          HORVD05781      7.64543
+
+
+Data set # 6:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +MUSAC06263
+  +-----5 
+  !     +-------------ASHGO01704
+  ! 
+  !           +PENCH04510
+  !           ! 
+  !           !              +ASPAC03769
+  !       +---9              ! 
+  !       !   !    +---------4                              +ASPCL04100
+  !       !   !    !         !                            +-1 
+  !       !   !    !         +----------------------------2 +NEOFI00364
+  !       !   +----7                                      ! 
+  6-------8        !                                      +ASPFU06544
+  !       !        ! 
+  !       !        +PENCW11731
+  !       ! 
+  !       !             +ASPFN08740
+  !       +-------------3 
+  !                     +ASPOR04405
+  ! 
+  +-HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             5            3.01711
+   5          MUSAC06263     -0.15271
+   5          ASHGO01704      6.75700
+   6             8            4.01990
+   8             9            2.19055
+   9          PENCH04510     -2.54696
+   9             7            2.54696
+   7             4            4.97953
+   4          ASPAC03769     -7.80654
+   4             2           14.53255
+   2             1            0.38273
+   1          ASPCL04100      0.70099
+   1          NEOFI00364     -0.51347
+   2          ASPFU06544     -0.37193
+   7          PENCW11731     -3.39595
+   8             3            6.92073
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   6          HORVD05781      1.23399
+
+
+Data set # 7:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                                   +ASPFN08740
+  !                                 +-5 
+  !                             +---6 +---------------------MUSAC06263
+  !                             !   ! 
+  !                             !   +ASPOR04405
+  !                             ! 
+  !                  +----------7                           +ASPCL04100
+  !                  !          !                         +-2 
+  !                  !          !      +------------------3 +-NEOFI00364
+  !                  !          !      !                  ! 
+  !                  !          +------8                  +ASPFU06544
+  1------------------4                 ! 
+  !                  !                 ! +PENCW11731
+  !                  !                 +-9 
+  !                  !                   +PENCH04510
+  !                  ! 
+  !                  +ASPAC03769
+  ! 
+  +-----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -0.05427
+   1             4            8.25036
+   4             7            4.60159
+   7             6            1.60933
+   6             5            1.01321
+   5          ASPFN08740     -1.62113
+   5          MUSAC06263      9.43333
+   6          ASPOR04405     -1.01320
+   7             8            2.83916
+   8             3            8.25882
+   3             2            0.92586
+   2          ASPCL04100     -0.75270
+   2          NEOFI00364      0.94412
+   3          ASPFU06544     -0.91327
+   8             9            0.22118
+   9          PENCW11731     -0.02989
+   9          PENCH04510      0.03755
+   4          ASPAC03769     -4.30211
+   1          HORVD05781      7.64429
+
+
+Data set # 8:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !         +-ASHGO01704
+  !         ! 
+  !         !               +ASPOR04405
+  !         !               ! 
+  !         !               !                               +ASPCL04100
+  3---------4             +-6     +-------------------------2 
+  !         !             ! !     !                         ! +NEOFI00364
+  !         !             ! !     !                         +-1 
+  !         !             ! !     !                           +ASPFU06544
+  !         !             ! +-----7 
+  !         +-------------5       !      +PENCW11731
+  !                       !       !    +-9 
+  !                       !       +----8 +PENCH04510
+  !                       !            ! 
+  !                       !            +ASPAC03769
+  !                       ! 
+  !                       +ASPFN08740
+  ! 
+  +--------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          MUSAC06263     -1.98910
+   3             4            4.27581
+   4          ASHGO01704      1.04533
+   4             5            6.16950
+   5             6            1.11779
+   6          ASPOR04405     -1.11779
+   6             7            2.90732
+   7             2           11.49464
+   2          ASPCL04100     -0.00988
+   2             1            0.14788
+   1          NEOFI00364     -0.02621
+   1          ASPFU06544      0.04215
+   7             8            2.12152
+   8             9            0.26425
+   9          PENCW11731     -0.00238
+   9          PENCH04510      0.01014
+   8          ASPAC03769      0.13925
+   5          ASPFN08740     -1.78846
+   3          HORVD05781     12.20104
+
+
+Data set # 9:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !        +MUSAC06263
+  !        ! 
+  !        !                              +PENCW11731
+  !        !                              ! 
+  !        !                              !                   +ASPFN08740
+  1--------2                              !        +----------3 
+  !        !                          +---8        !          +ASPOR04405
+  !        !                          !   ! +------6 
+  !        !                          !   ! !      !       +ASPCL04100
+  !        !                          !   ! !      !    +--4 
+  !        !                          !   +-9      +----5  +NEOFI00364
+  !        +--------------------------7     !           ! 
+  !                                   !     !           +ASPFU06544
+  !                                   !     ! 
+  !                                   !     +PENCH04510
+  !                                   ! 
+  !                                   +ASPAC03769
+  ! 
+  +-----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -4.63347
+   1             2            4.15838
+   2          MUSAC06263      0.68939
+   2             7           13.25782
+   7             8            1.85470
+   8          PENCW11731     -0.64735
+   8             9            0.66880
+   9             6            3.29262
+   6             3            5.25741
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   6             5            2.32894
+   5             4            1.50147
+   4          ASPCL04100      0.59675
+   4          NEOFI00364     -0.43308
+   5          ASPFU06544     -1.48996
+   9          PENCH04510     -0.64608
+   7          ASPAC03769     -1.86762
+   1          HORVD05781     11.55454
+
+
+Data set # 10:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                     +ASPOR04405
+  !                     ! 
+  !                     !              +ASPFU06544
+  !                +----3              ! 
+  !                !    !              !                  +ASPAC03769
+  !                !    !              !            +-----5 
+  !                !    +--------------9            !     ! +PENCW11731
+  !                !                   !   +--------6     +-4 
+  !                !                   !   !        !       +PENCH04510
+  1----------------2                   ! +-7        ! 
+  !                !                   ! ! !        +----------ASHGO01704
+  !                !                   +-8 ! 
+  !                !                     ! +ASPCL04100
+  !                !                     ! 
+  !                !                     +NEOFI00364
+  !                ! 
+  !                +ASPFN08740
+  ! 
+  +-----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -3.19851
+   1             2            7.11726
+   2             3            1.90247
+   3          ASPOR04405     -1.90247
+   3             9            6.15464
+   9          ASPFU06544     -0.14187
+   9             8            0.33383
+   8             7            0.66553
+   7             6            3.65176
+   6             5            2.58438
+   5          ASPAC03769     -0.48604
+   5             4            0.87957
+   4          PENCW11731     -0.03415
+   4          PENCH04510      0.04475
+   6          ASHGO01704      4.49161
+   7          ASPCL04100      0.24786
+   8          NEOFI00364     -0.32082
+   2          ASPFN08740     -3.32933
+   1          HORVD05781      9.83232
+
+
+Data set # 11:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----ASHGO01704
+  ! 
+  !                              +PENCW11731
+  !                              ! 
+  !                      +-------4  +PENCH04510
+  !                      !       !  ! 
+  !                      !       +--5              +ASPFN08740
+  !                      !          !     +--------3 
+  !                      !          !     !        +ASPOR04405
+  !                      !          +-----6 
+  !                      !                !         +-------MUSAC06263
+  1----------------------2                +---------7 
+  !                      !                          !       +ASPCL04100
+  !                      !                          +-------8 
+  !                      !                                  ! +NEOFI00364
+  !                      !                                  +-9 
+  !                      !                                    +ASPFU06544
+  !                      ! 
+  !                      +ASPAC03769
+  ! 
+  +-----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      2.76941
+   1             2           10.50219
+   2             4            3.76523
+   4          PENCW11731     -2.64410
+   4             5            1.56832
+   5          PENCH04510     -1.52473
+   5             6            2.77685
+   6             3            3.93688
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   6             7            4.40605
+   7          MUSAC06263      3.62345
+   7             8            3.57979
+   8          ASPCL04100     -0.00502
+   8             9            0.16115
+   9          NEOFI00364      0.06594
+   9          ASPFU06544     -0.06087
+   2          ASPAC03769     -5.78481
+   1          HORVD05781      2.80091
+
+
+Data set # 12:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---MUSAC06263
+  ! 
+  !                               +ASHGO01704
+  !                               ! 
+  !                               !                            +ASPCL04100
+  !                               !                          +-5 
+  !                               !          +---------------6 +NEOFI00364
+  !            +------------------4          !               ! 
+  !            !                  !        +-8               +ASPFU06544
+  !            !                  !        ! ! 
+  !            !                  !      +-9 +PENCW11731
+  !            !                  !      ! ! 
+  1------------3                  +------7 +PENCH04510
+  !            !                         ! 
+  !            !                         +ASPAC03769
+  !            ! 
+  !            !  +ASPFN08740
+  !            +--2 
+  !               +ASPOR04405
+  ! 
+  +-------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      2.19795
+   1             3            6.49146
+   3             4            9.60743
+   4          ASHGO01704     -0.87145
+   4             7            3.69877
+   7             9            0.98010
+   9             8            0.54868
+   8             6            7.93480
+   6             5            0.19762
+   5          ASPCL04100      0.30849
+   5          NEOFI00364     -0.15815
+   6          ASPFU06544     -0.19252
+   8          PENCW11731     -0.55089
+   9          PENCH04510     -0.50093
+   7          ASPAC03769     -0.99175
+   3             2            1.50665
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   1          HORVD05781      6.78134
+
+
+Data set # 13:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---ASHGO01704
+  ! 
+  !                +ASPOR04405
+  !                ! 
+  !             +--6       +--------MUSAC06263
+  !             !  !       ! 
+  !             !  +-------7     +PENCH04510
+  !             !          !     ! 
+  !             !          !     !        +ASPAC03769
+  !             !          +-----9        ! 
+  !             !                !   +----4                     +ASPCL04100
+  1-------------5                !   !    !                   +-2 
+  !             !                !   !    +-------------------3 +NEOFI00364
+  !             !                +---8                        ! 
+  !             !                    !                        +ASPFU06544
+  !             !                    ! 
+  !             !                    +PENCW11731
+  !             ! 
+  !             +ASPFN08740
+  ! 
+  +-------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      2.36527
+   1             5            8.70747
+   5             6            1.69553
+   6          ASPOR04405     -1.69552
+   6             7            5.31061
+   7          MUSAC06263      5.60680
+   7             9            3.52023
+   9          PENCH04510     -2.73915
+   9             8            2.75321
+   8             4            3.11957
+   4          ASPAC03769     -6.65939
+   4             3           12.63981
+   3             2            0.01930
+   2          ASPCL04100      0.15989
+   2          NEOFI00364     -0.02902
+   3          ASPFU06544     -0.00367
+   8          PENCW11731     -2.74480
+   5          ASPFN08740     -2.71284
+   1          HORVD05781      8.57926
+
+
+Data set # 14:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                    +PENCH04510
+                    ! 
+                    !                    +MUSAC06263
+  +-----------------7      +-------------2 
+  !                 !    +-9             +------------------ASHGO01704
+  !                 !    ! ! 
+  !                 !    ! +PENCW11731
+  !                 +----8 
+  !                      !        +ASPAC03769
+  !                      !        ! 
+  !                      +--------6                     +ASPCL04100
+  !                               !                  +--4 
+  !                               +------------------5  +NEOFI00364
+  !                                                  ! 
+  !                                                  +ASPFU06544
+  ! 
+  !                          +ASPFN08740
+  3--------------------------1 
+  !                          +ASPOR04405
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             7            8.47546
+   7          PENCH04510     -3.81858
+   7             8            2.32319
+   8             9            0.70420
+   9             2            6.57546
+   2          MUSAC06263      0.44324
+   2          ASHGO01704      9.00108
+   9          PENCW11731     -3.41421
+   8             6            4.36038
+   6          ASPAC03769     -2.20380
+   6             5            8.68492
+   5             4            1.28430
+   4          ASPCL04100      0.17677
+   4          NEOFI00364     -0.00342
+   5          ASPFU06544     -1.26348
+   3             1           12.82075
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   3          HORVD05781     -5.65429
+
+
+Data set # 15:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                         +---ASPCL04100
+                       +-1 
+  +--------------------2 +ASPFU06544
+  !                    ! 
+  !                    +NEOFI00364
+  ! 
+  !                            +-----------MUSAC06263
+  !                            ! 
+  !                            !         +PENCH04510
+  3----------------------------5         ! 
+  !                            !      +--9   +ASPAC03769
+  !                            !      !  ! +-7 
+  !                            !      !  +-8 +----------------ASHGO01704
+  !                            +------6    ! 
+  !                                   !    +PENCW11731
+  !                                   ! 
+  !                                   !          +ASPFN08740
+  !                                   +----------4 
+  !                                              +ASPOR04405
+  ! 
+  +-------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             2            7.25160
+   2             1            0.70961
+   1          ASPCL04100      1.39308
+   1          ASPFU06544     -1.23762
+   2          NEOFI00364     -0.70405
+   3             5           10.28151
+   5          MUSAC06263      4.07515
+   5             6            2.57030
+   6             9            0.96547
+   9          PENCH04510     -0.01191
+   9             8            0.01960
+   8             7            0.39059
+   7          ASPAC03769     -0.10492
+   7          ASHGO01704      6.08855
+   8          PENCW11731     -0.01094
+   6             4            3.94913
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   3          HORVD05781      9.05268
+
+
+Data set # 16:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                                        +ASPFN08740
+  !                                        ! 
+  !                                 +------4                    +ASPCL04100
+  !                                 !      !                  +-1 
+  !                                 !      +------------------2 +ASPFU06544
+  !                     +-----------5                         ! 
+  !                     !           !                         +NEOFI00364
+  !                   +-7           ! 
+  !                   ! !           +ASPOR04405
+  !                   ! ! 
+  !           +-------8 +-----MUSAC06263
+  !           !       ! 
+  !           !       ! +PENCW11731
+  3-----------6       +-9 
+  !           !         +PENCH04510
+  !           ! 
+  !           +ASPAC03769
+  ! 
+  +-----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704     -1.97265
+   3             6            9.29211
+   6             8            6.06946
+   8             7            1.54471
+   7             5            9.29284
+   5             4            5.52873
+   4          ASPFN08740     -9.21454
+   4             2           15.40793
+   2             1            0.33778
+   1          ASPCL04100     -0.20109
+   1          ASPFU06544      0.42301
+   2          NEOFI00364     -0.33207
+   5          ASPOR04405     -5.52872
+   7          MUSAC06263      4.53461
+   8             9            0.74634
+   9          PENCW11731     -0.00291
+   9          PENCH04510      0.00555
+   6          ASPAC03769     -5.67674
+   3          HORVD05781      9.73130
+
+
+Data set # 17:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------ASHGO01704
+  ! 
+  !                                  +PENCW11731
+  !                             +----8 
+  !                             !    ! +PENCH04510
+  !                             !    +-9 
+  !                             !      +ASPAC03769
+  1-----------------------------7 
+  !                             !   +ASPFN08740
+  !                             ! +-5 
+  !                             ! ! +ASPOR04405
+  !                             +-6 
+  !                               !   +-MUSAC06263
+  !                               !   ! 
+  !                               +---4               +-----ASPCL04100
+  !                                   !            +--2 
+  !                                   +------------3  +ASPFU06544
+  !                                                ! 
+  !                                                +NEOFI00364
+  ! 
+  +---HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      6.04112
+   1             7           17.16225
+   7             8            2.64023
+   8          PENCW11731     -0.07344
+   8             9            0.07239
+   9          PENCH04510     -0.05276
+   9          ASPAC03769      0.49077
+   7             6            1.39952
+   6             5            0.98465
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   6             4            2.51694
+   4          MUSAC06263      1.27162
+   4             3            7.35673
+   3             2            1.81449
+   2          ASPCL04100      3.28226
+   2          ASPFU06544     -3.07020
+   3          NEOFI00364     -1.80424
+   1          HORVD05781      2.44416
+
+
+Data set # 18:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--------------ASHGO01704
+  ! 
+  !                    +PENCW11731
+  !                    ! 
+  !                    !             +ASPFN08740
+  !                    !             ! 
+  !                    !    +--------4                         +ASPCL04100
+  !               +----7    !        !                       +-2 
+  !               !    !    !        +-----------------------3 +ASPFU06544
+  !               !    !  +-8                                ! 
+  !               !    !  ! !                                +NEOFI00364
+  !               !    !  ! ! 
+  1---------------6    +--9 !        +-----------------MUSAC06263
+  !               !       ! +--------5 
+  !               !       !          +ASPOR04405
+  !               !       ! 
+  !               !       +PENCH04510
+  !               ! 
+  !               +ASPAC03769
+  ! 
+  +------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      5.89813
+   1             6            6.23310
+   6             7            2.04423
+   7          PENCW11731     -1.38660
+   7             9            1.06263
+   9             8            0.42696
+   8             4            3.64236
+   4          ASPFN08740     -3.23012
+   4             3            9.42910
+   3             2            0.18272
+   2          ASPCL04100      0.21018
+   2          ASPFU06544     -0.05372
+   3          NEOFI00364     -0.18047
+   8             5            3.43593
+   5          MUSAC06263      7.09673
+   5          ASPOR04405     -2.21045
+   9          PENCH04510     -1.00464
+   6          ASPAC03769     -2.53234
+   1          HORVD05781      2.69875
+
+
+Data set # 19:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !      +------MUSAC06263
+  !      ! 
+  1------2                            +PENCW11731
+  !      !                            ! 
+  !      !                            !     +PENCH04510
+  !      +----------------------------3     ! 
+  !                                   !     !               +ASPFN08740
+  !                                   !     !        +------5 
+  !                                   +-----4        !      +ASPOR04405
+  !                                         !    +---7 
+  !                                         !    !   !       +ASPCL04100
+  !                                         !    !   +-------8 
+  !                                         +----6           ! +NEOFI00364
+  !                                              !           +-9 
+  !                                              !             +ASPFU06544
+  !                                              ! 
+  !                                              +ASPAC03769
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.65857
+   1             2            3.42605
+   2          MUSAC06263      3.44993
+   2             3           15.16290
+   3          PENCW11731     -5.24411
+   3             4            3.10799
+   4          PENCH04510     -3.06752
+   4             6            2.51026
+   6             7            2.27814
+   7             5            3.45360
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   7             8            3.92965
+   8          ASPCL04100      0.04177
+   8             9            0.11000
+   9          NEOFI00364     -0.00373
+   9          ASPFU06544      0.01646
+   6          ASPAC03769     -2.22211
+   1          HORVD05781      3.99134
+
+
+Data set # 20:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----MUSAC06263
+  ! 
+  !             +PENCH04510
+  !             ! 
+  !             !       +ASPAC03769
+  !             !       ! 
+  4-------------9  +----7                   +ASPFN08740
+  !             !  !    !        +----------3 
+  !             !  !    +--------5          +ASPOR04405
+  !             !  !             ! 
+  !             !  !             +---------------------ASHGO01704
+  !             +--8 
+  !                !                                         +ASPCL04100
+  !                !                                       +-1 
+  !                !        +------------------------------2 +ASPFU06544
+  !                !        !                              ! 
+  !                +--------6                              +NEOFI00364
+  !                         ! 
+  !                         +PENCW11731
+  ! 
+  +------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4          MUSAC06263      2.46994
+   4             9            5.89346
+   9          PENCH04510     -4.02072
+   9             8            1.26591
+   8             7            2.37950
+   7          ASPAC03769     -4.20296
+   7             5            3.86995
+   5             3            4.71276
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   5          ASHGO01704      9.57225
+   8             6            3.92910
+   6             2           13.35290
+   2             1            0.21241
+   1          ASPCL04100      0.34750
+   1          ASPFU06544     -0.21043
+   2          NEOFI00364     -0.20832
+   6          PENCW11731     -5.44107
+   4          HORVD05781      5.75394
+
+
+Data set # 21:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------ASHGO01704
+  ! 
+  !                                  +MUSAC06263
+  !             +--------------------4 
+  !             !                    !       +PENCW11731
+  !             !                    +-------8 
+  !             !                            ! +PENCH04510
+  !             !                            +-9 
+  !             !                              ! +ASPAC03769
+  !             !                              +-7 
+  1-------------3                                !             +ASPCL04100
+  !             !                                +-------------6 
+  !             !                                              ! +NEOFI00364
+  !             !                                              +-5 
+  !             !                                                +ASPFU06544
+  !             ! 
+  !             !           +ASPFN08740
+  !             +-----------2 
+  !                         +ASPOR04405
+  ! 
+  +----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      4.55571
+   1             3            5.37231
+   3             4            8.02715
+   4          MUSAC06263      0.31014
+   4             8            2.87947
+   8          PENCW11731     -0.45992
+   8             9            0.45907
+   9          PENCH04510     -0.44808
+   9             7            0.83379
+   7          ASPAC03769     -0.56902
+   7             6            5.25899
+   6          ASPCL04100      0.11949
+   6             5            0.03872
+   5          NEOFI00364      0.03504
+   5          ASPFU06544     -0.02476
+   3             2            4.61503
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   1          HORVD05781      1.88008
+
+
+Data set # 22:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------ASHGO01704
+  ! 
+  !            +MUSAC06263
+  !            ! 
+  1------------2                           +PENCW11731
+  !            !                           ! 
+  !            +---------------------------8 +PENCH04510
+  !                                        ! ! 
+  !                                        +-9 +ASPAC03769
+  !                                          ! ! 
+  !                                          +-7        +ASPFN08740
+  !                                            !   +----5 
+  !                                            !   !    +ASPOR04405
+  !                                            +---6 
+  !                                                !          +ASPCL04100
+  !                                                !        +-3 
+  !                                                +--------4 +NEOFI00364
+  !                                                         ! 
+  !                                                         +ASPFU06544
+  ! 
+  +----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      6.71031
+   1             2            7.28017
+   2          MUSAC06263     -0.73065
+   2             8           15.48875
+   8          PENCW11731     -0.25952
+   8             9            0.27155
+   9          PENCH04510     -0.17002
+   9             7            0.57144
+   7          ASPAC03769     -0.46029
+   7             6            2.09216
+   6             5            2.88475
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   6             4            5.14849
+   4             3            1.21820
+   3          ASPCL04100      0.24425
+   3          NEOFI00364     -0.08171
+   4          ASPFU06544     -1.20061
+   1          HORVD05781      2.73352
+
+
+Data set # 23:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-MUSAC06263
+  ! 
+  !                          +ASPCL04100
+  !                        +-8 
+  !                     +--9 +NEOFI00364
+  !                     !  ! 
+  !                     !  +ASPFU06544
+  !                  +--7 
+  !                  !  !      +ASPAC03769
+  !                  !  !      ! 
+  !                  !  +------4          +PENCW11731
+  !                  !         !    +-----2 
+  1------------------6         +----3     +------------------ASHGO01704
+  !                  !              ! 
+  !                  !              +PENCH04510
+  !                  ! 
+  !                  !  +ASPFN08740
+  !                  +--5 
+  !                     +ASPOR04405
+  ! 
+  +---------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      1.48988
+   1             6           14.50504
+   6             7            1.94215
+   7             9            2.44494
+   9             8            0.08670
+   8          ASPCL04100      0.11380
+   8          NEOFI00364      0.02050
+   9          ASPFU06544     -0.07982
+   7             4            5.67102
+   4          ASPAC03769     -3.64435
+   4             3            3.76023
+   3             2            4.62933
+   2          PENCW11731     -8.06077
+   2          ASHGO01704     14.53653
+   3          PENCH04510     -4.57282
+   6             5            2.45234
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781      7.29715
+
+
+Data set # 24:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                        +--------MUSAC06263
+                        ! 
+  +---------------------3                      +ASPCL04100
+  !                     !                    +-1 
+  !                     +--------------------2 +NEOFI00364
+  !                                          ! 
+  !                                          +ASPFU06544
+  ! 
+  !                                               +ASPFN08740
+  !                            +------------------5 
+  !                            !                  +ASPOR04405
+  !                 +----------7 
+  !                 !          !    +PENCW11731
+  !                 !          !  +-8 
+  4-----------------6          +--9 +--------------------------ASHGO01704
+  !                 !             ! 
+  !                 !             +PENCH04510
+  !                 ! 
+  !                 +ASPAC03769
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             3            6.33139
+   3          MUSAC06263      2.60424
+   3             2            5.85990
+   2             1            0.12258
+   1          ASPCL04100      0.37284
+   1          NEOFI00364     -0.20376
+   2          ASPFU06544     -0.10293
+   4             6            4.97902
+   6             7            3.12247
+   7             5            5.34694
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   7             9            0.94575
+   9             8            0.27198
+   8          PENCW11731     -0.27159
+   8          ASHGO01704      7.53519
+   9          PENCH04510     -0.26609
+   6          ASPAC03769     -3.65846
+   4          HORVD05781     -0.50244
+
+
+Data set # 25:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                                                        +ASPCL04100
+                                                      +-4 
+                               +----------------------5 +ASPFU06544
+                               !                      ! 
+                               !                      +NEOFI00364
+                               ! 
+                     +---------8                       +------MUSAC06263
+                     !         !        +--------------1 
+                     !         !   +----7              +----ASHGO01704
+                     !         !   !    ! 
+  +------------------6         +---9    +PENCW11731
+  !                  !             ! 
+  !                  !             +PENCH04510
+  !                  ! 
+  !                  +ASPAC03769
+  ! 
+  ! +ASPFN08740
+  3-2 
+  ! +ASPOR04405
+  ! 
+  +-----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             6           10.94655
+   6             8            5.80387
+   8             5           12.94344
+   5             4            0.19993
+   4          ASPCL04100      0.40862
+   4          ASPFU06544     -0.25024
+   5          NEOFI00364     -0.18950
+   8             9            2.09929
+   9             7            2.74943
+   7             1            8.69052
+   1          MUSAC06263      3.68472
+   1          ASHGO01704      2.54141
+   7          PENCW11731     -3.65162
+   9          PENCH04510     -2.66514
+   6          ASPAC03769     -8.39256
+   3             2            1.30215
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   3          HORVD05781      6.94761
+
+
+Data set # 26:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--------ASHGO01704
+  ! 
+  !        +MUSAC06263
+  !        ! 
+  !        !                               +PENCW11731
+  !        !                               ! 
+  !        !                     +---------5   +PENCH04510
+  1--------2                     !         !   ! 
+  !        !                     !         +---6          +ASPFN08740
+  !        !                     !             !    +-----4 
+  !        !                     !             !    !     +ASPOR04405
+  !        !                     !             +----7 
+  !        +---------------------3                  !        +NEOFI00364
+  !                              !                  +--------8 
+  !                              !                           ! +ASPCL04100
+  !                              !                           +-9 
+  !                              !                             +ASPFU06544
+  !                              ! 
+  !                              +ASPAC03769
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      4.80956
+   1             2            4.99165
+   2          MUSAC06263      0.57754
+   2             3           11.96887
+   3             5            5.39597
+   5          PENCW11731     -3.07048
+   5             6            1.94551
+   6          PENCH04510     -1.88045
+   6             7            2.40525
+   7             4            3.21963
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   7             8            4.88375
+   8          NEOFI00364     -0.08874
+   8             9            0.09084
+   9          ASPCL04100      0.24119
+   9          ASPFU06544     -0.06864
+   3          ASPAC03769     -6.97091
+   1          HORVD05781      0.04889
+
+
+Data set # 27:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                                                   +ASPFN08740
+  !                                             +-----4 
+  !                                             !     +ASPOR04405
+  !                                       +-----5 
+  !                                       !     !            +ASPCL04100
+  !                                       !     +------------3 
+  !                                    +--6                  ! +NEOFI00364
+  !                                    !  !                  +-2 
+  !                                    !  !                    +ASPFU06544
+  !                                  +-9  ! 
+  !                                  ! !  +PENCH04510
+  !                                  ! ! 
+  1----------------------------------8 +PENCW11731
+  !                                  ! 
+  !                                  !  +ASPAC03769
+  !                                  +--7 
+  !                                     +----------------ASHGO01704
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -2.11205
+   1             8           19.14321
+   8             9            1.20105
+   9             6            1.73951
+   6             5            3.38001
+   5             4            3.38215
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   5             3            7.09515
+   3          ASPCL04100      0.08483
+   3             2            0.08172
+   2          NEOFI00364      0.01145
+   2          ASPFU06544      0.00422
+   6          PENCH04510     -2.45897
+   9          PENCW11731     -1.70526
+   8             7            1.42284
+   7          ASPAC03769     -2.31110
+   7          ASHGO01704      9.14797
+   1          HORVD05781     10.60820
+
+
+Data set # 28:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--------------ASHGO01704
+  ! 
+  !                                                      +----ASPCL04100
+  !                                             +--------2 
+  !                            +----------------3        +ASPFU06544
+  !                            !                ! 
+  !                            !                +NEOFI00364
+  !                            ! 
+  !                            !             +PENCW11731
+  1----------------------------4             ! 
+  !                            !             !         +ASPFN08740
+  !                            !   +---------8     +---6 
+  !                            !   !         ! +---7   +ASPOR04405
+  !                            !   !         ! !   ! 
+  !                            +---5         +-9   +-------MUSAC06263
+  !                                !           ! 
+  !                                !           +PENCH04510
+  !                                ! 
+  !                                +ASPAC03769
+  ! 
+  +--HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      7.60195
+   1             4           14.27741
+   4             3            8.61365
+   3             2            4.31057
+   2          ASPCL04100      2.25332
+   2          ASPFU06544     -2.07714
+   3          NEOFI00364     -4.30969
+   4             5            2.03577
+   5             8            5.03051
+   8          PENCW11731     -0.87230
+   8             9            0.89551
+   9             7            2.22474
+   7             6            1.81036
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7          MUSAC06263      4.01377
+   9          PENCH04510      0.22776
+   5          ASPAC03769     -4.80965
+   1          HORVD05781      1.53561
+
+
+Data set # 29:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----MUSAC06263
+  ! 
+  !      +ASHGO01704
+  !      ! 
+  1------2                                 +PENCW11731
+  !      !                                 ! 
+  !      !                                 !  +PENCH04510
+  !      +---------------------------------4  ! 
+  !                                        !  !            +ASPFN08740
+  !                                        !  !     +------3 
+  !                                        +--5     !      +ASPOR04405
+  !                                           !  +--7 
+  !                                           !  !  !       +ASPCL04100
+  !                                           !  !  +-------8 
+  !                                           +--6          ! +NEOFI00364
+  !                                              !          +-9 
+  !                                              !            +ASPFU06544
+  !                                              ! 
+  !                                              +ASPAC03769
+  ! 
+  +-----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      3.82214
+   1             2            4.57275
+   2          ASHGO01704     -1.31508
+   2             4           21.19968
+   4          PENCW11731     -2.83100
+   4             5            1.70361
+   5          PENCH04510     -1.65800
+   5             6            1.92616
+   6             7            2.09008
+   7             3            4.18999
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   7             8            4.76640
+   8          ASPCL04100      0.05545
+   8             9            0.14542
+   9          NEOFI00364      0.00420
+   9          ASPFU06544      0.01145
+   6          ASPAC03769     -1.69386
+   1          HORVD05781      3.77288
+
+
+Data set # 30:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                +ASPFN08740
+  !             +--9 
+  !             !  +ASPOR04405
+  !             ! 
+  !             !        +ASPAC03769
+  !             !        ! 
+  3-------------8        !                                 +ASPCL04100
+  !             !        !                               +-1 
+  !             !   +----6          +--------------------2 +NEOFI00364
+  !             !   !    !          !                    ! 
+  !             !   !    !    +-----4                    +ASPFU06544
+  !             !   !    !    !     ! 
+  !             +---7    +----5     +PENCW11731
+  !                 !         ! 
+  !                 !         +PENCH04510
+  !                 ! 
+  !                 +------MUSAC06263
+  ! 
+  +--------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704      0.59722
+   3             8            8.32747
+   8             9            1.68711
+   9          ASPFN08740      0.00000
+   9          ASPOR04405      0.00000
+   8             7            2.65320
+   7             6            3.38921
+   6          ASPAC03769     -3.03832
+   6             5            3.29984
+   5             4            3.65498
+   4             2           13.22834
+   2             1            1.51829
+   1          ASPCL04100      0.11106
+   1          NEOFI00364      0.08769
+   2          ASPFU06544     -1.50603
+   4          PENCW11731     -6.02635
+   5          PENCH04510     -3.57714
+   7          MUSAC06263      4.26782
+   3          HORVD05781      5.44436
+
+
+Data set # 31:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !        +ASHGO01704
+  !        ! 
+  !        !                        +PENCW11731
+  !        !                        ! 
+  !        !                 +------5  +PENCH04510
+  1--------2                 !      !  ! 
+  !        !                 !      +--6                   +ASPFN08740
+  !        !                 !         !     +-------------3 
+  !        !                 !         !     !             +ASPOR04405
+  !        !                 !         +-----7 
+  !        +-----------------4               !          +ASPCL04100
+  !                          !               +----------8 
+  !                          !                          ! +NEOFI00364
+  !                          !                          +-9 
+  !                          !                            +ASPFU06544
+  !                          ! 
+  !                          +ASPAC03769
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.08262
+   1             2            3.49113
+   2          ASHGO01704     -0.52116
+   2             4            6.83097
+   4             5            2.62042
+   5          PENCW11731     -2.04808
+   5             6            1.31677
+   6          PENCH04510     -1.26097
+   6             7            2.36159
+   7             3            5.46714
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   7             8            4.39637
+   8          ASPCL04100      0.02004
+   8             9            0.14125
+   9          NEOFI00364      0.00710
+   9          ASPFU06544      0.01945
+   4          ASPAC03769     -4.08425
+   1          HORVD05781      7.28378
+
+
+Data set # 32:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                        +MUSAC06263
+                        ! 
+                        !                    +PENCW11731
+  +---------------------3                  +-7 
+  !                     !                  ! +PENCH04510
+  !                     !                  ! 
+  !                     +------------------9 +ASPAC03769
+  !                                        ! ! 
+  !                                        ! !              +ASPCL04100
+  !                                        +-8            +-4 
+  !                                          !      +-----5 +NEOFI00364
+  !                                          !      !     ! 
+  !                                          +------6     +ASPFU06544
+  !                                                 ! 
+  !                                                 +-------ASHGO01704
+  ! 
+  !  +ASPFN08740
+  2--1 
+  !  +ASPOR04405
+  ! 
+  +------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             3            9.23620
+   3          MUSAC06263     -6.72119
+   3             9            7.79317
+   9             7            0.76896
+   7          PENCW11731     -0.02068
+   7          PENCH04510      0.02867
+   9             8            0.69594
+   8          ASPAC03769     -0.44970
+   8             6            3.10485
+   6             5            2.55591
+   5             4            0.02990
+   4          ASPCL04100      0.16469
+   4          NEOFI00364     -0.01750
+   5          ASPFU06544     -0.01907
+   6          ASHGO01704      3.20750
+   2             1            1.41047
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781     10.31630
+
+
+Data set # 33:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                +----MUSAC06263
+  !                ! 
+  1----------------3       +NEOFI00364
+  !                !       ! 
+  !                +-------4 +ASPFU06544
+  !                        ! ! 
+  !                        +-5 +-ASPCL04100
+  !                          ! ! 
+  !                          +-6               +PENCH04510
+  !                            !               ! 
+  !                            +---------------9   +ASPAC03769
+  !                                            ! +-7 
+  !                                            ! ! !             +ASPFN08740
+  !                                            +-8 +-------------2 
+  !                                              !               +ASPOR04405
+  !                                              ! 
+  !                                              +PENCW11731
+  ! 
+  +----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.00684
+   1             3            7.14064
+   3          MUSAC06263      1.93229
+   3             4            3.32961
+   4          NEOFI00364     -1.13568
+   4             5            0.72265
+   5          ASPFU06544     -0.76270
+   5             6            0.50548
+   6          ASPCL04100      0.99268
+   6             9            6.73633
+   9          PENCH04510     -0.03044
+   9             8            0.03045
+   8             7            0.30519
+   7          ASPAC03769      0.04752
+   7             2            5.65491
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   8          PENCW11731     -0.03044
+   1          HORVD05781      4.67242
+
+
+Data set # 34:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                    +ASPOR04405
+  !                    ! 
+  !                    !                                    +ASPCL04100
+  !                    !                          +---------5 
+  !              +-----3                          !         ! +NEOFI00364
+  !              !     !                     +----6         +-4 
+  !              !     !                     !    !           +ASPFU06544
+  !              !     !                     !    ! 
+  !              !     !                     !    +------ASHGO01704
+  !              !     +---------------------7 
+  1--------------2                           !    +PENCW11731
+  !              !                           !  +-9 
+  !              !                           +--8 +PENCH04510
+  !              !                              ! 
+  !              !                              +ASPAC03769
+  !              ! 
+  !              +ASPFN08740
+  ! 
+  +-------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -0.10756
+   1             2            6.15492
+   2             3            2.24284
+   3          ASPOR04405     -2.24284
+   3             7            8.83005
+   7             6            1.80168
+   6             5            3.93195
+   5          ASPCL04100      0.08305
+   5             4            0.04304
+   4          NEOFI00364      0.00214
+   4          ASPFU06544      0.02395
+   6          ASHGO01704      2.98377
+   7             8            1.08968
+   8             9            0.13320
+   9          PENCW11731      0.00191
+   9          PENCH04510      0.00064
+   8          ASPAC03769      0.26394
+   2          ASPFN08740     -3.92497
+   1          HORVD05781     10.48768
+
+
+Data set # 35:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                 +ASHGO01704
+                 ! 
+                 !          +MUSAC06263
+  +--------------3          ! 
+  !              !          !                                 +-ASPCL04100
+  !              !          !                               +-6 
+  !              !          !                    +----------7 +NEOFI00364
+  !              +----------4                    !          ! 
+  !                         !                  +-8          +ASPFU06544
+  !                         !                  ! ! 
+  !                         !             +----9 +PENCW11731
+  !                         !             !    ! 
+  !                         +-------------5    +PENCH04510
+  !                                       ! 
+  !                                       +ASPAC03769
+  ! 
+  ! +ASPFN08740
+  2-1 
+  ! +ASPOR04405
+  ! 
+  +---------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             3            5.89863
+   3          ASHGO01704      0.27040
+   3             4            4.38923
+   4          MUSAC06263     -2.38776
+   4             5            5.43036
+   5             9            1.79903
+   9             8            0.24029
+   8             7            4.50767
+   7             6            0.36781
+   6          ASPCL04100      0.62980
+   6          NEOFI00364     -0.43524
+   7          ASPFU06544     -0.35790
+   8          PENCW11731     -0.24566
+   9          PENCH04510     -0.21047
+   5          ASPAC03769     -2.27355
+   2             1            0.83082
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781      8.62974
+
+
+Data set # 36:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                +MUSAC06263
+                ! 
+  +-------------3                                            +ASPCL04100
+  !             !                                          +-1 
+  !             +------------------------------------------2 +NEOFI00364
+  !                                                        ! 
+  !                                                        +ASPFU06544
+  ! 
+  !                              +ASPFN08740
+  !                        +-----6 
+  !                        !     +ASPOR04405
+  !         +--------------7 
+  !         !              !        +---------------------ASHGO01704
+  !         !              +--------8 
+  4---------5                       ! +PENCW11731
+  !         !                       +-9 
+  !         !                         +PENCH04510
+  !         ! 
+  !         +ASPAC03769
+  ! 
+  +--------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             3            4.95817
+   3          MUSAC06263     -8.73648
+   3             2           15.57158
+   2             1            0.22014
+   1          ASPCL04100      0.35899
+   1          NEOFI00364     -0.17938
+   2          ASPFU06544     -0.19892
+   4             5            3.64446
+   5             7            5.59362
+   7             6            2.12858
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7             8            3.38450
+   8          ASHGO01704      7.97840
+   8             9            0.60963
+   9          PENCW11731     -0.00102
+   9          PENCH04510      0.00621
+   5          ASPAC03769     -6.57667
+   4          HORVD05781     11.98266
+
+
+Data set # 37:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +PENCH04510
+    ! 
+    !                  +ASPAC03769
+  +-9                  ! 
+  ! !       +----------4                                       +ASPCL04100
+  ! !       !          !                                     +-1 
+  ! !       !          +-------------------------------------2 +NEOFI00364
+  ! +-------5                                                ! 
+  !         !                                                +ASPFU06544
+  !         ! 
+  !         +----------------------ASHGO01704
+  ! 
+  !                        +ASPFN08740
+  !         +--------------3 
+  !  +------6              +ASPOR04405
+  !  !      ! 
+  8--7      +----MUSAC06263
+  !  ! 
+  !  +PENCW11731
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             9            0.98150
+   9          PENCH04510     -3.04413
+   9             5            4.58957
+   5             4            5.78797
+   4          ASPAC03769    -12.40670
+   4             2           20.81374
+   2             1            0.28208
+   1          ASPCL04100      0.12065
+   1          NEOFI00364      0.06398
+   2          ASPFU06544     -0.27769
+   5          ASHGO01704     12.74041
+   8             7            1.62134
+   7             6            3.57635
+   6             3            8.15880
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   6          MUSAC06263      2.63331
+   7          PENCW11731     -3.11031
+   8          HORVD05781     10.34704
+
+
+Data set # 38:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---ASHGO01704
+  ! 
+  !      +NEOFI00364
+  !    +-8 
+  !    ! ! +ASPCL04100
+  !    ! +-9 
+  !    !   +ASPFU06544
+  !    ! 
+  !    !                                          +ASPAC03769
+  6----7                      +-------------------3 
+  !    !                      !                   ! +--------MUSAC06263
+  !    !                      !                   +-2 
+  !    !               +------4                     ! +PENCW11731
+  !    !               !      !                     +-1 
+  !    !               !      !                       +PENCH04510
+  !    +---------------5      ! 
+  !                    !      +ASPFN08740
+  !                    ! 
+  !                    +ASPOR04405
+  ! 
+  +---------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          ASHGO01704      2.28465
+   6             7            2.75963
+   7             8            1.25453
+   8          NEOFI00364     -0.62646
+   8             9            0.63160
+   9          ASPCL04100      0.64322
+   9          ASPFU06544     -0.49513
+   7             5            8.62455
+   5             4            3.94788
+   4             3           11.03397
+   3          ASPAC03769     -0.35339
+   3             2            0.77199
+   2          MUSAC06263      5.07922
+   2             1            0.80342
+   1          PENCW11731     -0.00801
+   1          PENCH04510      0.01606
+   4          ASPFN08740     -6.57980
+   5          ASPOR04405     -3.94788
+   6          HORVD05781      5.43160
+
+
+Data set # 39:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------MUSAC06263
+  ! 
+  !      +ASPOR04405
+  !      ! 
+  !   +--5          +PENCH04510
+  !   !  !          ! 
+  !   !  !          !            +NEOFI00364
+  !   !  +----------7 +----------2 
+  !   !             ! !          +ASPFU06544
+  !   !             ! ! 
+  !   !             +-9      +ASPAC03769
+  3---4               ! +----6 
+  !   !               ! !    !          +ASPCL04100
+  !   !               +-8    +----------1 
+  !   !                 !               +---------------------ASHGO01704
+  !   !                 ! 
+  !   !                 +PENCW11731
+  !   ! 
+  !   +ASPFN08740
+  ! 
+  +----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          MUSAC06263      6.03500
+   3             4            2.32223
+   4             5            1.47682
+   5          ASPOR04405     -1.47682
+   5             7            5.92894
+   7          PENCH04510     -1.64654
+   7             9            0.95257
+   9             2            5.87991
+   2          NEOFI00364     -0.02984
+   2          ASPFU06544      0.05448
+   9             8            0.80447
+   8             6            2.69472
+   6          ASPAC03769     -3.24540
+   6             1            5.96961
+   1          ASPCL04100     -5.25129
+   1          ASHGO01704     11.56670
+   8          PENCW11731     -1.64240
+   4          ASPFN08740     -2.46136
+   3          HORVD05781      5.81579
+
+
+Data set # 40:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--------MUSAC06263
+  ! 
+  !        +---ASHGO01704
+  !        ! 
+  !        !                       +PENCW11731
+  !        !                       ! 
+  !        !                       !            +ASPFN08740
+  1--------2                       !      +-----6 
+  !        !               +-------8      !     +ASPOR04405
+  !        !               !       ! +----7 
+  !        !               !       ! !    !               +ASPCL04100
+  !        !               !       ! !    +---------------4 
+  !        !               !       +-9                    !   +NEOFI00364
+  !        +---------------5         !                    +---3 
+  !                        !         !                        +ASPFU06544
+  !                        !         ! 
+  !                        !         +PENCH04510
+  !                        ! 
+  !                        +ASPAC03769
+  ! 
+  +-------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      3.73128
+   1             2            3.83204
+   2          ASHGO01704      1.62385
+   2             5            7.04713
+   5             8            3.44753
+   8          PENCW11731     -0.44979
+   8             9            0.44979
+   9             7            2.05548
+   7             6            2.74069
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7             4            6.86543
+   4          ASPCL04100     -1.60093
+   4             3            1.74244
+   3          NEOFI00364      0.13622
+   3          ASPFU06544     -0.12101
+   9          PENCH04510     -0.44979
+   5          ASPAC03769     -3.20456
+   1          HORVD05781      5.85179
+
+
+Data set # 41:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------ASHGO01704
+  ! 
+  !                            +ASPAC03769
+  !                 +----------3 
+  !                 !          !                            +ASPCL04100
+  !                 !          +----------------------------2 
+  !              +--4                                       ! +NEOFI00364
+  !              !  !                                       +-1 
+  !              !  !                                         +ASPFU06544
+  !        +-----5  ! 
+  !        !     !  +PENCW11731
+  !        !     ! 
+  ! +------7     +PENCH04510
+  ! !      ! 
+  ! !      !  +ASPFN08740
+  9-8      +--6 
+  ! !         +ASPOR04405
+  ! ! 
+  ! +-----MUSAC06263
+  ! 
+  +----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   9          ASHGO01704      3.34373
+   9             8            0.67250
+   8             7            3.06555
+   7             5            2.86638
+   5             4            1.29166
+   4             3            4.76638
+   3          ASPAC03769     -6.31495
+   3             2           13.22431
+   2          ASPCL04100     -0.05221
+   2             1            0.15112
+   1          NEOFI00364     -0.02945
+   1          ASPFU06544      0.04789
+   4          PENCW11731     -2.15277
+   5          PENCH04510     -1.29166
+   7             6            1.18813
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   8          MUSAC06263      2.60139
+   9          HORVD05781      4.77150
+
+
+Data set # 42:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !        +---MUSAC06263
+  !        ! 
+  !        !                                                 +ASPCL04100
+  !        !                               +-----------------5 
+  !        !                               !                 ! +NEOFI00364
+  2--------3                        +------6                 +-4 
+  !        !                        !      !                   +ASPFU06544
+  !        !                      +-9      ! 
+  !        !                      ! !      +PENCW11731
+  !        !                      ! ! 
+  !        +----------------------8 +PENCH04510
+  !                               ! 
+  !                               !      +ASPAC03769
+  !                               +------7 
+  !                                      !                  +ASPFN08740
+  !                                      +------------------1 
+  !                                                         +ASPOR04405
+  ! 
+  +-----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2          ASHGO01704      0.12701
+   2             3            5.33786
+   3          MUSAC06263      1.99882
+   3             8           13.24496
+   8             9            0.38225
+   9             6            3.86108
+   6             5           10.25280
+   5          ASPCL04100      0.10692
+   5             4            0.06220
+   4          NEOFI00364      0.03650
+   4          ASPFU06544     -0.01036
+   6          PENCW11731     -5.53908
+   9          PENCH04510     -3.82807
+   8             7            3.84926
+   7          ASPAC03769     -5.28202
+   7             1           10.80168
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781      6.55382
+
+
+Data set # 43:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------ASHGO01704
+  ! 
+  !                                     +---MUSAC06263
+  !                                     ! 
+  !                                     !                     +ASPCL04100
+  !                                     !                   +-2 
+  !                                     !       +-----------3 +NEOFI00364
+  1-------------------------------------5       !           ! 
+  !                                     !       !           +ASPFU06544
+  !                                     !  +----7 
+  !                                     !  !    !   +PENCW11731
+  !                                     !  !    ! +-9 
+  !                                     !  !    +-8 +PENCH04510
+  !                                     +--6      ! 
+  !                                        !      +ASPAC03769
+  !                                        ! 
+  !                                        !    +ASPFN08740
+  !                                        +----4 
+  !                                             +ASPOR04405
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      6.24497
+   1             5           17.90740
+   5          MUSAC06263      1.62157
+   5             6            1.27433
+   6             7            2.41797
+   7             3            5.42272
+   3             2            0.06777
+   2          ASPCL04100      0.24497
+   2          NEOFI00364     -0.04552
+   3          ASPFU06544     -0.05873
+   7             8            1.04230
+   8             9            0.20965
+   9          PENCW11731     -0.00853
+   9          PENCH04510      0.01377
+   8          ASPAC03769      0.27237
+   6             4            2.14086
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   1          HORVD05781      0.43083
+
+
+Data set # 44:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---ASHGO01704
+  ! 
+  !                                  +ASPFN08740
+  !                              +---5 
+  !                           +--9   +ASPOR04405
+  !                           !  ! 
+  !                           !  +--------------MUSAC06263
+  !                           ! 
+  !                           !           +ASPAC03769
+  !                           !           ! 
+  1---------------------------8      +----4                   +ASPCL04100
+  !                           !      !    !                 +-2 
+  !                           !      !    +-----------------3 +ASPFU06544
+  !                           !   +--6                      ! 
+  !                           !   !  !                      +NEOFI00364
+  !                           +---7  ! 
+  !                               !  +PENCH04510
+  !                               ! 
+  !                               +PENCW11731
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      2.37216
+   1             8           18.39357
+   8             9            1.74869
+   9             5            2.77381
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   9          MUSAC06263      9.72724
+   8             7            2.37702
+   7             6            2.26039
+   6             4            3.60108
+   4          ASPAC03769     -6.34358
+   4             3           12.27501
+   3             2            0.09192
+   2          ASPCL04100      0.31587
+   2          ASPFU06544     -0.12853
+   3          NEOFI00364     -0.08480
+   6          PENCH04510     -3.36463
+   7          PENCW11731     -2.26349
+   1          HORVD05781      5.35322
+
+
+Data set # 45:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-------ASPCL04100
+  +----2 
+  !    +NEOFI00364
+  ! 
+  !      +ASPFU06544
+  !      ! 
+  !      !              +ASHGO01704
+  3------4              ! 
+  !      !              !                    +PENCW11731
+  !      !              !                    ! 
+  !      +--------------5                    !                 +ASPFN08740
+  !                     !                +---8       +---------1 
+  !                     !                !   ! +-----6         +ASPOR04405
+  !                     !                !   ! !     ! 
+  !                     +----------------7   +-9     +----MUSAC06263
+  !                                      !     ! 
+  !                                      !     +PENCH04510
+  !                                      ! 
+  !                                      +ASPAC03769
+  ! 
+  +---------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             2            2.24211
+   2          ASPCL04100      3.67630
+   2          NEOFI00364     -3.48094
+   3             4            3.47230
+   4          ASPFU06544     -3.49062
+   4             5            6.91894
+   5          ASHGO01704     -1.76698
+   5             7            7.92790
+   7             8            2.01684
+   8          PENCW11731     -0.04946
+   8             9            0.11051
+   9             6            2.92025
+   6             1            4.45846
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   6          MUSAC06263      2.33989
+   9          PENCH04510     -0.09228
+   7          ASPAC03769     -1.30528
+   3          HORVD05781      4.82848
+
+
+Data set # 46:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------MUSAC06263
+  ! 
+  !            +ASHGO01704
+  !            ! 
+  1------------2                             +PENCW11731
+  !            !                             ! 
+  !            +-----------------------------8 +PENCH04510
+  !                                          ! ! 
+  !                                          +-9 +ASPAC03769
+  !                                            ! ! 
+  !                                            +-7     +ASPFN08740
+  !                                              !   +-5 
+  !                                              !   ! +ASPOR04405
+  !                                              +---6 
+  !                                                  !            +ASPCL04100
+  !                                                  !          +-3 
+  !                                                  +----------4 +ASPFU06544
+  !                                                             ! 
+  !                                                             +NEOFI00364
+  ! 
+  +-----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      6.22249
+   1             2            7.38465
+   2          ASHGO01704     -3.14324
+   2             8           17.31941
+   8          PENCW11731     -0.28358
+   8             9            0.28835
+   9          PENCH04510     -0.25915
+   9             7            0.60347
+   7          ASPAC03769     -0.36264
+   7             6            2.54091
+   6             5            0.49764
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   6             4            6.49897
+   4             3            0.16326
+   3          ASPCL04100      0.16069
+   3          ASPFU06544     -0.01651
+   4          NEOFI00364     -0.15912
+   1          HORVD05781      3.47850
+
+
+Data set # 47:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----ASHGO01704
+  ! 
+  !  +---MUSAC06263
+  !  ! 
+  !  !                       +PENCW11731
+  !  !                       ! 
+  3--4                     +-9       +ASPAC03769
+  !  !                     ! !       ! 
+  !  !                     ! +-------6                      +ASPCL04100
+  !  !                     !         !                    +-1 
+  !  !                     !         +--------------------2 +ASPFU06544
+  !  +---------------------8                              ! 
+  !                        !                              +NEOFI00364
+  !                        ! 
+  !                        !                  +ASPFN08740
+  !                        !  +---------------5 
+  !                        +--7               +ASPOR04405
+  !                           ! 
+  !                           +PENCH04510
+  ! 
+  +------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704      3.34875
+   3             4            1.95184
+   4          MUSAC06263      2.13254
+   4             8           13.02118
+   8             9            1.19662
+   9          PENCW11731     -3.34729
+   9             6            4.93667
+   6          ASPAC03769     -5.40858
+   6             2           12.30683
+   2             1            0.25004
+   1          ASPCL04100     -0.23886
+   1          ASPFU06544      0.40281
+   2          NEOFI00364     -0.23707
+   8             7            1.52283
+   7             5            9.55415
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   7          PENCH04510     -3.22379
+   3          HORVD05781      7.55728
+
+
+Data set # 48:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                  +ASPOR04405
+  !                  ! 
+  !                  !               +NEOFI00364
+  !               +--4       +-------8 
+  !               !  !       !       ! +ASPCL04100
+  !               !  !       !       +-9 
+  !               !  !       !         +ASPFU06544
+  !               !  +-------7 
+  !               !          !             +ASPAC03769
+  1---------------3          !      +------2 
+  !               !          !  +---5      +-----------------ASHGO01704
+  !               !          !  !   ! 
+  !               !          +--6   +PENCW11731
+  !               !             ! 
+  !               !             +PENCH04510
+  !               ! 
+  !               +ASPFN08740
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.21153
+   1             3           13.17267
+   3             4            2.13467
+   4          ASPOR04405     -2.13466
+   4             7            6.63976
+   7             8            6.89459
+   8          NEOFI00364     -0.00289
+   8             9            0.01691
+   9          ASPCL04100      0.15843
+   9          ASPFU06544     -0.01166
+   7             6            2.44120
+   6             5            3.12065
+   5             2            5.84308
+   2          ASPAC03769     -9.78650
+   2          ASHGO01704     15.04259
+   5          PENCW11731     -4.99455
+   6          PENCH04510     -3.10389
+   3          ASPFN08740     -3.65942
+   1          HORVD05781      6.39301
+
+
+Data set # 49:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !             +ASPOR04405
+  !             ! 
+  !             !                 +NEOFI00364
+  !          +--5      +----------8 
+  !          !  !      !          ! +ASPCL04100
+  !          !  !      !          +-9 
+  !          !  +------7            +ASPFU06544
+  !          !         ! 
+  !          !         !    +ASPAC03769
+  1----------4         !    ! 
+  !          !         +----6          +PENCW11731
+  !          !              !     +----2 
+  !          !              +-----3    +---------------------ASHGO01704
+  !          !                    ! 
+  !          !                    +PENCH04510
+  !          ! 
+  !          +ASPFN08740
+  ! 
+  +---------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -5.24122
+   1             4            6.54320
+   4             5            1.48750
+   5          ASPOR04405     -1.48749
+   5             7            4.33984
+   7             8            6.27265
+   8          NEOFI00364     -0.15161
+   8             9            0.15360
+   9          ASPCL04100      0.24509
+   9          ASPFU06544     -0.02901
+   7             6            3.16107
+   6          ASPAC03769     -2.75351
+   6             3            3.39410
+   3             2            2.77802
+   2          PENCW11731     -4.89212
+   2          ASHGO01704     12.91219
+   3          PENCH04510     -2.71592
+   4          ASPFN08740     -2.47915
+   1          HORVD05781     12.64266
+
+
+Data set # 50:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+              +ASPCL04100
+  +-----------2 
+  !           !    +NEOFI00364
+  !           +----1 
+  !                +ASPFU06544
+  ! 
+  ! +-----MUSAC06263
+  ! ! 
+  ! !                                     +ASPOR04405
+  ! !                                     ! 
+  3-4                                 +---6           +------ASHGO01704
+  ! !                                 !   !           ! 
+  ! !                                 !   +-----------7     +PENCW11731
+  ! !                                 !               !   +-9 
+  ! +---------------------------------5               +---8 +PENCH04510
+  !                                   !                   ! 
+  !                                   !                   +ASPAC03769
+  !                                   ! 
+  !                                   +ASPFN08740
+  ! 
+  +------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             2            5.59758
+   2          ASPCL04100     -1.92999
+   2             1            2.11743
+   1          NEOFI00364      0.12704
+   1          ASPFU06544     -0.09733
+   3             4            0.66380
+   4          MUSAC06263      2.64442
+   4             5           15.25191
+   5             6            1.97769
+   6          ASPOR04405     -1.97769
+   6             7            5.62197
+   7          ASHGO01704      2.99797
+   7             8            1.84502
+   8             9            0.77284
+   9          PENCW11731      0.00176
+   9          PENCH04510      0.01388
+   8          ASPAC03769     -0.32988
+   5          ASPFN08740     -3.16430
+   3          HORVD05781      5.65825
+
+
+Data set # 51:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+               +PENCW11731
+           +---6 
+           !   ! +PENCH04510
+           !   +-7 
+           !     !          +ASPCL04100
+  +--------5     +----------8 
+  !        !                ! +NEOFI00364
+  !        !                +-9 
+  !        !                  +ASPFU06544
+  !        ! 
+  !        +ASPAC03769
+  ! 
+  !                         +ASPFN08740
+  !      +------------------2 
+  !      !                  +ASPOR04405
+  4------3 
+  !      !                      +MUSAC06263
+  !      +----------------------1 
+  !                             +----------------------------ASHGO01704
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             5            4.65965
+   5             6            1.80020
+   6          PENCW11731     -1.32376
+   6             7            0.88251
+   7          PENCH04510     -0.88251
+   7             8            5.58159
+   8          ASPCL04100      0.08805
+   8             9            0.06407
+   9          NEOFI00364      0.03552
+   9          ASPFU06544     -0.00401
+   5          ASPAC03769     -2.60960
+   4             3            3.35194
+   3             2            9.24304
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   3             1           11.31048
+   1          MUSAC06263     -3.19564
+   1          ASHGO01704     14.67563
+   4          HORVD05781     -0.98991
+
+
+Data set # 52:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------ASHGO01704
+  ! 
+  !                                  +MUSAC06263
+  !                                  ! 
+  !                                  !                       +ASPCL04100
+  !                                  !          +------------6 
+  !                       +----------4          !            ! +NEOFI00364
+  !                       !          !        +-8            +-5 
+  !                       !          !        ! !              +ASPFU06544
+  !                       !          !      +-9 ! 
+  !                       !          !      ! ! +PENCW11731
+  1-----------------------3          +------7 ! 
+  !                       !                 ! +PENCH04510
+  !                       !                 ! 
+  !                       !                 +ASPAC03769
+  !                       ! 
+  !                       !             +ASPFN08740
+  !                       +-------------2 
+  !                                     +ASPOR04405
+  ! 
+  +------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      3.74248
+   1             3           11.78222
+   3             4            5.26391
+   4          MUSAC06263     -2.08373
+   4             7            3.71549
+   7             9            1.00776
+   9             8            0.61751
+   8             6            6.57773
+   6          ASPCL04100      0.02745
+   6             5            0.15335
+   5          NEOFI00364      0.05985
+   5          ASPFU06544     -0.03435
+   8          PENCW11731     -0.62136
+   9          PENCH04510     -0.58038
+   7          ASPAC03769     -1.03156
+   3             2            6.83532
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   1          HORVD05781      3.67547
+
+
+Data set # 53:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---ASHGO01704
+  ! 
+  !         +----------MUSAC06263
+  !         ! 
+  1---------2                               +PENCW11731
+  !         !                               ! 
+  !         !                               !  +PENCH04510
+  !         +-------------------------------6  ! 
+  !                                         !  !              +ASPFN08740
+  !                                         !  !     +--------3 
+  !                                         +--7     !        +ASPOR04405
+  !                                            !   +-9 
+  !                                            !   ! !        +ASPCL04100
+  !                                            !   ! !      +-4 
+  !                                            +---8 +------5 +ASPFU06544
+  !                                                !        ! 
+  !                                                !        +NEOFI00364
+  !                                                ! 
+  !                                                +--ASPAC03769
+  ! 
+  +------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      2.01567
+   1             2            5.40757
+   2          MUSAC06263      5.77339
+   2             6           17.36035
+   6          PENCW11731     -2.44272
+   6             7            1.66867
+   7          PENCH04510     -1.62094
+   7             8            2.08429
+   8             9            0.48838
+   9             3            4.81207
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   9             5            3.81050
+   5             4            0.99879
+   4          ASPCL04100     -0.50568
+   4          ASPFU06544      0.67868
+   5          NEOFI00364     -0.98372
+   8          ASPAC03769      1.39862
+   1          HORVD05781      4.07284
+
+
+Data set # 54:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                                   +PENCW11731
+                                   ! 
+                        +----------4   +PENCH04510
+                        !          !   ! 
+                        !          +---5        +--ASHGO01704
+                        !              !        ! 
+                        !              +--------6 +-------MUSAC06263
+                        !                       ! ! 
+  +---------------------3                       +-7           +ASPCL04100
+  !                     !                         !         +-8 
+  !                     !                         +---------9 +NEOFI00364
+  !                     !                                   ! 
+  !                     !                                   +ASPFU06544
+  !                     ! 
+  !                     +ASPAC03769
+  ! 
+  !            +ASPFN08740
+  2------------1 
+  !            +ASPOR04405
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             3            8.65152
+   3             4            4.21198
+   4          PENCW11731     -2.87913
+   4             5            1.73821
+   5          PENCH04510     -1.63483
+   5             6            3.44889
+   6          ASHGO01704      1.30894
+   6             7            0.78987
+   7          MUSAC06263      3.23818
+   7             9            4.03567
+   9             8            0.07355
+   8          ASPCL04100      0.15355
+   8          NEOFI00364     -0.01454
+   9          ASPFU06544     -0.06259
+   3          ASPAC03769     -6.32281
+   2             1            5.22911
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781      3.21827
+
+
+Data set # 55:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--MUSAC06263
+  ! 
+  !                                    +ASPFU06544
+  !                                    ! 
+  1------------------------------------3  +NEOFI00364
+  !                                    !  ! 
+  !                                    +--4 +ASPCL04100
+  !                                       ! ! 
+  !                                       +-5 +-----------ASHGO01704
+  !                                         ! ! 
+  !                                         ! !            +PENCW11731
+  !                                         +-6          +-9 
+  !                                           !        +-8 +PENCH04510
+  !                                           !        ! ! 
+  !                                           +--------7 +ASPAC03769
+  !                                                    ! 
+  !                                                    !      +ASPFN08740
+  !                                                    +------2 
+  !                                                           +ASPOR04405
+  ! 
+  +---------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      1.59360
+   1             3           19.74520
+   3          ASPFU06544     -2.95257
+   3             4            1.82927
+   4          NEOFI00364     -1.47170
+   4             5            0.98046
+   5          ASPCL04100     -0.81780
+   5             6            0.66387
+   6          ASHGO01704      6.38772
+   6             7            4.75629
+   7             8            1.05501
+   8             9            0.26815
+   9          PENCW11731      0.00357
+   9          PENCH04510      0.00408
+   8          ASPAC03769      0.10950
+   7             2            3.68777
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   1          HORVD05781      8.59338
+
+
+Data set # 56:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !         +ASPOR04405
+  !         ! 
+  !         !                       +PENCW11731
+  !         !                 +-----5 
+  !       +-3                 !     ! +PENCH04510
+  !       ! !                 !     +-6 
+  !       ! !                 !       !          +------------ASHGO01704
+  !       ! !                 !       +----------7 
+  !       ! +-----------------4                  ! +ASPCL04100
+  !       !                   !                  +-8 
+  1-------2                   !                    ! +NEOFI00364
+  !       !                   !                    +-9 
+  !       !                   !                      +ASPFU06544
+  !       !                   ! 
+  !       !                   +ASPAC03769
+  !       ! 
+  !       +ASPFN08740
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.11917
+   1             2            3.10820
+   2             3            0.41169
+   3          ASPOR04405     -0.41169
+   3             4            7.00307
+   4             5            2.14842
+   5          PENCW11731     -0.64886
+   5             6            0.40554
+   6          PENCH04510     -0.40554
+   6             7            4.40304
+   7          ASHGO01704      4.98918
+   7             8            0.38650
+   8          ASPCL04100      0.00241
+   8             9            0.14776
+   9          NEOFI00364      0.00115
+   9          ASPFU06544      0.02270
+   4          ASPAC03769     -2.68449
+   2          ASPFN08740     -0.72046
+   1          HORVD05781      7.37629
+
+
+Data set # 57:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------------------ASHGO01704
+  ! 
+  !                      +-----------MUSAC06263
+  !                      ! 
+  !                      !                   +ASPFN08740
+  !                      !               +---6 
+  !                      !               !   +ASPOR04405
+  1----------------------2               ! 
+  !                      !        +------7    +PENCW11731
+  !                      !        !      !    ! 
+  !                      !        !      !    !               +ASPCL04100
+  !                      !        !      +----8             +-4 
+  !                      !        !           ! +-----------5 +NEOFI00364
+  !                      +--------3           ! !           ! 
+  !                               !           +-9           +ASPFU06544
+  !                               !             ! 
+  !                               !             +PENCH04510
+  !                               ! 
+  !                               +ASPAC03769
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      9.99635
+   1             2           11.66175
+   2          MUSAC06263      6.20523
+   2             3            4.63117
+   3             7            3.70473
+   7             6            1.94250
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7             8            2.30282
+   8          PENCW11731     -1.12640
+   8             9            1.12641
+   9             5            5.77413
+   5             4            0.06862
+   4          ASPCL04100      0.25949
+   4          NEOFI00364     -0.09861
+   5          ASPFU06544     -0.06564
+   9          PENCH04510     -1.12640
+   3          ASPAC03769     -6.73641
+   1          HORVD05781     -4.81175
+
+
+Data set # 58:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-ASHGO01704
+  ! 
+  !       +------------------MUSAC06263
+  !       ! 
+  1-------2                       +PENCW11731
+  !       !                       ! 
+  !       !                       !     +PENCH04510
+  !       +-----------------------3     ! 
+  !                               !     !                +ASPFN08740
+  !                               !     !           +----6 
+  !                               +-----4           !    +ASPOR04405
+  !                                     !   +-------7 
+  !                                     !   !       !        +NEOFI00364
+  !                                     !   !       +--------8 
+  !                                     +---5                ! +ASPCL04100
+  !                                         !                +-9 
+  !                                         !                  +ASPFU06544
+  !                                         ! 
+  !                                         +ASPAC03769
+  ! 
+  +-----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.97833
+   1             2            3.79356
+   2          MUSAC06263      8.74038
+   2             3           11.02935
+   3          PENCW11731     -4.24050
+   3             4            2.50902
+   4          PENCH04510     -2.45306
+   4             5            1.67994
+   5             7            3.53953
+   7             6            2.15680
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7             8            3.93547
+   8          NEOFI00364     -0.04334
+   8             9            0.05763
+   9          ASPCL04100      0.18252
+   9          ASPFU06544     -0.01474
+   5          ASPAC03769     -1.22317
+   1          HORVD05781      8.17203
+
+
+Data set # 59:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                            +ASPOR04405
+  !                            ! 
+  !                      +-----3         +--------MUSAC06263
+  !                      !     !         ! 
+  !                      !     +---------6   +PENCH04510
+  !                      !               !   ! 
+  !                      !               !   !   +ASPAC03769
+  !                      !               +---9 +-7 
+  !                      !                   ! ! !              +ASPCL04100
+  1----------------------2                   ! ! +--------------5 
+  !                      !                   +-8                ! +NEOFI00364
+  !                      !                     !                +-4 
+  !                      !                     !                  +ASPFU06544
+  !                      !                     ! 
+  !                      !                     +PENCW11731
+  !                      ! 
+  !                      +ASPFN08740
+  ! 
+  +--------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.24176
+   1             2           11.04948
+   2             3            2.96374
+   3          ASPOR04405     -2.96373
+   3             6            4.91345
+   6          MUSAC06263      4.53216
+   6             9            1.83445
+   9          PENCH04510     -0.00529
+   9             8            0.01587
+   8             7            0.44590
+   7          ASPAC03769      0.07434
+   7             5            7.42358
+   5          ASPCL04100      0.02665
+   5             4            0.13781
+   4          NEOFI00364     -0.02016
+   4          ASPFU06544      0.03503
+   8          PENCW11731     -0.00901
+   2          ASPFN08740     -5.18654
+   1          HORVD05781      7.33870
+
+
+Data set # 60:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !      +---------------ASHGO01704
+  !      ! 
+  !      !                 +ASPOR04405
+  !      !                 ! 
+  !      !               +-6            +PENCH04510
+  1------2               ! !            ! 
+  !      !               ! !            !    +ASPAC03769
+  !      !               ! +------------9    ! 
+  !      !               !              ! +--7                +ASPCL04100
+  !      !               !              ! !  !              +-3 
+  !      +---------------5              ! !  +--------------4 +NEOFI00364
+  !                      !              +-8                 ! 
+  !                      !                !                 +ASPFU06544
+  !                      !                ! 
+  !                      !                +PENCW11731
+  !                      ! 
+  !                      +ASPFN08740
+  ! 
+  +-------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -3.56748
+   1             2            2.62472
+   2          ASHGO01704      6.21895
+   2             5            6.22813
+   5             6            0.08375
+   6          ASPOR04405     -0.08374
+   6             9            5.05350
+   9          PENCH04510     -0.38983
+   9             8            0.38984
+   8             7            1.03328
+   7          ASPAC03769     -0.54290
+   7             4            5.87204
+   4             3            0.50539
+   3          ASPCL04100      0.26702
+   3          NEOFI00364     -0.09120
+   4          ASPFU06544     -0.48947
+   8          PENCW11731     -0.38983
+   5          ASPFN08740     -0.13399
+   1          HORVD05781     12.20098
+
+
+Data set # 61:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------ASHGO01704
+  ! 
+  !  +-----MUSAC06263
+  !  ! 
+  !  !                             +ASPOR04405
+  !  !                             ! 
+  !  !                             !                       +NEOFI00364
+  1--2                        +----4               +-------8 
+  !  !                        !    !               !       ! +ASPCL04100
+  !  !                        !    !               !       +-9 
+  !  !                        !    +---------------7         +ASPFU06544
+  !  !                        !                    ! 
+  !  +------------------------3                    !         +ASPAC03769
+  !                           !                    +---------6 
+  !                           !                              ! +PENCW11731
+  !                           !                              +-5 
+  !                           !                                +PENCH04510
+  !                           ! 
+  !                           +ASPFN08740
+  ! 
+  +---------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      4.41803
+   1             2            0.90517
+   2          MUSAC06263      1.91697
+   2             3            8.45437
+   3             4            1.69156
+   4          ASPOR04405     -1.69155
+   4             7            5.20747
+   7             8            2.82374
+   8          NEOFI00364     -0.14302
+   8             9            0.14600
+   9          ASPCL04100      0.20762
+   9          ASPFU06544     -0.07198
+   7             6            3.48250
+   6          ASPAC03769      0.23629
+   6             5            0.17129
+   5          PENCW11731      0.01913
+   5          PENCH04510     -0.01175
+   3          ASPFN08740     -2.89981
+   1          HORVD05781      5.28784
+
+
+Data set # 62:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-MUSAC06263
+  ! 
+  !              +ASPOR04405
+  !              ! 
+  !              !                +NEOFI00364
+  !          +---4        +-------8 
+  !          !   !        !       ! +ASPCL04100
+  !          !   !        !       +-9 
+  !          !   !        !         +ASPFU06544
+  !          !   +--------7 
+  !          !            !             +ASPAC03769
+  1----------3            !      +------2 
+  !          !            !   +--5      +---------------------ASHGO01704
+  !          !            !   !  ! 
+  !          !            +---6  +PENCW11731
+  !          !                ! 
+  !          !                +PENCH04510
+  !          ! 
+  !          +ASPFN08740
+  ! 
+  +--------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      1.70326
+   1             3            7.91752
+   3             4            2.78106
+   4          ASPOR04405     -2.78105
+   4             7            6.49718
+   7             8            5.88685
+   8          NEOFI00364     -0.25055
+   8             9            0.25913
+   9          ASPCL04100      0.35106
+   9          ASPFU06544     -0.18813
+   7             6            2.82282
+   6             5            2.27867
+   5             2            5.45046
+   2          ASPAC03769     -8.53203
+   2          ASHGO01704     16.47593
+   5          PENCW11731     -3.65467
+   6          PENCH04510     -2.24181
+   3          ASPFN08740     -4.76752
+   1          HORVD05781     11.01456
+
+
+Data set # 63:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                 +NEOFI00364
+  !                 ! 
+  !                 !   +ASPFU06544
+  1-----------------6   ! 
+  !                 !   !                          +ASPAC03769
+  !                 !   !                    +-----3 
+  !                 !   !                    !     !        +ASPFN08740
+  !                 +---9                  +-4     +--------2 
+  !                     !                  ! !              +ASPOR04405
+  !                     !   +--------------5 ! 
+  !                     !   !              ! +PENCH04510
+  !                     ! +-7              ! 
+  !                     ! ! !              +PENCW11731
+  !                     +-8 ! 
+  !                       ! +ASPCL04100
+  !                       ! 
+  !                       +------------------MUSAC06263
+  ! 
+  +------------------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -5.31608
+   1             6            7.26191
+   6          NEOFI00364     -2.33740
+   6             9            1.66246
+   9          ASPFU06544     -1.55603
+   9             8            0.73238
+   8             7            0.84272
+   7             5            5.88381
+   5             4            0.91981
+   4             3            2.27752
+   3          ASPAC03769      0.46839
+   3             2            3.42416
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   4          PENCH04510     -1.50023
+   5          PENCW11731     -0.91329
+   7          ASPCL04100      0.31014
+   8          MUSAC06263      7.44620
+   1          HORVD05781     17.11773
+
+
+Data set # 64:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                                                    +ASPFN08740
+  !                                       +------------1 
+  !                   +-------------------2            +ASPOR04405
+  !                   !                   ! 
+  !                +--9                   +MUSAC06263
+  !                !  ! 
+  !                !  +PENCH04510
+  !                ! 
+  3----------------8             +ASPAC03769
+  !                !   +---------6 
+  !                !   !         !                       +ASPCL04100
+  !                !   !         +-----------------------5 
+  !                +---7                                 ! +NEOFI00364
+  !                    !                                 +-4 
+  !                    !                                   +--ASPFU06544
+  !                    ! 
+  !                    +PENCW11731
+  ! 
+  +-----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704      0.46098
+   3             8            7.23983
+   8             9            1.30738
+   9             2            8.22206
+   2             1            5.53378
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          MUSAC06263      0.14024
+   9          PENCH04510     -3.36024
+   8             7            1.72421
+   7             6            4.15691
+   6          ASPAC03769     -4.38691
+   6             5            9.79777
+   5          ASPCL04100     -0.65956
+   5             4            0.82207
+   4          NEOFI00364     -1.23658
+   4          ASPFU06544      1.24982
+   7          PENCW11731     -3.38963
+   3          HORVD05781      7.63962
+
+
+Data set # 65:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !               +----------ASHGO01704
+  !               ! 
+  !               !     +PENCW11731
+  3---------------5   +-6 
+  !               !   ! +PENCH04510
+  !               !   ! 
+  !               +---7        +ASPFN08740
+  !                   !      +-9 
+  !                   !      ! +ASPOR04405
+  !                   +------8 
+  !                          !       +ASPAC03769
+  !                          !       ! 
+  !                          +-------4                      +ASPCL04100
+  !                                  !                    +-1 
+  !                                  +--------------------2 +NEOFI00364
+  !                                                       ! 
+  !                                                       +ASPFU06544
+  ! 
+  +-------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          MUSAC06263     -0.79995
+   3             5           10.79425
+   5          ASHGO01704      7.01715
+   5             7            2.60493
+   7             6            1.55245
+   6          PENCW11731      0.01682
+   6          PENCH04510     -0.00920
+   7             8            4.37487
+   8             9            0.41297
+   9          ASPFN08740      0.00000
+   9          ASPOR04405      0.00000
+   8             4            5.49814
+   4          ASPAC03769     -7.33721
+   4             2           14.07420
+   2             1            1.18240
+   1          ASPCL04100      0.55161
+   1          NEOFI00364     -0.36518
+   2          ASPFU06544     -1.16311
+   3          HORVD05781      9.00572
+
+
+Data set # 66:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                                       +ASPCL04100
+                                 +-----1 
+  +------------------------------2     +ASPFU06544
+  !                              ! 
+  !                              +NEOFI00364
+  ! 
+  !        +ASHGO01704
+  !        ! 
+  !        !                    +ASPOR04405
+  !        !                    ! 
+  3--------4                 +--6            +PENCW11731
+  !        !                 !  !          +-8 
+  !        !                 !  !          ! ! +-------------MUSAC06263
+  !        !                 !  +----------7 +-9 
+  !        +-----------------5             !   +PENCH04510
+  !                          !             ! 
+  !                          !             +ASPAC03769
+  !                          ! 
+  !                          +ASPFN08740
+  ! 
+  +---------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             2           13.74804
+   2             1            2.67288
+   1          ASPCL04100     -0.08191
+   1          ASPFU06544      0.24657
+   2          NEOFI00364     -2.67450
+   3             4            4.13001
+   4          ASHGO01704      0.02580
+   4             5            8.15191
+   5             6            1.51259
+   6          ASPOR04405     -1.51258
+   6             7            4.78639
+   7             8            0.94142
+   8          PENCW11731     -0.61467
+   8             9            0.59763
+   9          MUSAC06263      6.08125
+   9          PENCH04510      0.52220
+   7          ASPAC03769     -0.80662
+   5          ASPFN08740     -2.42013
+   3          HORVD05781      4.52855
+
+
+Data set # 67:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--------------ASHGO01704
+  ! 
+  !                                     +PENCH04510
+  !                                     ! 
+  !                        +------------5 +PENCW11731
+  !                        !            ! ! 
+  !                        !            +-6        +--------MUSAC06263
+  !                        !              !        ! 
+  !                        !              +--------7         +ASPCL04100
+  !        +---------------4                       !       +-8 
+  !        !               !                       +-------9 +NEOFI00364
+  !        !               !                               ! 
+  !        !               !                               +ASPFU06544
+  2--------3               ! 
+  !        !               +ASPAC03769
+  !        ! 
+  !        !           +ASPFN08740
+  !        +-----------1 
+  !                    +ASPOR04405
+  ! 
+  +---HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2          ASHGO01704      6.06138
+   2             3            3.47566
+   3             4            6.41969
+   4             5            5.16731
+   5          PENCH04510     -1.36408
+   5             6            0.89633
+   6          PENCW11731     -0.87525
+   6             7            3.56053
+   7          MUSAC06263      3.60011
+   7             9            3.29568
+   9             8            0.30843
+   8          ASPCL04100      0.20112
+   8          NEOFI00364     -0.03692
+   9          ASPFU06544     -0.28863
+   4          ASPAC03769     -6.32568
+   3             1            4.77867
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781      1.57207
+
+
+Data set # 68:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---------ASHGO01704
+  ! 
+  !                    +MUSAC06263
+  !                    ! 
+  !                    !                                     +-ASPCL04100
+  !                    !                                   +-3 
+  !                    !                  +----------------4 +NEOFI00364
+  1--------------------2                  !                ! 
+  !                    !                  !                +ASPFU06544
+  !                    !           +------7 
+  !                    !           !      !      +PENCW11731
+  !                    !           !      !    +-9 
+  !                    !           !      +----8 +PENCH04510
+  !                    +-----------6           ! 
+  !                                !           +ASPAC03769
+  !                                ! 
+  !                                ! +ASPFN08740
+  !                                +-5 
+  !                                  +ASPOR04405
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      3.26657
+   1             2            6.89383
+   2          MUSAC06263     -2.28819
+   2             6            3.94826
+   6             7            2.47253
+   7             4            5.56736
+   4             3            0.26631
+   3          ASPCL04100      0.55553
+   3          NEOFI00364     -0.39372
+   4          ASPFU06544     -0.25216
+   7             8            1.58981
+   8             9            0.37645
+   9          PENCW11731      0.00000
+   9          PENCH04510      0.00000
+   8          ASPAC03769      0.04253
+   6             5            0.38181
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781      2.58917
+
+
+Data set # 69:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                                  +ASPCL04100
+  !                     +------------5 
+  !                     !            ! +NEOFI00364
+  !                     !            +-4 
+  !                     !              +ASPFU06544
+  !                +----7 
+  !                !    !    +PENCW11731
+  !                !    !    ! 
+  !                !    !    !                               +ASPFN08740
+  !                !    +----8             +-----------------1 
+  2----------------6         ! +-----------3                 +ASPOR04405
+  !                !         ! !           ! 
+  !                !         +-9           +MUSAC06263
+  !                !           ! 
+  !                !           +PENCH04510
+  !                ! 
+  !                +ASPAC03769
+  ! 
+  +-----------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2          ASHGO01704     -3.98282
+   2             6            8.08463
+   6             7            2.41380
+   7             5            6.30374
+   5          ASPCL04100     -0.01233
+   5             4            0.14016
+   4          NEOFI00364      0.13148
+   4          ASPFU06544     -0.11277
+   7             8            2.64922
+   8          PENCW11731     -1.11917
+   8             9            1.13061
+   9             3            5.70920
+   3             1            8.45556
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   3          MUSAC06263     -3.10997
+   9          PENCH04510     -1.09875
+   6          ASPAC03769     -4.94710
+   2          HORVD05781     14.46415
+
+
+Data set # 70:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !      +--MUSAC06263
+  !      ! 
+  !      !                         +ASPOR04405
+  !      !                         ! 
+  !      !                  +------4           +PENCH04510
+  1------2                  !      !           ! 
+  !      !                  !      !           !   +ASPAC03769
+  !      !                  !      +-----------9   ! 
+  !      !                  !                  ! +-7           +ASPCL04100
+  !      !                  !                  ! ! !         +-5 
+  !      +------------------3                  ! ! +---------6 +ASPFU06544
+  !                         !                  +-8           ! 
+  !                         !                    !           +NEOFI00364
+  !                         !                    ! 
+  !                         !                    +PENCW11731
+  !                         ! 
+  !                         +ASPFN08740
+  ! 
+  +----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.15193
+   1             2            3.18842
+   2          MUSAC06263      1.18589
+   2             3            9.07591
+   3             4            3.30984
+   4          ASPOR04405     -3.30983
+   4             9            5.61861
+   9          PENCH04510     -0.39372
+   9             8            0.39907
+   8             7            0.55452
+   7          ASPAC03769     -0.25272
+   7             6            4.80220
+   6             5            0.04944
+   5          ASPCL04100      0.17736
+   5          ASPFU06544     -0.00983
+   6          NEOFI00364     -0.04096
+   8          PENCW11731     -0.39736
+   3          ASPFN08740     -5.67400
+   1          HORVD05781      7.88707
+
+
+Data set # 71:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                           +MUSAC06263
+  !                           ! 
+  !                           !                            +ASPCL04100
+  !                           !                          +-4 
+  1---------------------------2                +---------5 +NEOFI00364
+  !                           !                !         ! 
+  !                           !                !         +ASPFU06544
+  !                           !                ! 
+  !                           +----------------6       +PENCW11731
+  !                                            !     +-9 
+  !                                            !  +--8 +PENCH04510
+  !                                            !  !  ! 
+  !                                            +--7  +ASPAC03769
+  !                                               ! 
+  !                                               !          +ASPFN08740
+  !                                               +----------3 
+  !                                                          +ASPOR04405
+  ! 
+  +------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -3.19649
+   1             2            9.65969
+   2          MUSAC06263     -3.32791
+   2             6            5.92517
+   6             5            3.34917
+   5             4            0.09644
+   4          ASPCL04100      0.22205
+   4          NEOFI00364     -0.05654
+   5          ASPFU06544     -0.08082
+   6             7            0.93398
+   7             8            0.92761
+   8             9            0.39525
+   9          PENCW11731      0.00156
+   9          PENCH04510      0.00355
+   8          ASPAC03769     -0.01629
+   7             3            3.83775
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   1          HORVD05781     10.79980
+
+
+Data set # 72:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                     +ASPOR04405
+  !                     ! 
+  !                     !                        +ASPCL04100
+  !                +----5         +--------------3 
+  !                !    !         !              !    +NEOFI00364
+  !                !    !         !              +----2 
+  !                !    !         !                   +ASPFU06544
+  !                !    +---------6 
+  !                !              !          +PENCW11731
+  1----------------4              !        +-8 
+  !                !              !     +--9 +--------------ASHGO01704
+  !                !              !     !  ! 
+  !                !              +-----7  +PENCH04510
+  !                !                    ! 
+  !                !                    +ASPAC03769
+  !                ! 
+  !                +ASPFN08740
+  ! 
+  +------------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -4.40784
+   1             4            7.15696
+   4             5            1.98416
+   5          ASPOR04405     -1.98415
+   5             6            4.07483
+   6             3            6.34623
+   3          ASPCL04100     -1.92006
+   3             2            2.09005
+   2          NEOFI00364      0.00699
+   2          ASPFU06544      0.01646
+   6             7            2.62273
+   7             9            1.35245
+   9             8            0.85018
+   8          PENCW11731     -0.85155
+   8          ASHGO01704      6.30605
+   9          PENCH04510     -0.82844
+   7          ASPAC03769     -1.38976
+   4          ASPFN08740     -3.30693
+   1          HORVD05781     15.37881
+
+
+Data set # 73:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+               +PENCW11731
+           +---7 
+           !   +-----------------------------------ASHGO01704
+           ! 
+           !                    +ASPFN08740
+           !            +-------4 
+  +--------8            !       +-----------------------------MUSAC06263
+  !        !  +---------6 
+  !        !  !         !    +ASPOR04405
+  !        !  !         +----5 
+  !        !  !              !                       +ASPCL04100
+  !        +--9              +-----------------------2 
+  !           !                                      ! +NEOFI00364
+  !           !                                      +-1 
+  !           !                                        +ASPFU06544
+  !           ! 
+  !           +PENCH04510
+  ! 
+  3ASPAC03769
+  ! 
+  +---------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             8            2.63641
+   8             7            1.22664
+   7          PENCW11731     -2.42452
+   7          ASHGO01704     10.27156
+   8             9            0.82412
+   9             6            2.73931
+   6             4            2.16223
+   4          ASPFN08740     -2.31768
+   4          MUSAC06263      8.37468
+   6             5            1.34596
+   5          ASPOR04405     -1.42656
+   5             2            6.78498
+   2          ASPCL04100     -0.28180
+   2             1            0.46944
+   1          NEOFI00364      0.32043
+   1          ASPFU06544     -0.30221
+   9          PENCH04510     -2.40353
+   3          ASPAC03769     -4.55560
+   3          HORVD05781      9.74857
+
+
+Data set # 74:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                                        +ASPCL04100
+  !                                      +-2 
+  !                    +-----------------3 +ASPFU06544
+  !                    !                 ! 
+  !                    !                 +NEOFI00364
+  1--------------------4 
+  !                    !              +ASHGO01704
+  !                    !              ! 
+  !                    !              !                      +PENCW11731
+  !                    +--------------5                    +-9 
+  !                                   !            +-------8 +PENCH04510
+  !                                   !            !       ! 
+  !                                   +------------7       +ASPAC03769
+  !                                                ! 
+  !                                                ! +ASPFN08740
+  !                                                +-6 
+  !                                                  +ASPOR04405
+  ! 
+  +----------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -2.12542
+   1             4            9.56816
+   4             3            8.16940
+   3             2            0.11908
+   2          ASPCL04100      0.33287
+   2          ASPFU06544     -0.19519
+   3          NEOFI00364     -0.11603
+   4             5            6.95744
+   5          ASHGO01704     -0.86669
+   5             7            5.86057
+   7             8            3.46753
+   8             9            0.10301
+   9          PENCW11731     -0.00150
+   9          PENCH04510      0.01187
+   8          ASPAC03769      0.34006
+   7             6            1.01264
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   1          HORVD05781     13.00474
+
+
+Data set # 75:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !      +ASHGO01704
+  !      ! 
+  !      !                               +PENCW11731
+  !      !                               ! 
+  !      !                               !                +ASPFN08740
+  1------2                               !    +-----------3 
+  !      !                           +---7    !           +ASPOR04405
+  !      !                           !   !  +-8 
+  !      !                           !   !  ! !              +ASPCL04100
+  !      !                           !   !  ! !            +-4 
+  !      !                           !   +--9 +------------5 +NEOFI00364
+  !      +---------------------------6      !              ! 
+  !                                  !      !              +ASPFU06544
+  !                                  !      ! 
+  !                                  !      +PENCH04510
+  !                                  ! 
+  !                                  +ASPAC03769
+  ! 
+  +---------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -2.05304
+   1             2            3.15894
+   2          ASHGO01704     -1.37151
+   2             6           13.37962
+   6             7            2.05804
+   7          PENCW11731     -1.86932
+   7             9            1.47639
+   9             8            1.08574
+   8             3            5.94280
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   8             5            6.43434
+   5             4            0.70479
+   4          ASPCL04100      0.17453
+   4          NEOFI00364     -0.00919
+   5          ASPFU06544     -0.68637
+   9          PENCH04510     -1.44081
+   6          ASPAC03769     -2.81860
+   1          HORVD05781     10.62133
+
+
+Data set # 76:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--ASHGO01704
+  ! 
+  !                      +-----------------------------------MUSAC06263
+  !                      ! 
+  !                      !                                 +ASPCL04100
+  !                      !                               +-3 
+  !                      !                 +-------------4 +NEOFI00364
+  1----------------------2                 !             ! 
+  !                      !                 !             +ASPFU06544
+  !                      !             +---7 
+  !                      !             !   ! +PENCW11731
+  !                      !             !   +-8 
+  !                      !             !     ! +PENCH04510
+  !                      +-------------6     +-9 
+  !                                    !       +ASPAC03769
+  !                                    ! 
+  !                                    ! +ASPFN08740
+  !                                    +-5 
+  !                                      +ASPOR04405
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      1.88563
+   1             2           12.44431
+   2          MUSAC06263     19.56451
+   2             6            7.80377
+   6             7            2.25860
+   7             4            7.47750
+   4             3            0.08200
+   3          ASPCL04100      0.24255
+   3          NEOFI00364     -0.09525
+   4          ASPFU06544     -0.07123
+   7             8            0.87082
+   8          PENCW11731     -0.05566
+   8             9            0.05652
+   9          PENCH04510     -0.04094
+   9          ASPAC03769      0.48793
+   6             5            1.09886
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781      4.48283
+
+
+Data set # 77:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                                                        +ASPCL04100
+  !                                                      +-2 
+  !                                   +------------------3 +ASPFU06544
+  !                                   !                  ! 
+  !                                 +-9                  +NEOFI00364
+  !                                 ! ! 
+  !                                 ! +PENCW11731
+  !                                 ! 
+  1---------------------------------8          +ASPAC03769
+  !                                 !          ! 
+  !                                 !   +------6         +ASPFN08740
+  !                                 !   !      !   +-----4 
+  !                                 !   !      +---5     +ASPOR04405
+  !                                 +---7          ! 
+  !                                     !          +---------ASHGO01704
+  !                                     ! 
+  !                                     +PENCH04510
+  ! 
+  +----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.66685
+   1             8           20.37193
+   8             9            0.69637
+   9             3           11.14729
+   3             2            0.05525
+   2          ASPCL04100      0.18447
+   2          ASPFU06544      0.00818
+   3          NEOFI00364     -0.05272
+   9          PENCW11731     -3.23393
+   8             7            2.49724
+   7             6            4.23261
+   6          ASPAC03769     -1.83551
+   6             5            2.68538
+   5             4            3.67477
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   5          ASHGO01704      5.93163
+   7          PENCH04510     -3.79656
+   1          HORVD05781      9.98873
+
+
+Data set # 78:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                                 +-----ASHGO01704
+  !                                 ! 
+  !                                 !          +PENCW11731
+  !                                 !        +-9 
+  !                                 !        ! +PENCH04510
+  1---------------------------------5      +-8 
+  !                                 !      ! ! +ASPAC03769
+  !                                 !      ! ! ! 
+  !                                 !      ! +-7              +ASPCL04100
+  !                                 !      !   !            +-2 
+  !                                 +------6   +------------3 +NEOFI00364
+  !                                        !                ! 
+  !                                        !                +ASPFU06544
+  !                                        ! 
+  !                                        !        +ASPFN08740
+  !                                        +--------4 
+  !                                                 +ASPOR04405
+  ! 
+  +----------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -4.97660
+   1             5           13.49920
+   5          ASHGO01704      2.22515
+   5             6            2.70181
+   6             8            0.71105
+   8             9            0.58291
+   9          PENCW11731     -0.00336
+   9          PENCH04510      0.01349
+   8             7            0.61526
+   7          ASPAC03769     -0.64776
+   7             3            5.31933
+   3             2            0.78327
+   2          ASPCL04100      0.22956
+   2          NEOFI00364     -0.08183
+   3          ASPFU06544     -0.76785
+   6             4            3.64851
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   1          HORVD05781     14.06762
+
+
+Data set # 79:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                        +ASPCL04100
+  !                      +-8 
+  !                      ! ! +NEOFI00364
+  !                      ! +-9 
+  !                      !   +ASPFU06544
+  !                +-----7 
+  !                !     !                 +ASPAC03769
+  !                !     !           +-----2 
+  !                !     !         +-3     +------------------ASHGO01704
+  !                !     !         ! ! 
+  1----------------6     +---------4 +PENCW11731
+  !                !               ! 
+  !                !               +PENCH04510
+  !                ! 
+  !                !   +ASPFN08740
+  !                +---5 
+  !                    +ASPOR04405
+  ! 
+  +--------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263     -2.76786
+   1             6           13.45037
+   6             7            4.31792
+   7             8            1.75775
+   8          ASPCL04100     -0.04592
+   8             9            0.19162
+   9          NEOFI00364     -0.03881
+   9          ASPFU06544      0.05489
+   7             4            8.17465
+   4             3            1.63518
+   3             2            4.34981
+   2          ASPAC03769     -6.56427
+   2          ASHGO01704     14.83615
+   3          PENCW11731     -2.68151
+   4          PENCH04510     -1.52435
+   6             5            2.75896
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781     11.39030
+
+
+Data set # 80:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !               +ASPOR04405
+  !               ! 
+  !               !                  +--------------ASHGO01704
+  !               !              +---8 
+  3---------------5              !   ! +PENCW11731
+  !               ! +------------7   +-9 
+  !               ! !            !     +PENCH04510
+  !               ! !            ! 
+  !               +-6            +ASPAC03769
+  !                 ! 
+  !                 !      +ASPFN08740
+  !                 +------4 
+  !                        !                             +ASPCL04100
+  !                        +-----------------------------2 
+  !                                                      ! +-NEOFI00364
+  !                                                      +-1 
+  !                                                        +ASPFU06544
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          MUSAC06263     -2.10905
+   3             5            9.03743
+   5          ASPOR04405     -5.17626
+   5             6            0.86966
+   6             7            7.39115
+   7             8            2.24641
+   8          ASHGO01704      8.29463
+   8             9            0.35842
+   9          PENCW11731     -0.00332
+   9          PENCH04510      0.00830
+   7          ASPAC03769     -2.19840
+   6             4            3.98004
+   4          ASPFN08740     -7.19542
+   4             2           17.25259
+   2          ASPCL04100     -0.86784
+   2             1            1.02475
+   1          NEOFI00364      1.36775
+   1          ASPFU06544     -1.35206
+   3          HORVD05781     10.95171
+
+
+Data set # 81:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +ASPOR04405
+          ! 
+  +-------2                 +MUSAC06263
+  !       !                 ! 
+  !       +-----------------3             +-----ASHGO01704
+  !                         !             ! 
+  !                         !             !                +ASPCL04100
+  !                         +-------------4              +-5 
+  !                                       !     +--------6 +NEOFI00364
+  !                                       !     !        ! 
+  !                                       !     !        +ASPFU06544
+  !                                       +-----7 
+  !                                             !   +PENCW11731
+  !                                             ! +-9 
+  !                                             +-8 +PENCH04510
+  !                                               ! 
+  !                                               +ASPAC03769
+  ! 
+  1ASPFN08740
+  ! 
+  +------------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            2.73354
+   2          ASPOR04405     -2.73354
+   2             3            6.21752
+   3          MUSAC06263     -1.59981
+   3             4            4.97544
+   4          ASHGO01704      2.08799
+   4             7            2.25380
+   7             6            3.30267
+   6             5            0.21461
+   5          ASPCL04100      0.45750
+   5          NEOFI00364     -0.28867
+   6          ASPFU06544     -0.20151
+   7             8            0.81531
+   8             9            0.27641
+   9          PENCW11731     -0.00146
+   9          PENCH04510      0.00950
+   8          ASPAC03769      0.11947
+   1          ASPFN08740     -4.85963
+   1          HORVD05781     12.80640
+
+
+Data set # 82:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------ASHGO01704
+  ! 
+  !      +------MUSAC06263
+  !      ! 
+  !      !                          +PENCW11731
+  !      !                          ! 
+  1------2                        +-9      +ASPAC03769
+  !      !                        ! !      ! 
+  !      !                        ! +------6                    +ASPCL04100
+  !      !                        !        !                  +-4 
+  !      !                        !        +------------------5 +NEOFI00364
+  !      +------------------------8                           ! 
+  !                               !                           +ASPFU06544
+  !                               ! 
+  !                               !                    +ASPFN08740
+  !                               !   +----------------3 
+  !                               +---7                +ASPOR04405
+  !                                   ! 
+  !                                   +PENCH04510
+  ! 
+  +-------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      4.19393
+   1             2            3.78336
+   2          MUSAC06263      3.77129
+   2             8           13.55109
+   8             9            0.92750
+   9          PENCW11731     -3.11545
+   9             6            3.78842
+   6          ASPAC03769     -5.28465
+   6             5           10.46760
+   5             4            0.13635
+   4          ASPCL04100      0.32505
+   4          NEOFI00364     -0.16422
+   5          ASPFU06544     -0.12935
+   8             7            2.02276
+   7             3            9.27797
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   7          PENCH04510     -3.38025
+   1          HORVD05781      4.34606
+
+
+Data set # 83:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                  +MUSAC06263
+  !                  ! 
+  1------------------2                     +PENCW11731
+  !                  !                     ! 
+  !                  !                     ! +PENCH04510
+  !                  +---------------------6 ! 
+  !                                        ! !           +ASPFN08740
+  !                                        ! !    +------5 
+  !                                        +-7    !      +ASPOR04405
+  !                                          !  +-9 
+  !                                          !  ! !        +ASPCL04100
+  !                                          !  ! +--------4 
+  !                                          +--8          ! +NEOFI00364
+  !                                             !          +-3 
+  !                                             !            +ASPFU06544
+  !                                             ! 
+  !                                             +ASPAC03769
+  ! 
+  +-----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -4.53186
+   1             2            9.19653
+   2          MUSAC06263     -1.04269
+   2             6           10.76378
+   6          PENCW11731     -1.22182
+   6             7            0.85997
+   7          PENCH04510     -0.78229
+   7             8            1.48971
+   8             9            0.90557
+   9             5            3.55284
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   9             4            4.49449
+   4          ASPCL04100     -0.78195
+   4             3            0.92573
+   3          NEOFI00364      0.00630
+   3          ASPFU06544      0.01160
+   8          ASPAC03769      0.46137
+   1          HORVD05781     11.57311
+
+
+Data set # 84:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !           +--------MUSAC06263
+  !           ! 
+  !           !                       +ASPFN08740
+  !           !         +-------------4 
+  3-----------5       +-9             +ASPOR04405
+  !           !       ! ! 
+  !           !       ! +PENCH04510
+  !           !       ! 
+  !           +-------8       +ASPAC03769
+  !                   !       ! 
+  !                   !  +----6                   +----------ASPCL04100
+  !                   !  !    !             +-----1 
+  !                   !  !    +-------------2     +ASPFU06544
+  !                   +--7                  ! 
+  !                      !                  +NEOFI00364
+  !                      ! 
+  !                      +PENCW11731
+  ! 
+  +----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704    -13.80260
+   3             5           10.37275
+   5          MUSAC06263      7.86618
+   5             8            7.00722
+   8             9            1.74825
+   9             4           11.55900
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   9          PENCH04510     -3.94792
+   8             7            2.08649
+   7             6            4.48327
+   6          ASPAC03769     -5.74864
+   6             2           11.27242
+   2             1            5.15303
+   1          ASPCL04100      9.24753
+   1          ASPFU06544     -9.11595
+   2          NEOFI00364     -5.15255
+   7          PENCW11731     -3.99394
+   3          HORVD05781     19.48146
+
+
+Data set # 85:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !            +---------------MUSAC06263
+  !            ! 
+  1------------2                    +PENCW11731
+  !            !                    ! 
+  !            !                    !    +PENCH04510
+  !            +--------------------3    ! 
+  !                                 !    !                +ASPFN08740
+  !                                 !    !        +-------4 
+  !                                 +----5        !       +ASPOR04405
+  !                                      !   +----7 
+  !                                      !   !    !         +NEOFI00364
+  !                                      !   !    +---------8 
+  !                                      +---6              ! +ASPCL04100
+  !                                          !              +-9 
+  !                                          !                +ASPFU06544
+  !                                          ! 
+  !                                          +ASPAC03769
+  ! 
+  +---------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -2.61463
+   1             2            5.80921
+   2          MUSAC06263      7.19592
+   2             3            9.29230
+   3          PENCW11731     -3.92465
+   3             5            2.32288
+   5          PENCH04510     -2.30631
+   5             6            1.93872
+   6             7            2.42438
+   7             4            3.59688
+   4          ASPFN08740      0.00000
+   4          ASPOR04405      0.00000
+   7             8            4.35668
+   8          NEOFI00364     -0.19182
+   8             9            0.20989
+   9          ASPCL04100      0.08412
+   9          ASPFU06544      0.09597
+   6          ASPAC03769     -1.53885
+   1          HORVD05781     10.08590
+
+
+Data set # 86:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +ASPCL04100
+    +-8 
+  +-9 +NEOFI00364
+  ! ! 
+  ! +ASPFU06544
+  ! 
+  !              +ASPAC03769
+  !              ! 
+  !              !                                           +ASPFN08740
+  !              !                              +------------1 
+  !     +--------5                  +-----------2            +ASPOR04405
+  !     !        !                  !           ! 
+  !     !        !           +------3           +-----MUSAC06263
+  !     !        !           !      ! 
+  7-----6        +-----------4      +PENCH04510
+  !     !                    ! 
+  !     !                    +PENCW11731
+  !     ! 
+  !     +-ASHGO01704
+  ! 
+  +----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             9            0.78118
+   9             8            0.51413
+   8          ASPCL04100      0.50679
+   8          NEOFI00364     -0.36996
+   9          ASPFU06544     -0.50419
+   7             6            3.42233
+   6             5            5.43117
+   5          ASPAC03769     -3.74211
+   5             4            7.57576
+   4             3            4.25697
+   3             2            7.50875
+   2             1            8.14868
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          MUSAC06263      3.54174
+   3          PENCH04510     -6.76183
+   4          PENCW11731     -4.18432
+   6          ASHGO01704      1.19513
+   7          HORVD05781      6.48947
+
+
+Data set # 87:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---------ASHGO01704
+  ! 
+  !               +MUSAC06263
+  !               ! 
+  !               !                      +PENCW11731
+  !               !                      ! 
+  !               !                      !                    +ASPFN08740
+  1---------------2                      !          +---------3 
+  !               !                  +---8          !         +ASPOR04405
+  !               !                  !   ! +--------6 
+  !               !                  !   ! !        !          +ASPCL04100
+  !               !                  !   ! !        +----------5 
+  !               !                  !   +-9                   ! +NEOFI00364
+  !               +------------------7     !                   +-4 
+  !                                  !     !                     +ASPFU06544
+  !                                  !     ! 
+  !                                  !     +PENCH04510
+  !                                  ! 
+  !                                  +ASPAC03769
+  ! 
+  +------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      2.63246
+   1             2            4.29735
+   2          MUSAC06263      0.00288
+   2             7            5.12879
+   7             8            0.96204
+   8          PENCW11731     -0.16855
+   8             9            0.18758
+   9             6            2.27393
+   6             3            2.58500
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   6             5            2.88872
+   5          ASPCL04100      0.08749
+   5             4            0.07636
+   4          NEOFI00364      0.02715
+   4          ASPFU06544     -0.00369
+   9          PENCH04510     -0.13834
+   7          ASPAC03769     -0.78711
+   1          HORVD05781      5.13112
+
+
+Data set # 88:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                        +PENCW11731
+                        ! 
+  +---------------------4        +PENCH04510
+  !                     !        ! 
+  !                     !        !                +-------ASHGO01704
+  !                     +--------5        +-------7 
+  !                              !        !       !        +ASPCL04100
+  !                              !        !       +--------8 
+  !                              +--------6                ! +NEOFI00364
+  !                                       !                +-9 
+  !                                       !                  +ASPFU06544
+  !                                       ! 
+  !                                       +ASPAC03769
+  ! 
+  !                      +ASPFN08740
+  !      +---------------1 
+  3------2               +ASPOR04405
+  !      ! 
+  !      +MUSAC06263
+  ! 
+  +------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3             4            9.73619
+   4          PENCW11731     -6.82657
+   4             5            4.08819
+   5          PENCH04510     -4.06613
+   5             6            3.67225
+   6             7            3.46881
+   7          ASHGO01704      3.25873
+   7             8            3.97193
+   8          ASPCL04100     -0.08333
+   8             9            0.21322
+   9          NEOFI00364      0.02111
+   9          ASPFU06544     -0.01604
+   6          ASPAC03769     -1.54254
+   3             2            3.04483
+   2             1            6.99570
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          MUSAC06263     -1.03606
+   3          HORVD05781      3.11075
+
+
+Data set # 89:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !           +----ASHGO01704
+  !           ! 
+  !           !                +ASPOR04405
+  !           !                ! 
+  !           !                !                              +ASPCL04100
+  1-----------2                !              +---------------4 
+  !           !              +-6              !               !  +NEOFI00364
+  !           !              ! !            +-8               +--3 
+  !           !              ! !            ! !                  +ASPFU06544
+  !           !              ! !          +-9 ! 
+  !           !              ! !          ! ! +PENCW11731
+  !           +--------------5 +----------7 ! 
+  !                          !            ! +PENCH04510
+  !                          !            ! 
+  !                          !            +ASPAC03769
+  !                          ! 
+  !                          +ASPFN08740
+  ! 
+  +----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.28670
+   1             2            4.90381
+   2          ASHGO01704      2.08857
+   2             5            6.07466
+   5             6            0.15304
+   6          ASPOR04405     -0.15303
+   6             7            4.42224
+   7             9            0.69561
+   9             8            0.43931
+   8             4            6.84093
+   4          ASPCL04100     -1.26280
+   4             3            1.42248
+   3          NEOFI00364     -0.02471
+   3          ASPFU06544      0.04056
+   8          PENCW11731     -0.42776
+   9          PENCH04510     -0.41817
+   7          ASPAC03769     -0.19055
+   5          ASPFN08740     -0.24486
+   1          HORVD05781      9.46071
+
+
+Data set # 90:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                                                            +ASPCL04100
+                                                          +-1 
+                  +---------------------------------------2 +NEOFI00364
+                  !                                       ! 
+  +---------------3                                       +ASPFU06544
+  !               ! 
+  !               +ASHGO01704
+  ! 
+  !        +MUSAC06263
+  !        ! 
+  !        !                                     +ASPFN08740
+  4--------5                           +---------6 
+  !        !                           !         +ASPOR04405
+  !        !                     +-----8 
+  !        !                     !     !  +PENCW11731
+  !        +---------------------7     +--9 
+  !                              !        +PENCH04510
+  !                              ! 
+  !                              +ASPAC03769
+  ! 
+  +------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             3            5.83780
+   3             2           14.81540
+   2             1            0.17659
+   1          ASPCL04100      0.26150
+   1          NEOFI00364     -0.10111
+   2          ASPFU06544     -0.16471
+   3          ASHGO01704     -8.15321
+   4             5            3.21850
+   5          MUSAC06263     -4.40998
+   5             7            7.92968
+   7             8            2.33754
+   8             6            3.80400
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   8             9            1.15313
+   9          PENCW11731      0.03086
+   9          PENCH04510     -0.02555
+   7          ASPAC03769     -1.96016
+   4          HORVD05781     11.22500
+
+
+Data set # 91:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                 +------------MUSAC06263
+                 ! 
+       +---------4                                           +ASPCL04100
+       !         !                                        +--1 
+       !         +----------------------------------------2  +ASPFU06544
+  +----5                                                  ! 
+  !    !                                                  +NEOFI00364
+  !    ! 
+  !    +-----------ASHGO01704
+  ! 
+  !    +PENCW11731
+  !    ! 
+  6----9 +ASPAC03769
+  !    ! ! 
+  !    +-8                 +ASPFN08740
+  !      ! +---------------3 
+  !      +-7               +ASPOR04405
+  !        ! 
+  !        +PENCH04510
+  ! 
+  +-----HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             5            2.18531
+   5             4            4.06567
+   4          MUSAC06263      5.31412
+   4             2           16.36895
+   2             1            1.28733
+   1          ASPCL04100      0.07767
+   1          ASPFU06544      0.08194
+   2          NEOFI00364     -1.27462
+   5          ASHGO01704      4.70950
+   6             9            2.13656
+   9          PENCW11731     -0.69207
+   9             8            0.52954
+   8          ASPAC03769      0.07402
+   8             7            0.77358
+   7             3            6.49916
+   3          ASPFN08740      0.00000
+   3          ASPOR04405      0.00000
+   7          PENCH04510     -0.96395
+   6          HORVD05781      2.28653
+
+
+Data set # 92:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +ASPOR04405
+        ! 
+        !                      +NEOFI00364
+  +-----4         +------------8 
+  !     !         !            ! +ASPCL04100
+  !     !         !            +-9 
+  !     !         !              +ASPFU06544
+  !     +---------7 
+  !               !  +ASPAC03769
+  !               !  ! 
+  !               !  !                      +--MUSAC06263
+  !               +--6           +----------1 
+  !                  !     +-----3          +----------------ASHGO01704
+  !                  !     !     ! 
+  !                  +-----5     +PENCW11731
+  !                        ! 
+  !                        +PENCH04510
+  ! 
+  2ASPFN08740
+  ! 
+  +----------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             4            3.59952
+   4          ASPOR04405     -3.59951
+   4             7            6.00315
+   7             8            8.31809
+   8          NEOFI00364     -0.14049
+   8             9            0.14853
+   9          ASPCL04100      0.19387
+   9          ASPFU06544     -0.04146
+   7             6            1.55864
+   6          ASPAC03769     -3.40405
+   6             5            3.79975
+   5             3            3.86240
+   3             1            6.60333
+   1          MUSAC06263      1.83244
+   1          ASHGO01704     10.68843
+   3          PENCW11731     -5.87561
+   5          PENCH04510     -3.85526
+   2          ASPFN08740     -6.08406
+   2          HORVD05781     13.88168
+
+
+Data set # 93:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                     +MUSAC06263
+  !                     ! 
+  !                     !                       +PENCW11731
+  !                     !                     +-7 
+  !                     !                     ! +PENCH04510
+  1---------------------2           +---------9 
+  !                     !           !         ! +ASPAC03769
+  !                     !           !         ! ! 
+  !                     !           !         +-8              +ASPCL04100
+  !                     !           !           !            +-3 
+  !                     +-----------6           +------------4 +NEOFI00364
+  !                                 !                        ! 
+  !                                 !                        +ASPFU06544
+  !                                 ! 
+  !                                 ! +ASPFN08740
+  !                                 +-5 
+  !                                   +ASPOR04405
+  ! 
+  +----------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      0.09036
+   1             2            9.61266
+   2          MUSAC06263     -4.39343
+   2             6            5.35898
+   6             9            4.32613
+   9             7            0.91512
+   7          PENCW11731      0.00000
+   7          PENCH04510      0.00000
+   9             8            0.23441
+   8          ASPAC03769     -0.59953
+   8             4            5.57738
+   4             3            0.04942
+   3          ASPCL04100      0.14960
+   3          NEOFI00364      0.01271
+   4          ASPFU06544     -0.01966
+   6             5            0.30898
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781      7.55784
+
+
+Data set # 94:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !       +ASPOR04405
+  !       ! 
+  !     +-3                        +PENCH04510
+  !     ! !                        ! 
+  !     ! +------------------------4      +PENCW11731
+  !     !                          !      ! 
+  !     !                          !      !           +---ASHGO01704
+  !     !                          +------5    +------7 
+  !     !                                 !    !      !       +ASPCL04100
+  1-----2                                 !    !      +-------8 
+  !     !                                 +----6              ! +NEOFI00364
+  !     !                                      !              +-9 
+  !     !                                      !                +ASPFU06544
+  !     !                                      ! 
+  !     !                                      +ASPAC03769
+  !     ! 
+  !     +ASPFN08740
+  ! 
+  +-----------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          MUSAC06263      0.58596
+   1             2            3.29372
+   2             3            0.93952
+   3          ASPOR04405     -0.93951
+   3             4           13.59516
+   4          PENCH04510     -6.08878
+   4             5            3.66032
+   5          PENCW11731     -3.65566
+   5             6            2.72126
+   6             7            3.92519
+   7          ASHGO01704      1.96716
+   7             8            4.37257
+   8          ASPCL04100     -0.05037
+   8             9            0.20989
+   9          NEOFI00364     -0.10038
+   9          ASPFU06544      0.11366
+   6          ASPAC03769     -2.47118
+   2          ASPFN08740     -1.64415
+   1          HORVD05781      6.67256
+
+
+Data set # 95:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                      +MUSAC06263
+  !                      ! 
+  !                      !                    +PENCH04510
+  !                      !                    ! 
+  !                      !                    !   +ASPAC03769
+  1----------------------2                +---9   ! 
+  !                      !                !   ! +-7               +ASPCL04100
+  !                      !                !   ! ! !             +-3 
+  !                      !                !   ! ! +-------------4 +NEOFI00364
+  !                      !                !   +-8               ! 
+  !                      +----------------6     !               +ASPFU06544
+  !                                       !     ! 
+  !                                       !     +PENCW11731
+  !                                       ! 
+  !                                       !     +ASPFN08740
+  !                                       +-----5 
+  !                                             +ASPOR04405
+  ! 
+  +--------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704     -4.10518
+   1             2           11.95255
+   2          MUSAC06263     -5.46876
+   2             6            8.88141
+   6             9            2.20358
+   9          PENCH04510     -0.07546
+   9             8            0.10741
+   8             7            0.37503
+   7          ASPAC03769      0.07692
+   7             4            7.00411
+   4             3            0.10431
+   3          ASPCL04100      0.28352
+   3          NEOFI00364     -0.12126
+   4          ASPFU06544     -0.09256
+   8          PENCW11731     -0.09869
+   6             5            2.85769
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   1          HORVD05781     10.84727
+
+
+Data set # 96:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +ASHGO01704
+  ! 
+  !                            +ASPFN08740
+  !                            ! 
+  !                          +-5                     +MUSAC06263
+  !                          ! !            +--------2 
+  !                          ! +------------3        +-------PENCW11731
+  !                       +--6              ! 
+  !                       !  !              +PENCH04510
+  !                       !  ! 
+  !             +---------7  +ASPOR04405
+  !             !         ! 
+  !             !         !    +NEOFI00364
+  !             !         +----8 
+  1-------------4              ! +ASPCL04100
+  !             !              +-9 
+  !             !                +ASPFU06544
+  !             ! 
+  !             +ASPAC03769
+  ! 
+  +----------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704    -28.05616
+   1             4           16.33257
+   4             7           12.19376
+   7             6            3.60324
+   6             5            2.89305
+   5          ASPFN08740     -4.62888
+   5             3           15.16466
+   3             2           11.05383
+   2          MUSAC06263     -3.81747
+   2          PENCW11731     10.02877
+   3          PENCH04510    -11.05013
+   6          ASPOR04405     -2.89305
+   7             8            6.01621
+   8          NEOFI00364     -1.13704
+   8             9            1.14685
+   9          ASPCL04100      0.33369
+   9          ASPFU06544     -0.15209
+   4          ASPAC03769    -15.59257
+   1          HORVD05781     41.80489
+
+
+Data set # 97:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------ASHGO01704
+  ! 
+  !                   +-----MUSAC06263
+  !                   ! 
+  !                   !        +PENCW11731
+  !                   !  +-----8 
+  3-------------------6  !     ! +PENCH04510
+  !                   !  !     +-9 
+  !                   !  !       !    +ASPAC03769
+  !                   !  !       +----4 
+  !                   !  !            !                   +ASPCL04100
+  !                   +--7            +-------------------2 
+  !                      !                                !  +NEOFI00364
+  !                      !                                +--1 
+  !                      !                                   +ASPFU06544
+  !                      ! 
+  !                      !     +ASPFN08740
+  !                      +-----5 
+  !                            +ASPOR04405
+  ! 
+  +--HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   3          ASHGO01704      5.17070
+   3             6           13.67440
+   6          MUSAC06263      4.38049
+   6             7            2.06428
+   7             8            3.99014
+   8          PENCW11731     -1.62914
+   8             9            1.57942
+   9          PENCH04510     -1.48103
+   9             4            3.43160
+   4          ASPAC03769     -6.98414
+   4             2           13.77165
+   2          ASPCL04100     -1.73947
+   2             1            1.88293
+   1          NEOFI00364     -0.16639
+   1          ASPFU06544      0.18189
+   7             5            3.99319
+   5          ASPFN08740      0.00000
+   5          ASPOR04405      0.00000
+   3          HORVD05781      1.84644
+
+
+Data set # 98:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +MUSAC06263
+  +--------1 
+  !        +------------------------ASHGO01704
+  ! 
+  !                         +PENCW11731
+  !                         ! 
+  !            +------------4     +PENCH04510
+  !            !            !     ! 
+  !            !            +-----5                     +ASPFN08740
+  !            !                  !           +---------6 
+  !            !                  !           !         +ASPOR04405
+  !            !                  +-----------7 
+  2------------3                              !             +NEOFI00364
+  !            !                              +-------------8 
+  !            !                                            ! +ASPCL04100
+  !            !                                            +-9 
+  !            !                                              +ASPFU06544
+  !            ! 
+  !            +ASPAC03769
+  ! 
+  +---------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2             1            3.59475
+   1          MUSAC06263     -2.82169
+   1          ASHGO01704      9.71890
+   2             3            5.06287
+   3             4            4.85145
+   4          PENCW11731     -3.96401
+   4             5            2.37802
+   5          PENCH04510     -2.31243
+   5             7            4.69155
+   7             6            3.88509
+   6          ASPFN08740      0.00000
+   6          ASPOR04405      0.00000
+   7             8            5.22234
+   8          NEOFI00364     -0.04924
+   8             9            0.05408
+   9          ASPCL04100      0.14525
+   9          ASPFU06544     -0.00113
+   3          ASPAC03769     -6.82763
+   2          HORVD05781     10.64902
+
+
+Data set # 99:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------ASHGO01704
+  ! 
+  !                                     +-------MUSAC06263
+  !                                     ! 
+  !                       +-------------6 +PENCH04510
+  !                       !             ! ! 
+  !                       !             ! !   +ASPAC03769
+  !                       !             +-9   ! 
+  !                       !               ! +-7           +ASPCL04100
+  !                       !               ! ! !         +-4 
+  1-----------------------3               ! ! +---------5 +---NEOFI00364
+  !                       !               +-8           ! 
+  !                       !                 !           +ASPFU06544
+  !                       !                 ! 
+  !                       !                 +PENCW11731
+  !                       ! 
+  !                       !        +ASPFN08740
+  !                       +--------2 
+  !                                +ASPOR04405
+  ! 
+  +HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          ASHGO01704      8.13331
+   1             3           15.14920
+   3             6            8.78298
+   6          MUSAC06263      5.37425
+   6             9            1.29127
+   9          PENCH04510     -0.86114
+   9             8            0.89319
+   8             7            1.28815
+   7          ASPAC03769     -1.15915
+   7             5            6.39981
+   5             4            1.55280
+   4          ASPCL04100     -2.20100
+   4          NEOFI00364      2.33589
+   5          ASPFU06544     -1.53688
+   8          PENCW11731     -0.90754
+   3             2            5.80355
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   1          HORVD05781     -2.13819
+
+
+Data set # 100:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +MUSAC06263
+  ! 
+  !                           +----------ASPCL04100
+  !                    +------3 
+  !             +------4      +ASPFU06544
+  !             !      ! 
+  !             !      +NEOFI00364
+  2-------------5 
+  !             !        +ASHGO01704
+  !             +--------6 
+  !                      !                  +PENCW11731
+  !                      +------------------8 
+  !                                         ! +PENCH04510
+  !                                         +-9 
+  !                                           ! +ASPAC03769
+  !                                           +-7 
+  !                                             !              +ASPFN08740
+  !                                             +--------------1 
+  !                                                            +ASPOR04405
+  ! 
+  +--------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2          MUSAC06263     -7.70585
+   2             5            6.09874
+   5             4            3.05867
+   4             3            3.13985
+   3          ASPCL04100      4.78106
+   3          ASPFU06544     -4.62512
+   4          NEOFI00364     -3.13785
+   5             6            4.08353
+   6          ASHGO01704     -1.90053
+   6             8            8.64221
+   8          PENCW11731     -0.46524
+   8             9            0.50491
+   9          PENCH04510     -0.42267
+   9             7            0.61933
+   7          ASPAC03769      0.07888
+   7             1            6.58635
+   1          ASPFN08740      0.00000
+   1          ASPOR04405      0.00000
+   2          HORVD05781     15.05507
+
+

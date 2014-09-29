@@ -1,0 +1,181 @@
+      4    735
+
+SGD_Scer_AQY1/YPR192W           ATG TTT TTA TGG TGC GCT TAC GTT ATC TGC AAT GTC GCT AAC CAT GAT GTC GCA CTC GTT GCA GCG CCT GAC GGT TCC CAT CCG GGT CAA TTG ATT ATG ATT GCC ATC GGT TTC GGA TTT TCC GTC ATG TTT TCT ATC TGG TGT TTT GCC GGT GTC TCT GGT GGG GCT TTG AAT CCT GCT ATG TCG CTT TCG CTG TGC TTG GCG AGA GCC GTC TCT CCT ACA AGA TGT GTC GTT ATG TGG GTT TCG CAG ATT GTT GCT GGA ATG GCC GCT GGA GGC GCT GCA AGC GCC ATG ACA CCT GGT GAA GTC CTC TTT GCC AAT TCT TTG GGC CTG GGC TGC TCT AGG ACG AGG GGT CTG TTC CTG GAG ATG TTC GGC ACC GCT ATC CTA TGT TTA ACA GTC TTA ATG ACG GCT GTG GAG AAG CGT GAA ACC AAC TTT ATG GCT GCG CTG CCC ATC GGC ATC TCC CTG TTT ATC GCA CAC GTC GCT TTG ACT GCA TAC ACA GGC ACA GGT GTC AAC CCT GCG AGG TCC TTG GGT GCT GCT GTC GCA GCC AGA TAC TTC CCT CAT TAC CAC TGG ATT TAT TGG ATT GGC ACG CTG TTA GGA TCC ATT TTA GCA TGG TCT GTA TGG CAA TTA TTG CAA ATC TTA GAC TAC ACA ACC TAC GTT ACC GCT GAA AAG GCT GCC AGC ACC AAG GAA AAA GCT CAA AAA AAA GGT GAA ACC AGC AGT TCC TCT GCT GTG GCT GAA GTC 
+MIT_Sbay_c606_26152             ATG TTT TTA TGG TGC GCT TAC GTT ATC TGT AAC GTC GCC AAC CAT GAT GTC GCA CTG ACT GCG CAG CCT GAC GGT TCC CAC CCG GGC CAA TTG ATC ATG ATC GCT ATC GGT TTC GGG TTC TCC CTC ATG TTT GCC GTC TGG TGC TTC GCT GGT GTT TCC GGT GGT GCT TTG AAT CCT GCC GTC TCG CTT TCC CTG TGT CTG GCA AGA GCC ATC ACT CCA ACA AGA TGT CTT GTG ATG TGG TTC TCC CAG ATC ATA GCC GGG ATG GCC GCA GGT GGT GCG GCT AGT GCT ATG ACT CCC GGT AAG GTT CTT TTC GCC AAC GCC CTG GGC CTG GGG TGC TCT AGA TCA AGA GGC CTG TTC CTG GAA ATG TTC GGC ACT TCC ATC TTG TGT TTG ACC GTT TTG ATG ACT GCT GTC GAG AAG CGT GAA ACC AAT TTC ATG GCC GCT CTT CCC ATC GGC ATC TCT CTG TTC ATC GCA CAT GTC GCC TTG ACG GCG TAC ACA GGC ACA GGT GTC AAC CCG GCA AGA TCC CTG GGC GCT GCC GTT GCA GCG AGA TAT TTC CCC CAC TAC CAC TGG ATC TAC TGG GTC GGT CCG ATA TTG GGG GCT ACC TTG GCG TGG TCC ATC TGG CAA CTA CTG CAG ATC CTG GAC TAC ACC ACC TAC GTC GAT GCT GAA AAG GCC GCA AGC ACC AAA GCG AAA GCC CAA CCA AGA GCA AGC ACT ACT GCC GCT CCT GCT GGC GCT GAA GTT 
+MIT_Smik_c259_22968             ATG TTT TTA TGG TGC GCT TAC GTT ATC TGC AAT GTT GCT AAC CAT GAT GTG GCA CTC GTT GCA GCA CCT GAC GGC TCC CAC CCG GGC CAA TTG ATC ATG ATT GCG ATT GGT TTC GGG TTT TCC GTC ATG TTT TCC ATC TGG TGC TTT GCT GGT GTC TCT GGT GGT GCT TTG AAT CCC GCC GTT TCG CTT TCC TTG TGT TTG GCA AGG GCC GTC TCT CCA ACA AGA TGT GCT GTT ATG TGG ATT TCG CAA ATT GTT GCG GGA ATG GCC GCT GGA GGT GCT GCA AGC GCT ATG ACC CCA GGT GAA GTC CTC TTT GCC AAT TCT TTG GGG CTG GGC TGC TCC AGG ACT AGA GGC CTG TTC CTG GAA ATG TTC GGC ACT GCT ATT CTC TGC TTG ACA GTT TTA ATG ACT GCT GTT GAA AAG CGT GAA ACT AAC TTT ATG GCC GCG CTG CCC ATC GGT ATC TCC CTG TTT ATT GCC CAT GTC GCT TTG ACT GCC TAC ACA GGC ACA GGT GTC AAC CCA GCA AGG TCT TTG GGA GCT GCT GTC GCA GCT AGA TAT TTC CCT CAC TAC CAC TGG ATT TAC TGG ATC GGC CCC TTA TTA GGG TCT ATT TTA GCA TGG TCT GTG TGG CAA TTA TTA CAA ATC TTA GAT TAC ACT ACC TAT GTT ACT GCT GAG AAG GCT GCC AGC ACC AAG GAA AAG GCT CAA AAA AAA GAT CAA ACT AGC AAT TCC TCT GTT GCG ACT GAA GTT 
+MIT_Spar_c565_22711             ATG TTT TTA TGG TGC GCT TAC GTT ATC TGC AAT GTC GCC AAC CAT GAT GTC GCA CTC GTT GCA GCG CCC GAC GGT TCC CAT CCG GGT CAA TTG ATT ATG ATT GCC ATC GGT TTC GGG TTT TCC GTC ATG TTT TCC ATC TGG TGC TTT GCC GGT GTC TCT GGT GGG GCT TTG AAT CCT GCT GTT TCG CTT TCT TTA TGC TTG GCA AGA GCC ATC TCT CCA ACA AGA TGC TTT GTT ATG TGG ATT TCG CAG ATT GTT GCT GGA ATG GCC GCC GGA GGC GCT GCA AGC GCT ATG ACA CCT GGT AAA GTT CTT TTT GCC AAT TCT TTG GGA CTG GGC TGC TCC AGA ACG AGG GGC CTG TTC CTG GAA ATG TTC GGC ACC GCT ATC TTA TGC TTA ACG GTT TTG ATG ACG GCT GTG GAG AAG CGT GAA ACT AAC TTT ATG GCC GCA CTG CCC ATC GGC ATC TCC CTG TTT ATC GCC CAT GTC GCT TTG ACT GCG TAC ACA GGC ACA GGT GTC AAT CCT GCA AGG TCT TTG GGT GCT GCT GTC GCA GCC AGA TAC TTC CCT CAT TAC CAC TGG ATT TAC TGG ATT GGC CCC CTA TTA GGA TCC ATT CTG GCA TGG TCT GTG TGG CAA TTA TTG CAA ATT CTA GAT TAT ACA ACC TAT GTT ACC GCT GAA AAG GCT GCC AGC ACC AAG GAA AAG GCC CAG AAA AAA GAT CCA ACT AGC AAC TCC TCC CCT ACG AAT GAA GTC 
+
+
+
+Printing out site pattern counts
+
+
+         4        531  P
+
+SGD_Scer_AQY1/YPR192W           AAA AAA AAA AAC AAC AAC AAG AAG AAT AAT ACA ACA ACA ACA ACC ACC ACC ACC ACC ACG ACG ACG ACT AGA AGA AGC AGC AGC AGG AGG AGG AGT ATC ATC ATC ATC ATG ATG ATT ATT ATT ATT CAA CAA CAA CAC CAC CAG CAT CAT CCC CCG CCT CCT CCT CCT CCT CCT CGT CTA CTC CTC CTG CTG CTG CTG CTT GAA GAA GAA GAA GAA GAC GAC GAG GAG GAT GCA GCA GCA GCA GCA GCC GCC GCC GCC GCC GCC GCG GCG GCG GCT GCT GCT GCT GCT GCT GCT GCT GCT GCT GCT GGA GGA GGA GGA GGC GGC GGC GGC GGC GGC GGG GGT GGT GGT GGT GGT GGT GTA GTC GTC GTC GTC GTC GTC GTC GTC GTC GTC GTG GTG GTT GTT GTT GTT GTT GTT TAC TAC TAC TAC TAT TCC TCC TCC TCC TCC TCG TCG TCG TCT TCT TCT TCT TCT TCT TGC TGC TGC TGG TGT TGT TGT TTA TTA TTA TTA TTA TTA TTA TTC TTG TTG TTG TTT TTT 
+MIT_Sbay_c606_26152             ... .G. CC. ... ... ..T ..A ... ..C ... ... ..C ..C ..T ... ... ..T ..T GAT ..T C.. T.A ..G ... ... .CT ... ..T ..A ..A ..A GCC ... ... ... G.. ... G.C .CC ..C ..C G.C ... ... ..G ... ..T ... ..C ... ... ... ..A ..C ..C ..G ... ... ... T.G ..G ..T A.A ... ... ..T ... A.G AGC ... ... .CG ... ... ..A ... ... ... ... ..G ..G ..T ..A ... ..G ..T ..T ..T CA. ..A ..T ..A ..C ..C ..C ..C ..C ..G ... ... ... T.C ..G ..G ..G ..T ... ... ... ..G ..T ..T ..T .CA ..C ..C ..C ... ... A.C A.. C.. C.T ... ... ... ..T ..T ..T ..T .GC ..C AC. A.A ..C ..G ... T.C ... ... ... ..T ..C G.T G.T ... ... ..T ..C ..C ... A.. C.. G.C G.C ..C ... ... ..T ..T ... ..C ... ... C.. C.G ... ..G ..G ..G ..G ... C.. C.. ... ..C ... 
+MIT_Smik_c259_22968             ..G ... ... ... ... ... ... ... ... ... ... ... ..T ..C ... ..T ..T ..T ..T ..T C.C ..T ... ... ..G ... ... ... ..A ... ... .A. ... ... ..T ... ... G.T ... ..C ... ..C ... ... ... ... ..T ..A ..C ... ... ... ..A ..A ... ..A ..C ... ... ..C ... ... T.A ... T.. ... ... ... C.. ... ..G ... ... ..T ..A ..A ... ... ..C ... ..C ... ... ... ..T ..G ..T ..T ..A ..A ... ... ..C ..C ..G ... ... ... A.. ... .T. ... ... ..G ..G ... ... ..G ..T ... ... ..T ..T .A. ..A ..C ..C ..C ... ..G ... ... .CT ... ..G ..T ... ... ..T ..T .C. ..T ... ... ... ... ... A.. ... ... ..T ..T ..C ... ..T ... ..T ... ..C ... ... ... ... ..C ... ... ..C ... ... ..T ... ..C ..C ... ... ... ... ... ... ... ..G ... ..A ... ... ... ... 
+MIT_Spar_c565_22711             ..G ... ... ... ..T ... ... ... ... ... ... ..G ... ... ... ..T ... ..T ... ... C.C ... ... ... ... ... ... ... ... ..A ... .AC ... ..T ... ... ... G.T ... ... ... ... ... ..G ... ... ..T ... ... ... ... ... ..A ... ... ... ... ..C ... T.. ... ..T ..A ... T.A ... ... A.. CC. ... ... ... ... ..T ..A ... ... ... ..C ... ..G ... ... ... ... ... ... ..T ... ..A ..A ..C ..C ... ... ..C ... ... AA. ... C.. ... ... ... ..G ... ... ..A ... ... ... ... ... .A. ... ..C ... ... ... ..G A.. ... T.T ... ... ... ... ..T ... ..T AC. ... ... ... ... ... ... A.. ... ..T ..T ... ..C ... ... ... ..T ... ..T ... ... ... ..C ..C ... ... ..C ... ... ... ... ..C ..C ..C ... C.. ... C.G ... ..G ... ... ... ... ... ... ... 
+
+    1    1    1    1    1    1    1    2    2    1    3    1    1    1    2
+    1    1    1    1    1    1    1    1    2    1    1    1    1    1    1
+    1    1    3    1    3    1    9    1    1    1    3    1    2    1    1
+    1    1    1    2    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    4    1    1    1    1    1    2    1    1    1    1    1
+    1    1    2    1    2    1    1    1    3    1    1    1    1    1    2
+    1    1    1    1    1    2    3    1    1    5    1    1    1    1    1
+    1    2    1    1    1    1    1    1    1    1    1    1    1    5    1
+    1    1    1    2    1    1    2    1    1    1    1    1    1    1    1
+    1    1    1    3    1    1    1    1    1    1    2    1    1    1    1
+    1    1    1    1    1    2    1    2    1    1    7    1    1    1    1
+    1    1    1    1    1    1    4    1    3    3    5    2
+
+CODONML (in paml version 4.7, January 2013)  codon_aln.paml
+Model: One dN/dS ratio for branches, 
+Codon frequency model: Fcodon
+ns =   4  ls = 245
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------
+Phe TTT  7  2  7  8 | Ser TCT  7  2  7  6 | Tyr TAT  1  1  2  2 | Cys TGT  3  4  2  0
+    TTC  4 10  4  4 |     TCC  6  8  7  8 |     TAC  6  6  5  5 |     TGC  4  3  5  7
+Leu TTA  7  1  8  6 |     TCA  0  1  0  0 | *** TAA  0  0  0  0 | *** TGA  0  0  0  0
+    TTG  7  8  8  8 |     TCG  3  1  2  2 |     TAG  0  0  0  0 | Trp TGG  7  7  7  7
+--------------------------------------------------------------------------------------
+Leu CTT  1  4  1  2 | Pro CCT  6  3  2  5 | His CAT  3  2  2  4 | Arg CGT  1  1  1  1
+    CTC  2  1  3  1 |     CCC  1  3  3  3 |     CAC  2  3  3  1 |     CGC  0  0  0  0
+    CTA  1  1  0  2 |     CCA  0  2  3  2 | Gln CAA  4  3  6  3 |     CGA  0  0  0  0
+    CTG  7 11  5  6 |     CCG  1  3  1  1 |     CAG  1  3  0  2 |     CGG  0  0  0  0
+--------------------------------------------------------------------------------------
+Ile ATT  6  0  8  8 | Thr ACT  1  7  9  3 | Asn AAT  3  2  4  5 | Ser AGT  1  1  0  0
+    ATC  8 13  7  8 |     ACC  6  6  3  4 |     AAC  3  4  3  3 |     AGC  3  2  3  3
+    ATA  0  2  0  0 |     ACA  6  3  4  5 | Lys AAA  3  2  2  3 | Arg AGA  3  7  3  4
+Met ATG 10  9  9  9 |     ACG  3  1  0  4 |     AAG  3  3  4  4 |     AGG  3  0  3  2
+--------------------------------------------------------------------------------------
+Val GTT  6  6 11  8 | Ala GCT 18 14 17 13 | Asp GAT  1  2  3  3 | Gly GGT 10 10  8  8
+    GTC 12  9  7  8 |     GCC  8 14  8 12 |     GAC  2  2  1  1 |     GGC  7  8  7  7
+    GTA  1  0  0  0 |     GCA  7  8  8  8 | Glu GAA  6  4  6  5 |     GGA  4  0  3  4
+    GTG  2  1  2  2 |     GCG  4  6  4  2 |     GAG  2  1  1  1 |     GGG  1  4  3  2
+--------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: SGD_Scer_AQY1/YPR192W
+position  1:    T:0.25306    C:0.12245    A:0.25306    G:0.37143
+position  2:    T:0.33061    C:0.31429    A:0.16327    G:0.19184
+position  3:    T:0.30612    C:0.30204    A:0.17143    G:0.22041
+Average         T:0.29660    C:0.24626    A:0.19592    G:0.26122
+
+#2: MIT_Sbay_c606_26152
+position  1:    T:0.22041    C:0.16327    A:0.25306    G:0.36327
+position  2:    T:0.31837    C:0.33469    A:0.15510    G:0.19184
+position  3:    T:0.24898    C:0.37551    A:0.13878    G:0.23673
+Average         T:0.26259    C:0.29116    A:0.18231    G:0.26395
+
+#3: MIT_Smik_c259_22968
+position  1:    T:0.26122    C:0.12245    A:0.25306    G:0.36327
+position  2:    T:0.32653    C:0.31837    A:0.17143    G:0.18367
+position  3:    T:0.34286    C:0.28163    A:0.17551    G:0.20000
+Average         T:0.31020    C:0.24082    A:0.20000    G:0.24898
+
+#4: MIT_Spar_c565_22711
+position  1:    T:0.25714    C:0.13469    A:0.26531    G:0.34286
+position  2:    T:0.32653    C:0.31837    A:0.17143    G:0.18367
+position  3:    T:0.31020    C:0.30612    A:0.17143    G:0.21224
+Average         T:0.29796    C:0.25306    A:0.20272    G:0.24626
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      24 | Ser S TCT      22 | Tyr Y TAT       6 | Cys C TGT       9
+      TTC      22 |       TCC      29 |       TAC      22 |       TGC      19
+Leu L TTA      22 |       TCA       1 | *** * TAA       0 | *** * TGA       0
+      TTG      31 |       TCG       8 |       TAG       0 | Trp W TGG      28
+------------------------------------------------------------------------------
+Leu L CTT       8 | Pro P CCT      16 | His H CAT      11 | Arg R CGT       4
+      CTC       7 |       CCC      10 |       CAC       9 |       CGC       0
+      CTA       4 |       CCA       7 | Gln Q CAA      16 |       CGA       0
+      CTG      29 |       CCG       6 |       CAG       6 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT      22 | Thr T ACT      20 | Asn N AAT      14 | Ser S AGT       2
+      ATC      36 |       ACC      19 |       AAC      13 |       AGC      11
+      ATA       2 |       ACA      18 | Lys K AAA      10 | Arg R AGA      17
+Met M ATG      37 |       ACG       8 |       AAG      14 |       AGG       8
+------------------------------------------------------------------------------
+Val V GTT      31 | Ala A GCT      62 | Asp D GAT       9 | Gly G GGT      36
+      GTC      36 |       GCC      42 |       GAC       6 |       GGC      29
+      GTA       1 |       GCA      31 | Glu E GAA      21 |       GGA      11
+      GTG       7 |       GCG      16 |       GAG       5 |       GGG      10
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.24796    C:0.13571    A:0.25612    G:0.36020
+position  2:    T:0.32551    C:0.32143    A:0.16531    G:0.18776
+position  3:    T:0.30204    C:0.31633    A:0.16429    G:0.21735
+Average         T:0.29184    C:0.25782    A:0.19524    G:0.25510
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.02448980  0.02244898  0.02244898  0.03163265
+  0.02244898  0.02959184  0.00102041  0.00816327
+  0.00612245  0.02244898  0.00000000  0.00000000
+  0.00918367  0.01938776  0.00000000  0.02857143
+  0.00816327  0.00714286  0.00408163  0.02959184
+  0.01632653  0.01020408  0.00714286  0.00612245
+  0.01122449  0.00918367  0.01632653  0.00612245
+  0.00408163  0.00000000  0.00000000  0.00000000
+  0.02244898  0.03673469  0.00204082  0.03775510
+  0.02040816  0.01938776  0.01836735  0.00816327
+  0.01428571  0.01326531  0.01020408  0.01428571
+  0.00204082  0.01122449  0.01734694  0.00816327
+  0.03163265  0.03673469  0.00102041  0.00714286
+  0.06326531  0.04285714  0.03163265  0.01632653
+  0.00918367  0.00612245  0.02142857  0.00510204
+  0.03673469  0.02959184  0.01122449  0.01020408
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+SGD_Scer_AQY1/YPR192W
+MIT_Sbay_c606_26152  0.0524 (0.0764 1.4589)
+MIT_Smik_c259_22968  0.0326 (0.0193 0.5925) 0.0713 (0.0800 1.1223)
+MIT_Spar_c565_22711  0.0802 (0.0287 0.3577) 0.0599 (0.0754 1.2588) 0.0352 (0.0184 0.5211)
+
+
+TREE #  1:  ((4, 1), 3, 2);   MP score: 221
+lnL(ntime:  5  np:  7):  -1787.335891      +0.000000
+   5..6     6..4     6..1     5..3     5..2  
+ 0.109099 0.154329 0.219170 0.190503 1.339776 3.727921 0.068584
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   2.01288
+
+((4: 0.15433, 1: 0.21917): 0.10910, 3: 0.19050, 2: 1.33978);
+
+((MIT_Spar_c565_22711: 0.15433, SGD_Scer_AQY1/YPR192W: 0.21917): 0.10910, MIT_Smik_c259_22968: 0.19050, MIT_Sbay_c606_26152: 1.33978);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.72792
+
+omega (dN/dS) =  0.06858
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   5..6      0.109   488.7   246.3  0.0686  0.0066  0.0955   3.2  23.5
+   6..4      0.154   488.7   246.3  0.0686  0.0093  0.1351   4.5  33.3
+   6..1      0.219   488.7   246.3  0.0686  0.0132  0.1919   6.4  47.3
+   5..3      0.191   488.7   246.3  0.0686  0.0114  0.1668   5.6  41.1
+   5..2      1.340   488.7   246.3  0.0686  0.0805  1.1731  39.3 288.9
+
+tree length for dN:       0.1209
+tree length for dS:       1.7624
+
+
+Time used:  0:01

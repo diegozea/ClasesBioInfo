@@ -1,0 +1,55 @@
+
+Neighbor-Joining/UPGMA method version 3.69.650
+
+
+  10 Populations
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +ASPFN08740
+    +---2 
+    !   +ASPOR04405
+  +-8 
+  ! !      +PENCW11731
+  ! ! +----1 
+  ! +-3    +PENCH04510
+  !   ! 
+  !   +----------------------------ASHGO01704
+  ! 
+  !   +---ASPAC03769
+  ! +-5 
+  ! ! ! +NEOFI00364
+  7-6 +-4 
+  ! !   +ASPFU06544
+  ! ! 
+  ! +--ASPCL04100
+  ! 
+  +---------------------------------------------HORVD05781
+
+
+remember: (although rooted by outgroup) this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01231
+   8             2            0.12175
+   2          ASPFN08740      0.00000
+   2          ASPOR04405      0.00000
+   8             3            0.06103
+   3             1            0.16132
+   1          PENCW11731     -0.00034
+   1          PENCH04510      0.00551
+   3          ASHGO01704      0.94923
+   7             6            0.06508
+   6             5            0.01974
+   5          ASPAC03769      0.12078
+   5             4            0.05249
+   4          NEOFI00364      0.00464
+   4          ASPFU06544      0.01361
+   6          ASPCL04100      0.10831
+   7          HORVD05781      1.52585
+
+
